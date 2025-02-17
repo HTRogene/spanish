@@ -1,30 +1,34 @@
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: HTRogène Medieval Latin Manuscripts
-url: https://github.com/HTRogene/latin
+title: HTRogène Medieval Spanish Manuscripts
+url: https://github.com/HTRogene/spanish
 authors:
-  - name: François
+  - name: Desnoues
+    surname: Kelían
     roles:
-    - transcriber
-    surname: Hermand
-  - name: Marceau
+      - transcriber
+  - name: Avaro
+    surname: Claire
     roles:
-    - transcriber
-    surname: Brootcorne
-  - name: Malamatenia
-    surname: Vlachou-Efstathiou
-    orcid: 0000-0002-9397-356X
+      - transcriber
+  - name: Bordier
+    surname: Julie
+    orcid: 0009-0004-0769-8875
     roles:
       - project-manager
       - quality-control
-  - name: Federico
-    orcid: 0000-0002-7810-7735
+      - transcriber
+  - name: Gille Levenson
+    surname: Matthias
+    orcid: 0000-0001-9488-5986
     roles:
-    - project-manager
-    surname: Boschetti
-  - name: Franz
+      - project-manager
+      - quality-control
+  - name: Brisville-Fertin
+    surname: Olivier
+    orcid: 0000-0001-7809-3890
     roles:
-    - project-manager
-    surname: Fischer
+      - project-manager
+      - quality-control
   - name: Alix
     orcid: 0000-0002-0136-4434
     roles:
@@ -42,14 +46,16 @@ description: >-
   generic models for automatic transcription of medieval and early modern
   manuscripts.  
 
-  This repository focuses on the Medieval Latin corpus, providing ground-truth
+  This repository focuses on the Medieval Spanish corpus, providing ground-truth
   data for Handwritten Text Recognition (HTR) and layout segmentation.  
 
   The dataset is designed to support the creation of robust and reliable HTR
-  models for Latin manuscripts.
+  models for Spanish manuscripts.
 project-name: Biblissima+ HTRogène
 language:
-  - lat
+  - spa
+  - osp
+  - cat
 production-software: eScriptorium + Kraken
 automatically-aligned: false
 script:
