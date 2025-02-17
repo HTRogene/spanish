@@ -1,0 +1,72 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: HTRogène Medieval Latin Manuscripts
+url: https://github.com/HTRogene/latin
+authors:
+  - name: François
+    roles:
+    - transcriber
+    surname: Hermand
+  - name: Marceau
+    roles:
+    - transcriber
+    surname: Brootcorne
+  - name: Malamatenia
+    surname: Vlachou-Efstathiou
+    orcid: 0000-0002-9397-356X
+    roles:
+      - project-manager
+      - quality-control
+  - name: Federico
+    orcid: 0000-0002-7810-7735
+    roles:
+    - project-manager
+    surname: Boschetti
+  - name: Franz
+    roles:
+    - project-manager
+    surname: Fischer
+  - name: Alix
+    orcid: 0000-0002-0136-4434
+    roles:
+    - project-manager
+    surname: Chagué
+  - name: Thibault
+    surname: Clérice
+    orcid: 0000-0003-1852-9204
+    roles:
+      - project-manager
+      - quality-control
+institutions: []
+description: >-
+  HTRogène is an exploratory project funded by Biblissima+, aiming to develop
+  generic models for automatic transcription of medieval and early modern
+  manuscripts.  
+
+  This repository focuses on the Medieval Latin corpus, providing ground-truth
+  data for Handwritten Text Recognition (HTR) and layout segmentation.  
+
+  The dataset is designed to support the creation of robust and reliable HTR
+  models for Latin manuscripts.
+project-name: Biblissima+ HTRogène
+language:
+  - lat
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '601'
+  notAfter: '1600'
+hands:
+  count: 1-per-folder
+  precision: estimated
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 9755
+citation-file-link: https://github.com/HTRogene/italian/blob/main/CITATION.CFF
+
