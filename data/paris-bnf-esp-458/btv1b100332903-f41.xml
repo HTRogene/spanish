@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>btv1b100332903-f41.jpg</fileName>
+      <fileIdentifier>mets//BnF-Département-des-Manuscrits-Espagnol-458.zip/btv1b100332903-f41.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT13986" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13987" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT5886" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4292"
+          HEIGHT="3000"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4292"
+                  HEIGHT="3000">
+        
+        <TextBlock HPOS="535"
+                   VPOS="420"
+                   WIDTH="1509"
+                   HEIGHT="1943"
+                   ID="block_0"
+                   TAGREFS="BT13986">
+          <Shape><Polygon POINTS="2044 420 2044 2363 535 2363 535 877 753 877 753 584 535 584 535 420"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT5886"
+                    BASELINE="570 493 2035 518" 
+                    HPOS="568.0"
+                    VPOS="418.0"
+                    WIDTH="1467.0"
+                    HEIGHT="122.0">
+            <Shape><Polygon POINTS="570 493 568 505 631 516 633 516 635 516 668 508 716 518 718 518 841 511 876 521 878 521 880 521 1243 520 1353 530 1355 530 1543 523 1570 533 1571 533 1573 533 1643 525 1936 540 1938 540 2033 530 2035 518 2035 460 1951 460 1946 456 1926 443 1925 443 1923 443 1921 443 1830 451 1781 436 1780 436 1778 436 1776 436 1726 450 1720 451 1706 450 1641 438 1640 438 1638 438 1618 446 1606 451 1590 446 1551 435 1550 435 1548 435 1546 435 1526 445 1516 451 1455 451 1415 441 1353 428 1300 428 1298 428 1296 428 1295 428 1281 438 1271 443 1253 436 1225 426 1223 426 1158 425 1156 425 1155 425 1138 433 1118 445 1063 445 1050 435 1048 435 1046 435 1045 435 828 438 785 423 770 418 768 418 766 418 765 418 763 418 756 423 741 431 723 421 715 418 713 418 570 418 570 493"/></Shape>
+	    <String CONTENT="la qͣul el pueblo uulgar nonbra de aq̃l galliã Gandalus es rio delos guãdalos Guta"
+                    HPOS="568.0"
+                    VPOS="418.0"
+                    WIDTH="1467.0"
+                    HEIGHT="122.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT5886"
+                    BASELINE="541 545 2013 563" 
+                    HPOS="540.0"
+                    VPOS="505.0"
+                    WIDTH="1473.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="541 545 540 555 943 570 1865 571 1905 581 1906 581 2011 573 2013 563 2013 533 1876 521 1875 521 1765 528 1743 528 1703 526 1545 516 1543 516 1498 523 1478 525 1468 521 1448 515 1446 515 1445 515 1443 515 1441 515 1433 521 1428 525 1343 525 1290 518 1233 513 1231 513 1230 513 1220 516 1206 521 1165 516 1130 511 1128 511 1108 515 1083 520 1066 515 1058 511 1056 511 1055 511 1053 511 1043 513 1025 518 901 511 846 508 845 508 843 508 838 510 821 516 541 505 541 545"/></Shape>
+	    <String CONTENT="los es Rio de penchin bastrjne/ la qͣles comͣrcaua alos datos/ el qͣl semete enla mar"
+                    HPOS="540.0"
+                    VPOS="505.0"
+                    WIDTH="1473.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT5886"
+                    BASELINE="755 636 2021 655" 
+                    HPOS="753.0"
+                    VPOS="573.0"
+                    WIDTH="1268.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="755 636 753 646 1101 661 1103 661 1416 658 1445 666 1446 666 1448 666 2020 665 2021 655 2021 618 2010 611 2008 611 2006 611 2005 611 2003 611 1975 620 1970 621 1963 620 1945 611 1943 611 1941 611 1940 611 1938 611 1928 618 1923 621 1916 618 1908 611 1906 611 1905 611 1903 611 1901 611 1890 616 1883 620 1753 620 1735 610 1728 608 1726 608 1725 608 1713 610 1680 616 1656 608 1645 603 1643 603 1641 603 1640 603 1638 603 1635 606 1621 616 1570 616 1536 603 1528 600 1526 600 1525 600 1523 600 1515 601 1473 615 1448 600 1445 596 1443 596 1441 596 1440 596 1438 596 1436 596 1433 598 1410 613 1383 596 1381 595 1380 595 1378 595 1376 595 1375 595 1368 596 1315 611 1213 603 1211 603 1156 610 1111 586 1095 578 1093 578 755 573 755 636"/></Shape>
+	    <String CONTENT="abor es Rio çerca del qͣl jacob de noche lucho coñl angel ⁊ corre entri philadel"
+                    HPOS="753.0"
+                    VPOS="573.0"
+                    WIDTH="1268.0"
+                    HEIGHT="93.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT5886"
+                    BASELINE="758 688 2036 700" 
+                    HPOS="756.0"
+                    VPOS="650.0"
+                    WIDTH="1280.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="758 688 756 700 763 706 763 708 765 708 766 708 768 708 1118 703 1306 713 1308 713 2035 710 2036 700 2035 668 1863 668 1861 665 1853 658 1853 656 1851 656 1850 656 1848 656 1746 663 1721 665 1703 663 1640 655 1638 655 1636 655 1635 655 1625 661 1621 665 1501 665 1485 660 1451 653 1450 653 1380 658 1341 661 1330 658 1308 651 1306 651 1305 651 1203 656 1130 660 1101 655 1071 650 1070 650 1068 650 1055 655 1045 658 758 651 758 688"/></Shape>
+	    <String CONTENT="fiam ⁊ garasam E andando Resçibesse del rjo jordan  Iatrus es rjo çercano"
+                    HPOS="756.0"
+                    VPOS="650.0"
+                    WIDTH="1280.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT5886"
+                    BASELINE="756 733 2021 748" 
+                    HPOS="755.0"
+                    VPOS="701.0"
+                    WIDTH="1266.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="756 733 755 741 796 751 798 751 895 745 906 753 908 753 910 753 911 755 1715 755 1738 763 1740 763 1741 763 2020 756 2021 748 2020 716 1776 715 1771 713 1741 705 1740 705 1738 705 1623 711 1601 711 1595 710 1565 703 1563 703 1561 703 1478 710 1461 710 1455 708 1425 701 1423 701 756 701 756 733"/></Shape>
+	    <String CONTENT="a judia ⁊ corre eñl Rio llamado exũ. Ca por m̃adamjẽto de ponpeo el grãde"
+                    HPOS="755.0"
+                    VPOS="701.0"
+                    WIDTH="1266.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT5886"
+                    BASELINE="756 781 2016 798" 
+                    HPOS="755.0"
+                    VPOS="736.0"
+                    WIDTH="1261.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="756 781 755 793 2013 811 2016 798 2016 765 1893 763 1891 761 1868 751 1866 751 1865 751 1783 758 1763 760 1731 758 1641 750 1640 750 1568 753 1523 756 1516 753 1510 746 1508 746 1506 746 1505 746 1478 751 1461 755 1415 750 1355 745 1353 745 1351 745 1350 745 1343 748 1336 753 1318 748 1303 745 1301 745 1300 745 1215 746 1020 750 993 741 988 740 986 740 985 740 973 740 915 748 885 738 883 738 881 738 880 738 878 738 876 738 855 745 756 736 756 781"/></Shape>
+	    <String CONTENT="fue buscado q̃ auja de uenir en bactros en siete dias de india al Rio jatro"
+                    HPOS="755.0"
+                    VPOS="736.0"
+                    WIDTH="1261.0"
+                    HEIGHT="75.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT5886"
+                    BASELINE="755 830 2035 845" 
+                    HPOS="753.0"
+                    VPOS="785.0"
+                    WIDTH="1282.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="1828 796 1826 796 1825 796 1800 803 1791 805 1633 805 1625 800 1610 793 1608 793 1606 793 1605 793 1603 793 1593 800 1590 801 1570 798 1531 793 1530 793 1496 798 1468 801 1450 796 1433 791 1431 791 1430 791 1390 795 1348 800 1336 795 1325 790 1323 790 1321 790 1265 793 1190 798 1158 791 1141 788 1140 788 1116 790 1066 796 981 788 958 786 956 786 946 788 898 795 876 786 871 785 870 785 755 785 755 830 753 843 1733 846 1760 850 1893 858 1895 858 2033 850 2035 845 2035 808 1851 806 1848 803 1830 796 1828 796"/></Shape>
+	    <String CONTENT="Iader es Rio çerca salonas el qͣl mezclandose enla mar por uẽtura dio nõ"
+                    HPOS="753.0"
+                    VPOS="785.0"
+                    WIDTH="1282.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT5886"
+                    BASELINE="655 870 2025 886" 
+                    HPOS="655.0"
+                    VPOS="831.0"
+                    WIDTH="1370.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1718 841 1716 841 1646 848 1631 850 1628 848 1616 840 1606 840 1523 846 1495 848 1486 846 1470 838 1458 838 1385 845 1346 846 1311 843 1260 836 1258 836 1160 840 1066 843 1045 838 1028 833 1026 833 1025 833 983 836 928 841 913 835 908 833 905 833 893 831 866 835 816 840 801 833 796 831 795 831 788 831 771 831 755 831 655 831 655 870 655 888 900 885 1095 891 1263 896 1265 896 1291 891 1315 888 1361 893 1423 898 1425 898 1665 893 1736 893 1775 895 1946 903 1948 903 2023 895 2025 886 2025 856 1826 845 1825 845 1770 851 1760 851 1755 851 1720 841 1718 841"/></Shape>
+	    <String CONTENT="bre al castillo llamado jadre Ianuas es Rio enla Region llamada armjxia"
+                    HPOS="655.0"
+                    VPOS="831.0"
+                    WIDTH="1370.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT5886"
+                    BASELINE="616 915 2020 933" 
+                    HPOS="615.0"
+                    VPOS="873.0"
+                    WIDTH="1405.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="616 915 615 930 2016 941 2020 933 2020 900 1976 890 1975 890 1973 890 1791 896 1766 896 1763 895 1751 886 1750 886 1748 886 1746 886 1660 893 1638 895 1618 893 1563 885 1561 885 1381 888 1253 890 1100 888 1091 881 1086 878 1085 878 1083 878 1081 878 1058 881 1025 886 1008 880 998 876 996 876 995 876 968 880 925 885 908 878 903 876 901 876 900 876 881 878 823 883 616 873 616 915"/></Shape>
+	    <String CONTENT="Iardanus es rjo dela ysla de creta ⁊ çerca la çibdat llamada phias enlas Ribe"
+                    HPOS="615.0"
+                    VPOS="873.0"
+                    WIDTH="1405.0"
+                    HEIGHT="68.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT5886"
+                    BASELINE="568 961 2030 973" 
+                    HPOS="566.0"
+                    VPOS="925.0"
+                    WIDTH="1464.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="2018 933 2001 933 1985 933 1981 933 1848 938 1795 931 1785 931 1768 931 1751 930 1610 936 1353 930 1193 925 1191 925 568 926 568 961 566 970 713 980 715 980 966 975 978 975 980 975 1026 983 1028 983 1160 976 1166 976 1168 976 1193 985 1195 985 1196 985 2028 983 2030 973 2026 931 2018 931 2018 933"/></Shape>
+	    <String CONTENT="ras del qual aun morã los çidoñs IaRotus es rjo de india ⁊ sale delos lugares os"
+                    HPOS="566.0"
+                    VPOS="925.0"
+                    WIDTH="1464.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT5886"
+                    BASELINE="548 1006 2025 1021" 
+                    HPOS="546.0"
+                    VPOS="965.0"
+                    WIDTH="1479.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="548 1006 546 1015 2021 1030 2025 1021 2025 990 1856 976 1855 976 1695 985 1531 985 1505 973 1503 973 1501 973 1500 973 1473 981 1308 971 1306 971 1210 980 1181 970 1180 970 1178 970 1100 978 1076 970 1075 970 1073 970 875 976 845 966 843 966 841 966 760 975 681 965 680 965 548 973 548 1006"/></Shape>
+	    <String CONTENT="curos/ delas mõtañas delos arbołs non usados ⁊ es abondante de pauons̃ siluestres"
+                    HPOS="546.0"
+                    VPOS="965.0"
+                    WIDTH="1479.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT5886"
+                    BASELINE="573 1053 2013 1065" 
+                    HPOS="573.0"
+                    VPOS="1008.0"
+                    WIDTH="1440.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1656 1018 1645 1018 1628 1021 1613 1025 1608 1021 1603 1018 1590 1018 1573 1018 1556 1018 1540 1018 1535 1016 1496 1020 1421 1023 1405 1018 1400 1016 1390 1016 1378 1016 1376 1018 1370 1021 1353 1018 1341 1015 1340 1015 1326 1015 1323 1016 1313 1023 1203 1023 1193 1015 1191 1013 1190 1013 1178 1013 1173 1015 1158 1020 1056 1013 1026 1011 1025 1011 1018 1013 985 1020 955 1011 940 1011 926 1011 850 1018 796 1010 790 1010 773 1010 756 1010 741 1010 668 1016 588 1008 573 1008 573 1053 573 1068 981 1063 1146 1070 1280 1075 1281 1075 1325 1070 1356 1066 1405 1070 1490 1076 1491 1076 1538 1070 1555 1068 1566 1070 1601 1078 1811 1080 1813 1080 2011 1070 2013 1065 2011 1028 1681 1026 1673 1021 1661 1018 1656 1018"/></Shape>
+	    <String CONTENT="Ilerus es Rio muy famoso de españa del qual essa mesma espana fue llamada hiber"
+                    HPOS="573.0"
+                    VPOS="1008.0"
+                    WIDTH="1440.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT5886"
+                    BASELINE="563 1091 2013 1111" 
+                    HPOS="561.0"
+                    VPOS="1050.0"
+                    WIDTH="1452.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="1046 1058 1030 1058 1013 1058 996 1058 991 1056 978 1058 818 1061 805 1056 796 1056 780 1056 763 1055 746 1055 730 1055 713 1055 700 1055 583 1058 565 1050 563 1091 561 1103 570 1110 571 1110 573 1110 685 1111 686 1111 688 1111 710 1105 1543 1123 1545 1123 1768 1118 1791 1126 1793 1126 1795 1126 2011 1120 2013 1111 2011 1078 1733 1066 1731 1066 1688 1071 1668 1073 1653 1070 1626 1065 1625 1065 1358 1065 1110 1065 1068 1060 1056 1058 1046 1058"/></Shape>
+	    <String CONTENT="çia/ ⁊ este segun algunos dizen nasçe çerca los uactanos ⁊ segun otros çerca los cã"
+                    HPOS="561.0"
+                    VPOS="1050.0"
+                    WIDTH="1452.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT5886"
+                    BASELINE="563 1141 2025 1158" 
+                    HPOS="561.0"
+                    VPOS="1096.0"
+                    WIDTH="1464.0"
+                    HEIGHT="77.0">
+            <Shape><Polygon POINTS="563 1141 561 1150 2021 1173 2025 1158 2025 1123 2005 1113 2003 1113 2001 1113 1923 1121 1895 1113 1893 1113 1891 1113 1803 1120 1801 1120 1790 1111 1788 1111 1786 1111 1785 1111 1783 1111 1761 1120 1760 1120 1745 1111 1743 1111 1741 1111 1645 1116 1618 1118 1610 1116 1583 1108 1581 1108 1580 1108 1578 1108 1558 1115 1553 1116 1545 1115 1506 1108 1505 1108 1465 1113 1443 1116 1436 1113 1423 1106 1421 1106 1420 1106 1353 1111 1305 1115 1181 1108 1090 1103 1088 1103 1020 1105 856 1110 828 1101 823 1100 821 1100 820 1100 791 1100 631 1106 563 1096 563 1141"/></Shape>
+	    <String CONTENT="tabros/ ⁊ comõ trayga naos Rae dela parte mas baxa la çibdat muy abondosa de aq̃l"
+                    HPOS="561.0"
+                    VPOS="1096.0"
+                    WIDTH="1464.0"
+                    HEIGHT="77.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT5886"
+                    BASELINE="560 1186 2031 1201" 
+                    HPOS="558.0"
+                    VPOS="1153.0"
+                    WIDTH="1473.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="560 1186 558 1196 2028 1211 2031 1201 2031 1168 560 1153 560 1186"/></Shape>
+	    <String CONTENT="la region llamada jula E despũs de yuso dela çibdat de tortosa entra enla mar llamͣ"
+                    HPOS="558.0"
+                    VPOS="1153.0"
+                    WIDTH="1473.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT5886"
+                    BASELINE="561 1233 2028 1250" 
+                    HPOS="560.0"
+                    VPOS="1196.0"
+                    WIDTH="1468.0"
+                    HEIGHT="64.0">
+            <Shape><Polygon POINTS="561 1233 560 1241 2025 1260 2028 1250 2026 1215 561 1196 561 1233"/></Shape>
+	    <String CONTENT="do balearjcũ Iberus es Rio ⁊ por los traymientos delos moscos corre eñl Rio llamͣdo"
+                    HPOS="560.0"
+                    VPOS="1196.0"
+                    WIDTH="1468.0"
+                    HEIGHT="64.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT5886"
+                    BASELINE="558 1278 2020 1296" 
+                    HPOS="556.0"
+                    VPOS="1235.0"
+                    WIDTH="1464.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="556 1288 575 1296 576 1296 578 1296 791 1291 1090 1303 1091 1305 1861 1305 1886 1313 1888 1313 1890 1313 2018 1305 2020 1296 2020 1263 1716 1250 1715 1250 1556 1253 1490 1255 1483 1253 1470 1246 1468 1246 1466 1246 1331 1250 1233 1251 1228 1248 1223 1243 1221 1243 1220 1243 1218 1243 980 1243 575 1243 561 1235 558 1278 556 1288"/></Shape>
+	    <String CONTENT="cyrũ çerca los sçitas/ o hyrcanos Idaspes es señalado Rio por grͣndeza ⁊ por q̃ tiene"
+                    HPOS="556.0"
+                    VPOS="1235.0"
+                    WIDTH="1464.0"
+                    HEIGHT="78.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT5886"
+                    BASELINE="560 1325 2028 1341" 
+                    HPOS="558.0"
+                    VPOS="1283.0"
+                    WIDTH="1470.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="560 1325 558 1333 576 1343 578 1343 580 1343 845 1338 1001 1348 1003 1348 1293 1343 1595 1355 1596 1355 1873 1350 1906 1358 1908 1358 1910 1358 2026 1350 2028 1341 2026 1308 560 1283 560 1325"/></Shape>
+	    <String CONTENT="arenas de oro ⁊ trayga piedras preçiosas ⁊ uase por parchiã ⁊ sale en ancho en jndia"
+                    HPOS="558.0"
+                    VPOS="1283.0"
+                    WIDTH="1470.0"
+                    HEIGHT="75.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT5886"
+                    BASELINE="560 1370 2026 1385" 
+                    HPOS="558.0"
+                    VPOS="1330.0"
+                    WIDTH="1468.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="560 1370 558 1381 2023 1396 2026 1385 2025 1350 560 1330 560 1370"/></Shape>
+	    <String CONTENT="⁊ passando por el pielago fondo faze yslas espessas ⁊ trahe grandes piedras de yuso"
+                    HPOS="558.0"
+                    VPOS="1330.0"
+                    WIDTH="1468.0"
+                    HEIGHT="66.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT5886"
+                    BASELINE="556 1416 2013 1431" 
+                    HPOS="555.0"
+                    VPOS="1380.0"
+                    WIDTH="1458.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="556 1416 555 1430 1211 1441 1213 1441 1295 1436 1315 1435 1328 1436 1378 1443 1380 1443 1483 1436 1503 1436 1513 1436 1561 1445 1563 1445 1623 1438 1626 1438 1631 1438 1690 1446 1691 1446 1781 1440 1783 1440 1865 1448 1866 1448 2011 1440 2013 1431 2011 1398 556 1380 556 1416"/></Shape>
+	    <String CONTENT="solas ondas ⁊ ala postre mezclasse qͣutro Rios resçebidos al Rio jndo en la region"
+                    HPOS="555.0"
+                    VPOS="1380.0"
+                    WIDTH="1458.0"
+                    HEIGHT="68.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT5886"
+                    BASELINE="558 1465 2016 1478" 
+                    HPOS="556.0"
+                    VPOS="1423.0"
+                    WIDTH="1460.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="558 1465 556 1471 741 1483 743 1483 923 1476 1833 1493 1835 1493 2015 1485 2016 1478 2015 1443 558 1423 558 1465"/></Shape>
+	    <String CONTENT="llamada jnjo çerca la torre delos soboros/ los quales atestiguã ellos au̾ seydo otro"
+                    HPOS="556.0"
+                    VPOS="1423.0"
+                    WIDTH="1460.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT5886"
+                    BASELINE="556 1510 2018 1526" 
+                    HPOS="555.0"
+                    VPOS="1471.0"
+                    WIDTH="1463.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="1138 1471 1136 1471 556 1473 556 1510 555 1516 2015 1533 2018 1526 2016 1491 1958 1481 1956 1481 1890 1490 1881 1490 1880 1490 1870 1480 1868 1480 1866 1480 1865 1480 1731 1486 1710 1478 1708 1478 1706 1478 1601 1486 1588 1486 1586 1486 1575 1476 1573 1476 1571 1476 1570 1476 1495 1485 1488 1485 1483 1485 1433 1475 1431 1475 1311 1483 1295 1483 1293 1483 1285 1475 1283 1475 1281 1475 1280 1475 1188 1481 1175 1481 1171 1481 1140 1471 1138 1471"/></Shape>
+	    <String CONTENT="tienpo enla hueste de hr̃cols̃ pieles en lugar de uestiduras ⁊ trayan clauas que son"
+                    HPOS="555.0"
+                    VPOS="1471.0"
+                    WIDTH="1463.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT5886"
+                    BASELINE="556 1558 2020 1571" 
+                    HPOS="555.0"
+                    VPOS="1515.0"
+                    WIDTH="1465.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="556 1558 555 1566 605 1576 606 1578 1643 1578 1838 1588 1840 1588 2018 1580 2020 1571 2018 1535 556 1515 556 1558"/></Shape>
+	    <String CONTENT="bastoñs ferradas por armas/ ⁊ es nõbrado segun plaze a alguõs de idaspes Rey muy"
+                    HPOS="555.0"
+                    VPOS="1515.0"
+                    WIDTH="1465.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT5886"
+                    BASELINE="560 1603 2020 1620" 
+                    HPOS="558.0"
+                    VPOS="1570.0"
+                    WIDTH="1462.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="560 1603 558 1613 998 1628 1000 1628 1725 1628 1873 1638 1875 1638 2018 1630 2020 1620 2018 1586 560 1570 560 1603"/></Shape>
+	    <String CONTENT="antiguo delos medos Idros es rjo de çiliçia ⁊ es çercano ala çibdat /de tarso/ ⁊ por ende"
+                    HPOS="558.0"
+                    VPOS="1570.0"
+                    WIDTH="1462.0"
+                    HEIGHT="68.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT5886"
+                    BASELINE="561 1658 2011 1670" 
+                    HPOS="560.0"
+                    VPOS="1621.0"
+                    WIDTH="1451.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="561 1658 560 1673 2008 1683 2011 1670 2010 1635 561 1621 561 1658"/></Shape>
+	    <String CONTENT="se dize idros por que sea retorçido en forma de jdro q̃ es un animal Iectuns es"
+                    HPOS="560.0"
+                    VPOS="1621.0"
+                    WIDTH="1451.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT5886"
+                    BASELINE="563 1708 2023 1715" 
+                    HPOS="561.0"
+                    VPOS="1670.0"
+                    WIDTH="1462.0"
+                    HEIGHT="51.0">
+            <Shape><Polygon POINTS="1910 1670 563 1670 563 1708 561 1716 2020 1721 2023 1715 2023 1680 1911 1670 1910 1670"/></Shape>
+	    <String CONTENT="Rio eñl quͣl se terriã muy buenos peçes ⁊ entre los otros es uno el qͣl se llama lupus"
+                    HPOS="561.0"
+                    VPOS="1670.0"
+                    WIDTH="1462.0"
+                    HEIGHT="51.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26"
+                    TAGREFS="LT5886"
+                    BASELINE="565 1753 2016 1766" 
+                    HPOS="563.0"
+                    VPOS="1710.0"
+                    WIDTH="1453.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="901 1710 803 1718 785 1718 778 1716 751 1710 748 1710 736 1710 720 1716 716 1716 650 1710 648 1710 631 1710 618 1710 565 1715 565 1753 563 1763 576 1771 578 1771 580 1771 581 1771 885 1766 923 1766 953 1768 1110 1776 1111 1776 1210 1771 1251 1770 1265 1773 1291 1778 1293 1778 1391 1775 1468 1771 1478 1775 1488 1780 1490 1780 1491 1780 1541 1776 1596 1773 2013 1783 2016 1766 2015 1726 1473 1726 1456 1721 1423 1715 1421 1715 1340 1721 1308 1723 1303 1721 1293 1713 1291 1713 1290 1713 1288 1713 1215 1720 1195 1721 1181 1720 1138 1713 1136 1713 1135 1713 1116 1720 1108 1721 1060 1720 903 1710 901 1710"/></Shape>
+	    <String CONTENT="el qͣl da al gusto sabor de carne Iera es rjo de asia ⁊ aparta a galaçia ⁊ bithinia I"
+                    HPOS="563.0"
+                    VPOS="1710.0"
+                    WIDTH="1453.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27"
+                    TAGREFS="LT5886"
+                    BASELINE="563 1801 2026 1808" 
+                    HPOS="561.0"
+                    VPOS="1761.0"
+                    WIDTH="1465.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="1908 1766 1861 1775 1858 1776 1788 1776 1786 1775 1776 1766 1775 1766 1773 1766 1771 1766 1573 1773 1566 1773 1555 1765 1553 1765 1551 1765 1550 1765 1548 1765 1516 1773 1515 1773 1513 1773 1465 1765 1463 1765 1461 1765 1443 1773 1441 1775 1296 1775 1286 1771 1231 1763 1230 1763 1075 1771 1060 1771 1058 1771 1046 1763 1045 1763 1043 1763 910 1761 908 1761 906 1761 878 1770 848 1761 846 1761 845 1761 563 1768 563 1801 561 1811 613 1821 615 1821 913 1815 956 1823 958 1823 2025 1818 2026 1808 2026 1776 1910 1766 1908 1766"/></Shape>
+	    <String CONTENT="eros es rio delos colcos Iences Rio segun creo de españa ⁊ metese enla mar llama"
+                    HPOS="561.0"
+                    VPOS="1761.0"
+                    WIDTH="1465.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28"
+                    TAGREFS="LT5886"
+                    BASELINE="556 1851 1321 1851" 
+                    HPOS="556.0"
+                    VPOS="1816.0"
+                    WIDTH="765.0"
+                    HEIGHT="47.0">
+            <Shape><Polygon POINTS="556 1851 556 1863 1321 1863 1321 1851 1321 1820 556 1816 556 1851"/></Shape>
+	    <String CONTENT="do tantabrinico ende moran los uelabros"
+                    HPOS="556.0"
+                    VPOS="1816.0"
+                    WIDTH="765.0"
+                    HEIGHT="47.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29"
+                    TAGREFS="LT5886"
+                    BASELINE="1561 1856 2023 1861" 
+                    HPOS="1560.0"
+                    VPOS="1811.0"
+                    WIDTH="463.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="1561 1856 1560 1866 2020 1873 2023 1861 2023 1826 2000 1815 1998 1815 1956 1815 1955 1815 1953 1815 1951 1815 1940 1825 1938 1825 1935 1825 1823 1813 1785 1813 1783 1813 1781 1813 1780 1813 1780 1815 1771 1823 1770 1823 1635 1823 1633 1820 1625 1813 1625 1811 1623 1811 1621 1811 1620 1811 1618 1811 1601 1820 1596 1821 1561 1820 1561 1856"/></Shape>
+	    <String CONTENT="la luz en contͣrio dela ysla"
+                    HPOS="1560.0"
+                    VPOS="1811.0"
+                    WIDTH="463.0"
+                    HEIGHT="62.0"
+                    WC="0.98625"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30"
+                    TAGREFS="LT5886"
+                    BASELINE="560 1901 1456 1901 2013 1910" 
+                    HPOS="558.0"
+                    VPOS="1855.0"
+                    WIDTH="1455.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="1855 1860 1853 1860 1851 1860 1850 1860 1836 1870 1835 1871 1718 1871 1716 1870 1691 1860 1690 1860 1688 1860 1628 1870 1621 1870 1620 1870 1595 1858 1593 1858 1591 1858 1590 1858 1560 1870 1510 1870 1380 1870 1380 1868 1350 1858 1348 1858 1213 1856 1211 1856 1138 1866 1001 1856 1000 1856 905 1866 903 1866 883 1856 881 1856 880 1856 678 1865 611 1855 610 1855 560 1865 560 1901 558 1910 646 1921 648 1921 650 1921 691 1911 716 1921 718 1921 815 1923 816 1923 1115 1913 1116 1913 1118 1913 1271 1925 1273 1925 1275 1925 1303 1915 1340 1925 1341 1925 1343 1925 1416 1916 1428 1925 1430 1925 1431 1925 1433 1925 1435 1925 1436 1925 1453 1915 1696 1926 1698 1928 1976 1928 1976 1926 1978 1926 2011 1915 2013 1910 2011 1871 1888 1871 1886 1870 1856 1860 1855 1860"/></Shape>
+	    <String CONTENT="de ybernia Ieteris es Rio de mesia/ al qͣl algunos llamã jetrũ Iguabo es rio"
+                    HPOS="558.0"
+                    VPOS="1855.0"
+                    WIDTH="1455.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31"
+                    TAGREFS="LT5886"
+                    BASELINE="561 1943 2020 1958" 
+                    HPOS="560.0"
+                    VPOS="1906.0"
+                    WIDTH="1460.0"
+                    HEIGHT="69.0">
+            <Shape><Polygon POINTS="561 1943 560 1953 573 1961 575 1961 576 1961 723 1963 725 1965 1693 1965 1838 1965 1856 1975 1858 1975 1860 1975 2018 1966 2020 1958 2018 1925 1858 1913 1856 1913 1723 1921 1703 1921 1698 1921 1670 1911 1668 1911 1666 1911 1555 1920 1536 1920 1526 1918 1470 1910 1468 1910 1388 1918 1375 1918 1366 1916 1321 1908 1320 1908 1226 1916 1211 1916 1210 1916 1195 1906 1193 1906 1191 1906 1190 1906 561 1908 561 1943"/></Shape>
+	    <String CONTENT="de bretanja ⁊ metesse enla mar Ilas es Rio de bithinia ⁊ passa çerca dela çibdat lla"
+                    HPOS="560.0"
+                    VPOS="1906.0"
+                    WIDTH="1460.0"
+                    HEIGHT="69.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32"
+                    TAGREFS="LT5886"
+                    BASELINE="561 1990 2013 2006" 
+                    HPOS="560.0"
+                    VPOS="1955.0"
+                    WIDTH="1453.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="561 1990 560 1998 601 2008 603 2008 700 2001 731 2010 733 2010 998 2013 1000 2013 1141 2006 1190 2015 1191 2015 1570 2011 1730 2021 1731 2021 2011 2015 2013 2006 2011 1971 561 1955 561 1990"/></Shape>
+	    <String CONTENT="mada trusiaden/la qͣl crjo el lago ilas çerca del qͣl ilas moço de hercoles fue aRebata"
+                    HPOS="560.0"
+                    VPOS="1955.0"
+                    WIDTH="1453.0"
+                    HEIGHT="66.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33"
+                    TAGREFS="LT5886"
+                    BASELINE="561 2038 2000 2055" 
+                    HPOS="560.0"
+                    VPOS="2001.0"
+                    WIDTH="1440.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="561 2038 560 2046 591 2056 593 2056 595 2056 698 2050 703 2050 705 2050 715 2058 716 2058 718 2058 720 2058 936 2053 990 2053 1028 2055 1136 2063 1138 2063 1303 2060 1421 2058 1433 2063 1445 2066 1446 2066 1448 2066 1501 2063 1568 2060 1996 2071 2000 2055 1998 2015 561 2001 561 2038"/></Shape>
+	    <String CONTENT="do delas aguas Ilerda es Rio de españa del qͣul fue dicho el castillo o la çibdat de lerida"
+                    HPOS="560.0"
+                    VPOS="2001.0"
+                    WIDTH="1440.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34"
+                    TAGREFS="LT5886"
+                    BASELINE="565 2090 2006 2100" 
+                    HPOS="565.0"
+                    VPOS="2043.0"
+                    WIDTH="1441.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1693 2051 1691 2051 1690 2051 1668 2058 1658 2061 1636 2058 1591 2051 1590 2051 1588 2051 1563 2058 1545 2061 1451 2061 1443 2055 1436 2050 1435 2050 1433 2050 1431 2050 1403 2055 1375 2060 1256 2053 1225 2051 1223 2051 1201 2051 1080 2058 1066 2050 1065 2048 1063 2048 1061 2048 1060 2048 1041 2050 975 2056 945 2048 938 2046 936 2046 935 2046 920 2048 850 2056 810 2046 805 2045 803 2045 801 2045 791 2046 736 2055 710 2045 708 2045 706 2045 705 2045 668 2051 565 2043 565 2090 565 2105 1441 2105 1520 2106 1766 2115 1768 2115 2005 2106 2006 2100 2005 2065 1738 2063 1728 2060 1695 2051 1693 2051"/></Shape>
+	    <String CONTENT="Illisson es Rio al qͣl una oliua es çercana por sesenta passos la qͣl si alguno alçare"
+                    HPOS="565.0"
+                    VPOS="2043.0"
+                    WIDTH="1441.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35"
+                    TAGREFS="LT5886"
+                    BASELINE="563 2133 2003 2150" 
+                    HPOS="561.0"
+                    VPOS="2091.0"
+                    WIDTH="1442.0"
+                    HEIGHT="74.0">
+            <Shape><Polygon POINTS="1130 2095 1113 2095 1096 2095 1080 2095 1063 2095 1046 2095 1033 2095 1031 2095 1030 2095 1028 2095 1015 2105 991 2093 990 2093 988 2093 943 2103 941 2105 885 2105 883 2103 868 2093 866 2093 865 2093 863 2093 728 2101 708 2101 705 2101 685 2091 680 2091 663 2091 658 2091 563 2098 563 2133 561 2143 721 2155 723 2155 836 2148 846 2148 848 2148 866 2156 868 2156 870 2156 975 2150 991 2150 1000 2150 1040 2158 2000 2165 2003 2150 2003 2116 1973 2105 1971 2105 1970 2105 1968 2105 1940 2115 1940 2116 1871 2116 1870 2115 1856 2103 1855 2103 1853 2103 1851 2103 1765 2113 1760 2113 1758 2113 1733 2103 1731 2103 1730 2103 1728 2103 1726 2103 1715 2111 1701 2101 1700 2101 1698 2101 1696 2101 1591 2111 1580 2111 1566 2111 1426 2098 1425 2098 1423 2098 1421 2098 1408 2108 1373 2098 1371 2098 1370 2098 1311 2108 1306 2108 1305 2108 1283 2096 1281 2096 1280 2096 1278 2096 1241 2106 1138 2095 1130 2095"/></Shape>
+	    <String CONTENT="consiguira muy grand̃ daño Illisus es rio enla ysla llamada ylubro la qͣl pienso"
+                    HPOS="561.0"
+                    VPOS="2091.0"
+                    WIDTH="1442.0"
+                    HEIGHT="74.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36"
+                    TAGREFS="LT5886"
+                    BASELINE="563 2181 1998 2198" 
+                    HPOS="561.0"
+                    VPOS="2146.0"
+                    WIDTH="1437.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="563 2181 561 2196 1995 2208 1998 2198 1996 2163 563 2146 563 2181"/></Shape>
+	    <String CONTENT="ẜ dela mar egeo Imala es rio delos sabinos çerca la çibdat/ llamada casperiã el qͣl"
+                    HPOS="561.0"
+                    VPOS="2146.0"
+                    WIDTH="1437.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37"
+                    TAGREFS="LT5886"
+                    BASELINE="563 2233 2025 2243" 
+                    HPOS="561.0"
+                    VPOS="2200.0"
+                    WIDTH="1464.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="563 2233 561 2245 575 2255 576 2255 578 2255 580 2255 581 2255 606 2246 666 2255 668 2255 781 2246 806 2256 808 2256 810 2256 993 2248 1051 2258 1053 2258 1188 2250 1253 2258 1255 2258 1740 2253 1780 2263 1781 2263 1783 2263 1785 2263 1811 2255 1976 2263 1978 2263 2023 2253 2025 2243 2023 2210 563 2200 563 2233"/></Shape>
+	    <String CONTENT="se dize jmelle Imaridis es Rio de india çerca del quͣl dizen q̃ morã omes de gran esta"
+                    HPOS="561.0"
+                    VPOS="2200.0"
+                    WIDTH="1464.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38"
+                    TAGREFS="LT5886"
+                    BASELINE="563 2281 1988 2295" 
+                    HPOS="561.0"
+                    VPOS="2248.0"
+                    WIDTH="1427.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="563 2281 561 2290 623 2300 625 2300 966 2296 1063 2296 1073 2298 1098 2305 1100 2305 1101 2305 1196 2300 1248 2298 1280 2301 1323 2306 1325 2306 1385 2303 1448 2300 1985 2311 1988 2295 1986 2256 563 2248 563 2281"/></Shape>
+	    <String CONTENT="tura ⁊ longura/ ⁊ por q̃ usan de peçes biuos son llamados jecifanj delos indios"
+                    HPOS="561.0"
+                    VPOS="2248.0"
+                    WIDTH="1427.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39"
+                    TAGREFS="LT5886"
+                    BASELINE="571 2336 1060 2333 1998 2345" 
+                    HPOS="571.0"
+                    VPOS="2291.0"
+                    WIDTH="1427.0"
+                    HEIGHT="100.0">
+            <Shape><Polygon POINTS="571 2336 573 2375 585 2370 595 2375 610 2381 611 2381 613 2381 615 2381 626 2375 640 2368 683 2375 696 2376 698 2376 700 2376 703 2375 718 2368 731 2375 745 2381 746 2381 815 2383 816 2383 818 2383 820 2383 831 2375 841 2368 868 2375 900 2383 901 2383 903 2385 968 2385 968 2383 970 2383 971 2383 985 2375 996 2368 1058 2375 1143 2385 1145 2385 1188 2375 1206 2371 1215 2375 1233 2383 1235 2383 1236 2383 1275 2375 1295 2371 1315 2375 1341 2380 1343 2380 1373 2375 1398 2371 1428 2371 1433 2375 1451 2388 1453 2388 1455 2388 1623 2390 1625 2390 1840 2376 1900 2391 1901 2391 1903 2391 1996 2375 1998 2345 1996 2306 571 2291 571 2336"/></Shape>
+	    <String CONTENT="Imera es Rio remenbrable de siçilia /⁊ este derramado çerca el medio de la ysla"
+                    HPOS="571.0"
+                    VPOS="2291.0"
+                    WIDTH="1427.0"
+                    HEIGHT="100.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2192"
+                   VPOS="460"
+                   WIDTH="1488"
+                   HEIGHT="1854"
+                   ID="block_1"
+                   TAGREFS="BT13986">
+          <Shape><Polygon POINTS="3680 460 3680 2314 2192 2314 2192 460"/></Shape>
+          
+          
+          <TextLine ID="line_40"
+                    TAGREFS="LT5886"
+                    BASELINE="2221 501 3671 513" 
+                    HPOS="2221.0"
+                    VPOS="430.0"
+                    WIDTH="1450.0"
+                    HEIGHT="103.0">
+            <Shape><Polygon POINTS="2221 501 2221 518 2633 516 2683 520 2750 526 2751 526 2790 521 2810 518 2830 521 2863 526 3465 533 3466 533 3670 523 3671 513 3671 458 3528 458 3525 456 3496 445 3495 445 3493 445 3491 445 3453 455 3451 456 3271 456 3258 453 3201 443 3200 443 3091 451 3063 453 3058 451 3038 435 3036 435 3035 435 3033 435 3031 435 3000 443 2873 436 2871 436 2870 436 2868 436 2851 448 2850 450 2850 448 2833 438 2831 438 2830 438 2828 438 2826 438 2800 448 2768 433 2766 433 2765 433 2715 445 2690 433 2688 433 2686 433 2591 441 2576 431 2575 431 2573 431 2571 431 2425 438 2411 430 2410 430 2408 430 2406 430 2221 441 2221 501"/></Shape>
+	    <String CONTENT="partese en dos uientres de Rios /el uno delos qͣłs de corre enla mar tirreno ⁊ trahe aguas"
+                    HPOS="2221.0"
+                    VPOS="430.0"
+                    WIDTH="1450.0"
+                    HEIGHT="103.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_41"
+                    TAGREFS="LT5886"
+                    BASELINE="2218 548 3663 568" 
+                    HPOS="2216.0"
+                    VPOS="505.0"
+                    WIDTH="1447.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="2218 548 2216 556 3660 576 3663 568 3661 525 3573 531 3560 523 3558 523 3556 523 3555 523 3553 523 3551 523 3540 531 3476 523 3463 521 3461 521 3453 523 3420 530 3340 521 3298 518 3296 518 3215 521 3106 525 3091 520 3081 516 3080 516 3078 516 3076 516 3075 516 3070 520 3061 525 3036 520 3010 515 3008 515 3006 515 2995 520 2983 523 2820 523 2768 518 2668 510 2666 510 2608 516 2593 518 2590 516 2571 508 2570 508 2568 508 2486 516 2473 516 2471 516 2453 506 2451 506 2450 506 2361 515 2356 515 2353 515 2295 505 2293 505 2218 513 2218 548"/></Shape>
+	    <String CONTENT="dulçes ⁊ de buen sabor/ ⁊ el otro tiende ⁊ ua enlibicũ mas es amͣrgo muy mucho/ otͦs"
+                    HPOS="2216.0"
+                    VPOS="505.0"
+                    WIDTH="1447.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_42"
+                    TAGREFS="LT5886"
+                    BASELINE="2216 593 3655 613" 
+                    HPOS="2215.0"
+                    VPOS="560.0"
+                    WIDTH="1440.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="2216 593 2215 601 2236 610 2238 610 2240 610 2326 603 2556 613 2558 613 2688 608 2698 616 2700 616 2701 616 2703 616 2785 610 3056 621 3058 623 3653 623 3655 613 3653 575 2216 560 2216 593"/></Shape>
+	    <String CONTENT="dizen lo contrario que aq̃l que ua al medio dia sea dulçe ⁊ el que ua en aquilon amͣrgo"
+                    HPOS="2215.0"
+                    VPOS="560.0"
+                    WIDTH="1440.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_43"
+                    TAGREFS="LT5886"
+                    BASELINE="2218 638 3638 660" 
+                    HPOS="2216.0"
+                    VPOS="596.0"
+                    WIDTH="1422.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="2218 638 2216 645 2341 658 2343 658 2345 658 2346 658 2361 650 2741 661 2743 661 2745 661 2753 658 2763 655 2775 658 2800 666 2801 666 2803 666 2840 660 2863 656 2878 661 2900 668 2901 668 2903 668 2958 663 2978 661 2981 663 2988 670 2990 670 2991 670 2993 670 3113 666 3196 665 3635 678 3638 660 3636 625 2316 596 2315 596 2218 603 2218 638"/></Shape>
+	    <String CONTENT="⁊ deste fue nonbrado el castillo ymero de siçilia Imjmus es Rio de siçilia çercano al"
+                    HPOS="2216.0"
+                    VPOS="596.0"
+                    WIDTH="1422.0"
+                    HEIGHT="82.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_44"
+                    TAGREFS="LT5886"
+                    BASELINE="2218 686 2616 686 3653 705" 
+                    HPOS="2216.0"
+                    VPOS="641.0"
+                    WIDTH="1437.0"
+                    HEIGHT="84.0">
+            <Shape><Polygon POINTS="2786 648 2785 648 2666 655 2355 641 2353 641 2218 650 2218 686 2216 691 2268 705 2270 705 2318 695 2593 698 2611 708 2613 708 2615 708 2675 700 2676 700 2775 703 2785 713 2786 713 2788 713 2790 713 2848 705 3436 723 3590 725 3591 725 3651 713 3653 705 3651 673 3343 670 3338 668 3300 656 3298 656 3296 656 3295 656 3271 666 3210 666 3146 666 3145 665 3131 655 3130 655 3128 655 3126 655 3086 663 3085 663 2898 663 2896 661 2871 650 2870 650 2868 650 2813 660 2810 660 2808 660 2788 648 2786 648"/></Shape>
+	    <String CONTENT="castillo de camerjna Inatus es rio delos argiuos nõbrado del Rey jnaco Indus es"
+                    HPOS="2216.0"
+                    VPOS="641.0"
+                    WIDTH="1437.0"
+                    HEIGHT="84.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_45"
+                    TAGREFS="LT5886"
+                    BASELINE="2216 731 3648 751" 
+                    HPOS="2215.0"
+                    VPOS="700.0"
+                    WIDTH="1433.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="2516 700 2500 700 2483 700 2466 700 2450 700 2433 700 2416 700 2400 700 2383 700 2366 700 2350 700 2333 700 2316 700 2300 700 2283 700 2266 700 2250 700 2233 700 2216 700 2216 731 2215 740 2338 751 2340 751 2415 745 2695 756 2696 756 3125 755 3170 763 3171 763 3646 760 3648 751 3646 718 2521 700 2516 700"/></Shape>
+	    <String CONTENT="Rio muy grͣnde de india ⁊ nasçe enlas alturas delos montes delos çibatas ala parte de"
+                    HPOS="2215.0"
+                    VPOS="700.0"
+                    WIDTH="1433.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_46"
+                    TAGREFS="LT5886"
+                    BASELINE="2216 781 3661 798" 
+                    HPOS="2215.0"
+                    VPOS="745.0"
+                    WIDTH="1446.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="2216 781 2215 795 3658 808 3661 798 3660 763 2216 745 2216 781"/></Shape>
+	    <String CONTENT="septentrion /. Otros dizen que corre del mõte llamͣdo caco parnaso ⁊ eguala por gran"
+                    HPOS="2215.0"
+                    VPOS="745.0"
+                    WIDTH="1446.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_47"
+                    TAGREFS="LT5886"
+                    BASELINE="2218 825 3656 843" 
+                    HPOS="2216.0"
+                    VPOS="790.0"
+                    WIDTH="1440.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="2218 825 2216 835 3133 856 3135 856 3655 853 3656 843 3653 801 3528 810 3506 801 3505 801 3503 801 3396 808 3270 798 3236 796 3235 796 3233 796 3225 798 3196 805 3153 798 3133 795 3131 795 3090 798 3008 803 2986 796 2973 793 2971 793 2970 793 2930 796 2871 801 2806 796 2740 790 2738 790 2218 791 2218 825"/></Shape>
+	    <String CONTENT="deza el Rio ganges. E este resçebidos muchos ⁊ muy grͣndes Rios faze unas islas ent ͤ"
+                    HPOS="2216.0"
+                    VPOS="790.0"
+                    WIDTH="1440.0"
+                    HEIGHT="66.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_48"
+                    TAGREFS="LT5886"
+                    BASELINE="2215 871 3663 898" 
+                    HPOS="2213.0"
+                    VPOS="826.0"
+                    WIDTH="1450.0"
+                    HEIGHT="87.0">
+            <Shape><Polygon POINTS="2485 830 2445 838 2436 838 2420 836 2308 826 2306 826 2215 833 2215 871 2213 881 2221 888 2223 888 2225 888 2226 888 2283 881 2303 890 2305 890 2306 890 2373 883 2416 891 2418 891 2695 890 2756 890 2781 891 2858 900 2860 900 2905 895 2923 893 2928 895 2936 901 2938 901 2940 901 3660 913 3663 898 3661 856 3423 856 3393 851 3363 846 3361 846 3360 846 3350 851 3341 855 3321 850 3293 845 3291 845 3290 845 3270 850 3253 853 3033 851 3023 846 3006 840 3005 840 3003 840 2905 845 2851 846 2845 843 2831 836 2830 836 2828 836 2718 841 2673 843 2625 840 2486 830 2485 830"/></Shape>
+	    <String CONTENT="las qͣłs es la ysla llamada pretians̃ muy ancha E otra menor q̃ se nõbra patale. ⁊ des"
+                    HPOS="2213.0"
+                    VPOS="826.0"
+                    WIDTH="1450.0"
+                    HEIGHT="87.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_49"
+                    TAGREFS="LT5886"
+                    BASELINE="2215 918 3650 945" 
+                    HPOS="2213.0"
+                    VPOS="883.0"
+                    WIDTH="1437.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="2215 918 2213 933 3646 961 3650 945 3648 910 2215 883 2215 918"/></Shape>
+	    <String CONTENT="pues partido en dos ujentres de Rios mucho apartados entre sy es resçebido dela mar"
+                    HPOS="2213.0"
+                    VPOS="883.0"
+                    WIDTH="1437.0"
+                    HEIGHT="78.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_50"
+                    TAGREFS="LT5886"
+                    BASELINE="2213 966 3655 991" 
+                    HPOS="2211.0"
+                    VPOS="928.0"
+                    WIDTH="1444.0"
+                    HEIGHT="80.0">
+            <Shape><Polygon POINTS="2213 966 2211 978 3570 1008 3571 1008 3653 1000 3655 991 3653 956 3271 955 3263 950 3246 943 3245 943 3243 943 3198 948 3173 951 3143 948 3076 940 3075 940 3073 940 3050 946 3041 948 2893 948 2886 945 2870 936 2868 936 2866 936 2815 943 2796 945 2770 943 2685 933 2683 933 2508 938 2495 938 2486 938 2396 928 2395 928 2213 933 2213 966"/></Shape>
+	    <String CONTENT="llamado de aq̃l indico de consuno conla prouinçia Inor es Rio de maurjtania ⁊ corre"
+                    HPOS="2211.0"
+                    VPOS="928.0"
+                    WIDTH="1444.0"
+                    HEIGHT="80.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_51"
+                    TAGREFS="LT5886"
+                    BASELINE="2213 1010 3660 1035" 
+                    HPOS="2211.0"
+                    VPOS="976.0"
+                    WIDTH="1449.0"
+                    HEIGHT="79.0">
+            <Shape><Polygon POINTS="2213 1010 2211 1030 3520 1045 3520 1046 3563 1055 3565 1055 3658 1046 3660 1035 3660 996 2213 976 2213 1010"/></Shape>
+	    <String CONTENT="por los desiertos / aun q̃ las señałs delas ujnãs ⁊ las reliqujas delas palmas algunͣs"
+                    HPOS="2211.0"
+                    VPOS="976.0"
+                    WIDTH="1449.0"
+                    HEIGHT="79.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_52"
+                    TAGREFS="LT5886"
+                    BASELINE="2213 1056 3663 1083" 
+                    HPOS="2211.0"
+                    VPOS="1023.0"
+                    WIDTH="1452.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="2213 1056 2211 1068 3660 1095 3663 1083 3663 1050 2213 1023 2213 1056"/></Shape>
+	    <String CONTENT="uezes çerca de aq̃l sean falladas Instigia es Rio delos sarmataros Insurgis es Rio"
+                    HPOS="2211.0"
+                    VPOS="1023.0"
+                    WIDTH="1452.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_53"
+                    TAGREFS="LT5886"
+                    BASELINE="2213 1103 3665 1125" 
+                    HPOS="2211.0"
+                    VPOS="1065.0"
+                    WIDTH="1454.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="2213 1103 2211 1115 3661 1136 3665 1125 3665 1093 2213 1065 2213 1103"/></Shape>
+	    <String CONTENT="de germanja ⁊ es comarcano çerca delas balistunas alos dacos Inbatius es rjo çerca los"
+                    HPOS="2211.0"
+                    VPOS="1065.0"
+                    WIDTH="1454.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_54"
+                    TAGREFS="LT5886"
+                    BASELINE="2213 1146 3656 1166" 
+                    HPOS="2211.0"
+                    VPOS="1116.0"
+                    WIDTH="1445.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="2213 1146 2211 1158 3653 1178 3656 1166 3655 1136 2213 1116 2213 1146"/></Shape>
+	    <String CONTENT="aprutinos nõ luenẽ del rjo truento Iomañs es rjo meridiano ⁊ corre por balibotros en"
+                    HPOS="2211.0"
+                    VPOS="1116.0"
+                    WIDTH="1445.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_55"
+                    TAGREFS="LT5886"
+                    BASELINE="2213 1193 3658 1215" 
+                    HPOS="2211.0"
+                    VPOS="1160.0"
+                    WIDTH="1447.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="2213 1193 2211 1203 3655 1225 3658 1215 3656 1181 3546 1171 3545 1171 3378 1176 3355 1176 3351 1176 3326 1168 3325 1168 3323 1168 3241 1175 3226 1175 3175 1173 2910 1163 2908 1163 2795 1168 2770 1168 2765 1166 2743 1160 2741 1160 2213 1160 2213 1193"/></Shape>
+	    <String CONTENT="tre los castillos llamados methora ⁊ catisbora ⁊ es çercano al mõte llamado malle Ior"
+                    HPOS="2211.0"
+                    VPOS="1160.0"
+                    WIDTH="1447.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_56"
+                    TAGREFS="LT5886"
+                    BASELINE="2208 1238 3668 1253" 
+                    HPOS="2206.0"
+                    VPOS="1201.0"
+                    WIDTH="1462.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="2208 1238 2206 1250 3040 1268 3041 1268 3666 1265 3668 1253 3665 1215 3511 1221 2208 1201 2208 1238"/></Shape>
+	    <String CONTENT="danus es Rio q̃ parte a judea de arabia / mas de su nasçimiento se duda çerca los antiguos"
+                    HPOS="2206.0"
+                    VPOS="1201.0"
+                    WIDTH="1462.0"
+                    HEIGHT="67.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_57"
+                    TAGREFS="LT5886"
+                    BASELINE="2215 1286 3651 1300" 
+                    HPOS="2213.0"
+                    VPOS="1253.0"
+                    WIDTH="1438.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="2215 1286 2213 1298 2223 1305 2225 1305 2226 1305 2228 1305 2918 1303 2931 1311 2933 1311 2935 1311 2936 1311 3055 1305 3111 1313 3113 1313 3650 1308 3651 1300 3648 1258 3536 1265 3295 1256 3241 1255 3240 1255 3221 1256 3156 1261 3126 1255 3111 1253 2215 1253 2215 1286"/></Shape>
+	    <String CONTENT="Ca son algunos que dizen q̃ del mõte libano nasçen dos fuentes entre sy apartados/.el"
+                    HPOS="2213.0"
+                    VPOS="1253.0"
+                    WIDTH="1438.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_58"
+                    TAGREFS="LT5886"
+                    BASELINE="2208 1330 3658 1343" 
+                    HPOS="2206.0"
+                    VPOS="1288.0"
+                    WIDTH="1452.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="2206 1341 3481 1361 3483 1361 3656 1353 3658 1343 3656 1311 2333 1290 2331 1290 2320 1290 2226 1298 2211 1288 2208 1330 2206 1341"/></Shape>
+	    <String CONTENT="vno delos qͣłs se dize/ Ior /⁊ el otro/ dan/ E algunos dizen q̃ de su nasçimiento faze unpi"
+                    HPOS="2206.0"
+                    VPOS="1288.0"
+                    WIDTH="1452.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_59"
+                    TAGREFS="LT5886"
+                    BASELINE="2215 1373 3665 1390" 
+                    HPOS="2213.0"
+                    VPOS="1341.0"
+                    WIDTH="1452.0"
+                    HEIGHT="57.0">
+            <Shape><Polygon POINTS="2215 1373 2213 1381 3661 1398 3665 1390 3665 1358 2215 1341 2215 1373"/></Shape>
+	    <String CONTENT="elago de yuso dela trrͣa ⁊ seua ascondido fasta la llaneza de meldan ⁊ ay sale ⁊ torçiendose"
+                    HPOS="2213.0"
+                    VPOS="1341.0"
+                    WIDTH="1452.0"
+                    HEIGHT="57.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_60"
+                    TAGREFS="LT5886"
+                    BASELINE="2211 1418 3658 1433" 
+                    HPOS="2210.0"
+                    VPOS="1381.0"
+                    WIDTH="1448.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="2211 1418 2210 1426 2258 1436 2260 1436 2531 1431 2706 1441 2708 1441 3130 1438 3175 1446 3176 1446 3656 1441 3658 1433 3656 1400 3508 1400 3506 1398 3496 1390 3495 1390 3493 1390 3491 1390 3386 1396 3371 1396 3366 1396 3338 1388 3336 1388 3335 1388 3201 1395 3176 1395 3173 1393 3156 1386 3155 1386 3153 1386 3040 1393 3016 1393 2966 1391 2743 1383 2741 1383 2703 1390 2695 1390 2691 1388 2676 1381 2675 1381 2673 1381 2211 1383 2211 1418"/></Shape>
+	    <String CONTENT="en galilea delas gentes dela çibdat de çedar/ çerca los baños del espino de yuso delos"
+                    HPOS="2210.0"
+                    VPOS="1381.0"
+                    WIDTH="1448.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_61"
+                    TAGREFS="LT5886"
+                    BASELINE="2211 1463 3656 1480" 
+                    HPOS="2210.0"
+                    VPOS="1428.0"
+                    WIDTH="1446.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="2211 1463 2210 1476 3653 1493 3656 1480 3655 1441 2211 1428 2211 1463"/></Shape>
+	    <String CONTENT="mõtes de gelboe es engendrado al Rio ⁊ ala otra fuente/ior/ que corre ⁊ fazen Rio/ ⁊ ael"
+                    HPOS="2210.0"
+                    VPOS="1428.0"
+                    WIDTH="1446.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_62"
+                    TAGREFS="LT5886"
+                    BASELINE="2211 1510 3640 1520" 
+                    HPOS="2210.0"
+                    VPOS="1473.0"
+                    WIDTH="1430.0"
+                    HEIGHT="55.0">
+            <Shape><Polygon POINTS="2211 1510 2210 1518 3636 1528 3640 1520 3638 1486 2211 1473 2211 1510"/></Shape>
+	    <String CONTENT="de sy conponen nonbr̃. jordan. E otros dizen q̃ de jor fazerse jordan/ mas por q̃ passa çer"
+                    HPOS="2210.0"
+                    VPOS="1473.0"
+                    WIDTH="1430.0"
+                    HEIGHT="55.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_63"
+                    TAGREFS="LT5886"
+                    BASELINE="2211 1550 3653 1565" 
+                    HPOS="2210.0"
+                    VPOS="1516.0"
+                    WIDTH="1443.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="2211 1550 2210 1561 3503 1581 3505 1581 3651 1573 3653 1565 3651 1531 2211 1516 2211 1550"/></Shape>
+	    <String CONTENT="ca/ dan/ otro tienpo çibdat. enla qͣl jeroboan alço elbezerro de oro. la quͣl en latĩ suena"
+                    HPOS="2210.0"
+                    VPOS="1516.0"
+                    WIDTH="1443.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_64"
+                    TAGREFS="LT5886"
+                    BASELINE="2210 1600 2791 1600 3653 1613" 
+                    HPOS="2208.0"
+                    VPOS="1555.0"
+                    WIDTH="1445.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="2210 1600 2208 1605 3650 1626 3653 1613 3651 1576 2868 1561 2866 1561 2746 1568 2721 1568 2718 1566 2701 1560 2700 1560 2698 1560 2585 1566 2565 1566 2540 1566 2398 1556 2396 1556 2261 1563 2248 1563 2246 1563 2238 1555 2236 1555 2235 1555 2233 1555 2231 1555 2210 1561 2210 1600"/></Shape>
+	    <String CONTENT="Rio fue dicho jordan quasi Rio de jor. E algunos dizen q̃ çerca de pancadã çerca dela"
+                    HPOS="2208.0"
+                    VPOS="1555.0"
+                    WIDTH="1445.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_65"
+                    TAGREFS="LT5886"
+                    BASELINE="2208 1640 3645 1653" 
+                    HPOS="2206.0"
+                    VPOS="1605.0"
+                    WIDTH="1439.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="3461 1611 3460 1611 3458 1611 3391 1618 3380 1618 3376 1618 3356 1610 3355 1610 3353 1610 3351 1610 3325 1616 3320 1618 3313 1616 3286 1608 3285 1608 3283 1608 3281 1608 3280 1608 3268 1616 3263 1616 3213 1608 3211 1608 3151 1615 3131 1616 2865 1615 2861 1611 2846 1605 2845 1605 2843 1605 2801 1611 2785 1613 2781 1610 2773 1605 2771 1605 2770 1605 2208 1605 2208 1640 2206 1651 3641 1670 3645 1653 3643 1621 3478 1621 3475 1618 3463 1611 3461 1611"/></Shape>
+	    <String CONTENT="qͣl hercołs sacriffico tenplo açesar ser ⁊ estar una cueua eñl mõte llena de aguas"
+                    HPOS="2206.0"
+                    VPOS="1605.0"
+                    WIDTH="1439.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_66"
+                    TAGREFS="LT5886"
+                    BASELINE="2208 1683 3665 1698" 
+                    HPOS="2206.0"
+                    VPOS="1651.0"
+                    WIDTH="1459.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="2208 1683 2206 1695 2381 1706 2383 1706 2791 1703 2855 1711 2856 1711 3663 1710 3665 1698 3663 1666 2208 1651 2208 1683"/></Shape>
+	    <String CONTENT="non moujbls̃ ⁊ de aq̃lla correr el Rio jordan. E alguuos affirmã nõ ẜ este cõmjenço"
+                    HPOS="2206.0"
+                    VPOS="1651.0"
+                    WIDTH="1459.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_67"
+                    TAGREFS="LT5886"
+                    BASELINE="2208 1733 3648 1741" 
+                    HPOS="2206.0"
+                    VPOS="1698.0"
+                    WIDTH="1442.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="2208 1733 2206 1743 2250 1753 2251 1753 2470 1746 2495 1755 2496 1755 2498 1755 2978 1750 3071 1758 3073 1758 3646 1751 3648 1741 3646 1710 3248 1700 3246 1700 3140 1706 3121 1706 3115 1706 3071 1698 3070 1698 2208 1700 2208 1733"/></Shape>
+	    <String CONTENT="a jordan /mas q̃ es fuente de çiento ⁊ ueynte passos allende de çesareum/ al qͣl es"
+                    HPOS="2206.0"
+                    VPOS="1698.0"
+                    WIDTH="1442.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_68"
+                    TAGREFS="LT5886"
+                    BASELINE="2208 1778 3645 1788" 
+                    HPOS="2206.0"
+                    VPOS="1746.0"
+                    WIDTH="1439.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="2208 1778 2206 1788 3641 1798 3645 1788 3643 1755 2208 1746 2208 1778"/></Shape>
+	    <String CONTENT="nonbre phila dela redondeza ⁊ de aq̃l allegarse las aguas sola cueua de paneadis"
+                    HPOS="2206.0"
+                    VPOS="1746.0"
+                    WIDTH="1439.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_69"
+                    TAGREFS="LT5886"
+                    BASELINE="2213 1826 3645 1835" 
+                    HPOS="2211.0"
+                    VPOS="1785.0"
+                    WIDTH="1434.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="2213 1826 2211 1843 3641 1845 3645 1835 3643 1801 3565 1791 3563 1791 3416 1798 3366 1800 3345 1796 3293 1790 3291 1790 3161 1795 3076 1798 2906 1798 2898 1791 2893 1788 2891 1788 2890 1788 2888 1788 2886 1788 2885 1788 2880 1791 2870 1798 2786 1798 2698 1790 2651 1786 2650 1786 2606 1788 2501 1795 2488 1786 2485 1785 2483 1785 2481 1785 2480 1785 2438 1786 2321 1793 2213 1785 2213 1826"/></Shape>
+	    <String CONTENT="Lo qͣl dizen fallarse por filipo tetrarca lançadas pajas en phila ⁊ por los passos de"
+                    HPOS="2211.0"
+                    VPOS="1785.0"
+                    WIDTH="1434.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_70"
+                    TAGREFS="LT5886"
+                    BASELINE="2206 1875 3646 1880" 
+                    HPOS="2205.0"
+                    VPOS="1838.0"
+                    WIDTH="1441.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="2206 1875 2205 1886 3643 1890 3646 1880 3646 1848 3481 1838 3480 1838 2206 1840 2206 1875"/></Shape>
+	    <String CONTENT="yuso de trrͣa tornadas çerca de paneadẽ. deste donde quier q̃ nazca salliendo faze pͥmera"
+                    HPOS="2205.0"
+                    VPOS="1838.0"
+                    WIDTH="1441.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_71"
+                    TAGREFS="LT5886"
+                    BASELINE="2205 1916 3645 1926" 
+                    HPOS="2203.0"
+                    VPOS="1878.0"
+                    WIDTH="1442.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="2205 1916 2203 1928 3641 1938 3645 1926 3645 1895 3615 1885 3613 1885 3611 1885 3553 1893 3551 1893 3548 1893 3433 1885 3431 1885 3430 1885 3428 1885 3416 1893 3405 1883 3403 1883 3401 1883 3400 1883 3398 1883 3368 1891 3266 1883 3265 1883 3198 1891 3190 1891 3188 1891 3166 1881 3165 1881 3163 1881 3115 1890 3115 1891 2946 1891 2943 1890 2928 1880 2926 1880 2925 1880 2923 1880 2883 1888 2650 1888 2650 1886 2623 1878 2621 1878 2620 1878 2563 1886 2558 1886 2205 1885 2205 1916"/></Shape>
+	    <String CONTENT="mente ayuntamiento de aguas las quałs aguas llamã marõ ⁊ fue señalado por la"
+                    HPOS="2203.0"
+                    VPOS="1878.0"
+                    WIDTH="1442.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_72"
+                    TAGREFS="LT5886"
+                    BASELINE="2203 1963 3646 1975" 
+                    HPOS="2201.0"
+                    VPOS="1930.0"
+                    WIDTH="1445.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="2203 1963 2201 1973 3643 1988 3646 1975 3645 1940 2203 1930 2203 1963"/></Shape>
+	    <String CONTENT="ujctoria de josue ⁊ por la muerte de azor Rey de jabis. ⁊ salliendo destos faze un lago"
+                    HPOS="2201.0"
+                    VPOS="1930.0"
+                    WIDTH="1445.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_73"
+                    TAGREFS="LT5886"
+                    BASELINE="2205 2016 3655 2023" 
+                    HPOS="2205.0"
+                    VPOS="1980.0"
+                    WIDTH="1450.0"
+                    HEIGHT="51.0">
+            <Shape><Polygon POINTS="2205 2016 2205 2031 3653 2030 3655 2023 3653 1986 2205 1980 2205 2016"/></Shape>
+	    <String CONTENT="grͣnde al qͣl algunos dizen la mar de galilea/ otros de tiberiadis ⁊ otros el lago de ge"
+                    HPOS="2205.0"
+                    VPOS="1980.0"
+                    WIDTH="1450.0"
+                    HEIGHT="51.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_74"
+                    TAGREFS="LT5886"
+                    BASELINE="2206 2056 3648 2066" 
+                    HPOS="2205.0"
+                    VPOS="2018.0"
+                    WIDTH="1443.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="3390 2023 3373 2023 3356 2023 3340 2023 3323 2023 3320 2023 3051 2030 3025 2030 3020 2030 2970 2021 2956 2021 2953 2021 2931 2030 2926 2030 2910 2028 2810 2020 2806 2020 2790 2020 2783 2020 2760 2028 2756 2028 2641 2028 2640 2026 2606 2020 2590 2020 2573 2020 2561 2018 2465 2026 2448 2026 2435 2026 2373 2018 2356 2018 2340 2018 2333 2018 2305 2025 2303 2025 2300 2025 2276 2018 2273 2018 2256 2018 2243 2018 2206 2023 2206 2056 2205 2066 2265 2076 2266 2076 3100 2075 3171 2083 3173 2083 3646 2076 3648 2066 3646 2035 3440 2035 3435 2033 3391 2021 3390 2021 3390 2023"/></Shape>
+	    <String CONTENT="nesareth ⁊ dende fecho mas acresçentado resçebidos muchos Rios sale entre socoth."
+                    HPOS="2205.0"
+                    VPOS="2018.0"
+                    WIDTH="1443.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_75"
+                    TAGREFS="LT5886"
+                    BASELINE="2205 2103 3656 2118" 
+                    HPOS="2203.0"
+                    VPOS="2068.0"
+                    WIDTH="1453.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="2205 2103 2203 2113 3653 2128 3656 2118 3655 2083 2205 2068 2205 2103"/></Shape>
+	    <String CONTENT="⁊ salim de yuso delos castillos de hernon ⁊ ale ⁊ bethesimith ⁊ allega en los termjnos"
+                    HPOS="2203.0"
+                    VPOS="2068.0"
+                    WIDTH="1453.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_76"
+                    TAGREFS="LT5886"
+                    BASELINE="2205 2145 3638 2166" 
+                    HPOS="2203.0"
+                    VPOS="2108.0"
+                    WIDTH="1435.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="2205 2145 2203 2156 3635 2178 3638 2166 3638 2131 2205 2108 2205 2145"/></Shape>
+	    <String CONTENT="de jarico onde son sus aguas de sant juan bautista ⁊ touo por bien bautizarse ihũ"
+                    HPOS="2203.0"
+                    VPOS="2108.0"
+                    WIDTH="1435.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_77"
+                    TAGREFS="LT5886"
+                    BASELINE="2205 2191 3645 2211" 
+                    HPOS="2203.0"
+                    VPOS="2160.0"
+                    WIDTH="1442.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="2205 2191 2203 2210 3641 2228 3645 2211 3645 2180 2205 2160 2205 2191"/></Shape>
+	    <String CONTENT="xp̃o dios ⁊ om̃e /criador ⁊ redentor de mũdo/ por q̃ desto entendiessemos el lauamj"
+                    HPOS="2203.0"
+                    VPOS="2160.0"
+                    WIDTH="1442.0"
+                    HEIGHT="68.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_78"
+                    TAGREFS="LT5886"
+                    BASELINE="2206 2235 3636 2260" 
+                    HPOS="2205.0"
+                    VPOS="2201.0"
+                    WIDTH="1431.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="2206 2235 2205 2246 2683 2265 2685 2265 2776 2258 2808 2266 2810 2266 2811 2266 3151 2265 3350 2276 3351 2276 3635 2271 3636 2260 3635 2228 3445 2216 3443 2216 3370 2223 3355 2223 3281 2221 2873 2206 2871 2206 2798 2213 2785 2213 2770 2211 2703 2205 2701 2205 2610 2210 2590 2210 2588 2210 2578 2201 2576 2201 2575 2201 2573 2201 2206 2201 2206 2235"/></Shape>
+	    <String CONTENT="cuto ⁊ q̃ remedando las pisadas de aq̃l fuessemos leuados ⁊ lauados del pecado"
+                    HPOS="2205.0"
+                    VPOS="2201.0"
+                    WIDTH="1431.0"
+                    HEIGHT="75.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_79"
+                    TAGREFS="LT5886"
+                    BASELINE="2205 2283 3583 2308" 
+                    HPOS="2203.0"
+                    VPOS="2243.0"
+                    WIDTH="1380.0"
+                    HEIGHT="118.0">
+            <Shape><Polygon POINTS="2205 2283 2203 2348 2333 2351 2335 2351 2336 2351 2341 2348 2373 2331 2395 2348 2400 2353 2401 2353 2403 2353 2405 2355 2473 2355 2473 2353 2475 2353 2486 2348 2531 2330 2593 2330 2626 2348 2633 2351 2635 2351 2636 2351 2638 2351 2645 2348 2681 2333 2753 2345 2755 2345 2811 2335 2845 2348 2876 2361 2878 2361 2880 2361 2950 2360 2951 2360 2983 2348 3013 2338 3088 2348 3125 2353 3126 2353 3246 2348 3303 2346 3320 2348 3398 2360 3400 2360 3468 2350 3556 2361 3558 2361 3560 2361 3581 2348 3583 2308 3581 2265 3516 2273 3483 2263 3481 2263 3480 2263 3476 2263 3426 2271 3326 2261 3306 2260 3305 2260 3293 2261 3245 2268 3158 2260 3123 2256 3121 2256 3063 2258 2943 2263 2890 2256 2848 2251 2846 2251 2805 2255 2765 2260 2758 2255 2751 2250 2750 2250 2748 2250 2746 2250 2703 2255 2666 2258 2648 2253 2633 2250 2631 2250 2630 2250 2546 2253 2481 2255 2468 2251 2443 2245 2441 2245 2440 2245 2403 2251 2390 2253 2383 2251 2366 2243 2365 2243 2363 2243 2361 2243 2341 2250 2338 2251 2205 2250 2205 2283"/></Shape>
+	    <String CONTENT="original ⁊ nõ dura mucho ⁊ jũtase eñl lago de asfaltidis /o enla mar muerta"
+                    HPOS="2203.0"
+                    VPOS="2243.0"
+                    WIDTH="1380.0"
+                    HEIGHT="118.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3931"
+                   VPOS="118"
+                   WIDTH="88"
+                   HEIGHT="73"
+                   ID="block_3"
+                   TAGREFS="BT13987">
+          <Shape><Polygon POINTS="4019 118 4019 191 3931 191 3931 118"/></Shape>
+          
+          
+          <TextLine ID="line_80"
+                    TAGREFS="LT5886"
+                    BASELINE="3940 173 4006 168" 
+                    HPOS="3935.0"
+                    VPOS="110.0"
+                    WIDTH="71.0"
+                    HEIGHT="120.0">
+            <Shape><Polygon POINTS="3940 173 3945 230 3986 206 4006 206 4006 168 4000 110 3935 116 3940 173"/></Shape>
+	    <String CONTENT="38"
+                    HPOS="3935.0"
+                    VPOS="110.0"
+                    WIDTH="71.0"
+                    HEIGHT="120.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="528"
+                   VPOS="589"
+                   WIDTH="235"
+                   HEIGHT="298"
+                   ID="eSc_textblock_b046a90a"
+                   TAGREFS="BT16578">
+          <Shape><Polygon POINTS="528 589 528 887 763 887 763 589"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
