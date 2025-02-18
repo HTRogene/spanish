@@ -1,46 +1,129 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: HTRogène Medieval Spanish Manuscripts
-url: https://github.com/HTRogene/spanish
 authors:
-  - name: Desnoues
-    surname: Kelían
-    roles:
-      - transcriber
-  - name: Avaro
-    surname: Claire
-    roles:
-      - transcriber
-  - name: Bordier
-    surname: Julie
-    orcid: 0009-0004-0769-8875
-    roles:
-      - project-manager
-      - quality-control
-      - transcriber
-  - name: Gille Levenson
-    surname: Matthias
-    orcid: 0000-0001-9488-5986
-    roles:
-      - project-manager
-      - quality-control
-  - name: Brisville-Fertin
-    surname: Olivier
-    orcid: 0000-0001-7809-3890
-    roles:
-      - project-manager
-      - quality-control
-  - name: Alix
-    orcid: 0000-0002-0136-4434
-    roles:
-    - project-manager
-    surname: Chagué
-  - name: Thibault
-    surname: Clérice
-    orcid: 0000-0003-1852-9204
-    roles:
-      - project-manager
-      - quality-control
-institutions: []
+- name: Desnoues
+  roles:
+  - transcriber
+  surname: Kelían
+- name: Avaro
+  roles:
+  - transcriber
+  surname: Claire
+- name: Bordier
+  orcid: 0009-0004-0769-8875
+  roles:
+  - project-manager
+  - quality-control
+  - transcriber
+  surname: Julie
+- name: Gille Levenson
+  orcid: 0000-0001-9488-5986
+  roles:
+  - project-manager
+  - quality-control
+  surname: Matthias
+- name: Brisville-Fertin
+  orcid: 0000-0001-7809-3890
+  roles:
+  - project-manager
+  - quality-control
+  surname: Olivier
+- name: Alix
+  orcid: 0000-0002-0136-4434
+  roles:
+  - project-manager
+  surname: Chagué
+- name: Thibault
+  orcid: 0000-0003-1852-9204
+  roles:
+  - project-manager
+  - quality-control
+  surname: Clérice
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - a
+  - o
+  - s
+  - l
+  - n
+  - r
+  - i
+  - d
+  - u
+  - t
+  - ̃
+  - c
+  - m
+  - q
+  - p
+  - b
+  - g
+  - y
+  - ⁊
+  - .
+  - f
+  - ̧
+  - /
+  - z
+  - h
+  - R
+  - E
+  - ͣ
+  - x
+  - ł
+  - ͥ
+  - ꝑ
+  - ¶
+  - ̾
+  - L
+  - M
+  - I
+  - C
+  - G
+  - P
+  - '-'
+  - ẜ
+  - ͦ
+  - ꝓ
+  - O
+  - S
+  - ͬ
+  - D
+  - ꝯ
+  - ħ
+  - A
+  - N
+  - ͤ
+  - U
+  - T
+  - ⟦
+  - ⟧
+  - Q
+  - H
+  - ꝰ
+  - '3'
+  - '4'
+  - ͧ
+  - B
+  - ᷤ
+  - '9'
+  - ':'
+  - ᵒ
+  - ʳ
+  - ꝟ
+  - '6'
+  - '7'
+  - '8'
+  - Y
+  - '1'
+  - '5'
+  - Z
+  - X
+  - F
+  - ƀ
+  - '0'
+  mode: NFD
+citation-file-link: https://github.com/HTRogene/italian/blob/main/CITATION.CFF
 description: >-
   HTRogène is an exploratory project funded by Biblissima+, aiming to develop
   generic models for automatic transcription of medieval and early modern
@@ -51,28 +134,35 @@ description: >-
 
   The dataset is designed to support the creation of robust and reliable HTR
   models for Spanish manuscripts.
-project-name: Biblissima+ HTRogène
-language:
-  - spa
-  - osp
-  - cat
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '601'
-  notAfter: '1600'
+format: Alto-XML
 hands:
   count: 1-per-folder
   precision: estimated
+institutions: []
+language:
+- spa
+- osp
+- cat
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+project-name: Biblissima+ HTRogène
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1600'
+  notBefore: '601'
+title: HTRogène Medieval Spanish Manuscripts
+url: https://github.com/HTRogene/spanish
 volume:
-  - metric: lines
-    count: 9755
-citation-file-link: https://github.com/HTRogene/italian/blob/main/CITATION.CFF
-
+- count: 85478
+  metric: characters
+- count: 46
+  metric: files
+- count: 2129
+  metric: lines
+- count: 119
+  metric: regions

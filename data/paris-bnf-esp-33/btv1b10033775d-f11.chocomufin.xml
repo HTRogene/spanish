@@ -1,0 +1,349 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>btv1b10033775d-f11.jpg</fileName>
+      <fileIdentifier>mets//BnF-Département-des-Manuscrits-Espagnol-33.zip/btv1b10033775d-f11.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT12032" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT12033" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT12034" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT12035" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT12036" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT12037" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT12038" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT12039" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT12040" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT12041" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT12042" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT12029" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT12030" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT12031" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/>
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/><OtherTag ID="LT4978" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4979" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT4980" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4981" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2061" HEIGHT="3000" PHYSICAL_IMG_NR="5" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2061" HEIGHT="3000">
+        
+        <TextBlock HPOS="203.30677795410156" VPOS="475.8537292480469" WIDTH="633.1300506591797" HEIGHT="1783.6191711425781" ID="block_0" TAGREFS="BT12033">
+          <Shape><Polygon POINTS="203.307 475.854 836.437 475.854 836.437 2259.47 203.307 2259.47 203.307 475.854"/></Shape>
+          
+          
+          <TextLine ID="line_0" TAGREFS="LT4978" BASELINE="223 536 790 528" HPOS="220" VPOS="485" WIDTH="567" HEIGHT="72">
+            <Shape><Polygon POINTS="222 535 222 557 787 557 787 527 780 485 220 492 222 535"/></Shape>
+	    <String CONTENT="lleros dela banda q̃ se y acaescieren q̃" HPOS="220" VPOS="485" WIDTH="567" HEIGHT="72"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1" TAGREFS="LT4978" BASELINE="221 601 763 593" HPOS="217" VPOS="555" WIDTH="545" HEIGHT="65">
+            <Shape><Polygon POINTS="220 600 220 620 762 612 762 592 755 555 217 565 220 600"/></Shape>
+	    <String CONTENT="sean alo menos doze estos caualłos" HPOS="217" VPOS="555" WIDTH="545" HEIGHT="65"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2" TAGREFS="LT4978" BASELINE="318 735 795 723" HPOS="315" VPOS="690" WIDTH="477" HEIGHT="67">
+            <Shape><Polygon POINTS="317 735 317 757 792 745 792 722 785 690 315 700 317 735"/></Shape>
+	    <String CONTENT="y algũ caualło dela banda meti" HPOS="315" VPOS="690" WIDTH="477" HEIGHT="67"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3" TAGREFS="LT4978" BASELINE="311 800 813 788" HPOS="307" VPOS="750" WIDTH="505" HEIGHT="70">
+            <Shape><Polygon POINTS="310 800 310 820 812 820 812 787 805 750 307 755 310 800"/></Shape>
+	    <String CONTENT="ere mano aespada o acochiello con" HPOS="307" VPOS="750" WIDTH="505" HEIGHT="70"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4" TAGREFS="LT4978" BASELINE="224 873 810 868" HPOS="220" VPOS="822" WIDTH="587" HEIGHT="70">
+            <Shape><Polygon POINTS="222 872 222 887 802 892 807 867 802 822 220 822 222 872"/></Shape>
+	    <String CONTENT="ra otro caualło dela banda q̃ nõ pares" HPOS="220" VPOS="822" WIDTH="587" HEIGHT="70"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5" TAGREFS="LT4978" BASELINE="216 941 803 936" HPOS="212" VPOS="887" WIDTH="590" HEIGHT="70">
+            <Shape><Polygon POINTS="215 940 215 957 800 950 802 935 797 900 510 887 507 887 505 887 502 887 482 902 480 902 467 902 390 890 387 890 212 902 215 940"/></Shape>
+	    <String CONTENT="ca ante el Rey por dos meses ⁊ q̃ nõ" HPOS="212" VPOS="887" WIDTH="590" HEIGHT="70"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6" TAGREFS="LT4978" BASELINE="219 1010 805 1001" HPOS="215" VPOS="960" WIDTH="587" HEIGHT="67">
+            <Shape><Polygon POINTS="217 1010 217 1027 800 1017 802 1000 797 970 375 960 372 960 370 960 367 960 347 977 215 977 217 1010"/></Shape>
+	    <String CONTENT="traya en estos dos meses mas dela me" HPOS="215" VPOS="960" WIDTH="587" HEIGHT="67" WC="0.9887125"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7" TAGREFS="LT4978" BASELINE="219 1073 806 1068" HPOS="215" VPOS="1022" WIDTH="590" HEIGHT="63">
+            <Shape><Polygon POINTS="217 1072 217 1085 805 1080 805 1067 800 1035 527 1022 525 1022 522 1022 520 1022 500 1035 340 1025 337 1025 215 1037 217 1072"/></Shape>
+	    <String CONTENT="ytad dela banda enlas espaldas ⁊ q̃le" HPOS="215" VPOS="1022" WIDTH="590" HEIGHT="63" WC="0.9809428571428571"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8" TAGREFS="LT4978" BASELINE="219 1136 803 1140" HPOS="215" VPOS="1090" WIDTH="587" HEIGHT="65">
+            <Shape><Polygon POINTS="217 1135 215 1155 800 1155 802 1140 800 1105 552 1105 547 1102 512 1090 510 1090 507 1090 217 1097 217 1135"/></Shape>
+	    <String CONTENT="nõ fablen los caualłos dela banda estos" HPOS="215" VPOS="1090" WIDTH="587" HEIGHT="65"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9" TAGREFS="LT4978" BASELINE="219 1211 803 1205" HPOS="215" VPOS="1170" WIDTH="587" HEIGHT="72">
+            <Shape><Polygon POINTS="217 1210 217 1230 467 1242 470 1242 472 1242 512 1227 515 1227 520 1227 547 1240 550 1240 552 1240 800 1225 802 1205 795 1170 215 1175 217 1210"/></Shape>
+	    <String CONTENT="dos meses Et q̃ nõ traya otra bestidu" HPOS="215" VPOS="1170" WIDTH="587" HEIGHT="72" WC="0.9912625"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10" TAGREFS="LT4978" BASELINE="223 1286 800 1281" HPOS="220" VPOS="1235" WIDTH="577" HEIGHT="72">
+            <Shape><Polygon POINTS="222 1285 222 1302 792 1307 797 1280 792 1247 507 1235 505 1235 220 1250 222 1285"/></Shape>
+	    <String CONTENT="ra sy nõ aq̃lla dela media banda en" HPOS="220" VPOS="1235" WIDTH="577" HEIGHT="72" WC="0.991525"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11" TAGREFS="LT4978" BASELINE="221 1356 800 1353" HPOS="217" VPOS="1322" WIDTH="580" HEIGHT="65">
+            <Shape><Polygon POINTS="220 1355 220 1375 517 1387 520 1387 522 1387 550 1375 552 1375 620 1387 622 1387 625 1387 627 1387 647 1375 650 1375 795 1375 797 1352 790 1322 217 1322 220 1355"/></Shape>
+	    <String CONTENT="los dichos dos meses Et sy amos me" HPOS="217" VPOS="1322" WIDTH="580" HEIGHT="65" WC="0.9980375"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12" TAGREFS="LT4978" BASELINE="228 1426 801 1423" HPOS="225" VPOS="1390" WIDTH="575" HEIGHT="55">
+            <Shape><Polygon POINTS="227 1425 227 1445 797 1442 800 1422 792 1390 225 1392 227 1425"/></Shape>
+	    <String CONTENT="tieren mano alas espadas q̃ el pͥmͬo" HPOS="225" VPOS="1390" WIDTH="575" HEIGHT="55"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13" TAGREFS="LT4978" BASELINE="226 1500 800 1493" HPOS="222" VPOS="1457" WIDTH="575" HEIGHT="75">
+            <Shape><Polygon POINTS="225 1500 225 1517 302 1532 305 1532 457 1515 467 1515 475 1515 572 1530 575 1530 577 1530 620 1512 632 1525 632 1527 635 1527 637 1527 640 1530 755 1530 755 1527 757 1527 797 1510 797 1492 792 1460 222 1457 225 1500"/></Shape>
+	    <String CONTENT="q̃ posiere mano al espada q̃ aya esta" HPOS="222" VPOS="1457" WIDTH="575" HEIGHT="75"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14" TAGREFS="LT4978" BASELINE="219 1570 810 1573" HPOS="215" VPOS="1522" WIDTH="592" HEIGHT="68">
+            <Shape><Polygon POINTS="217 1570 215 1590 805 1590 807 1572 802 1522 217 1530 217 1570"/></Shape>
+	    <String CONTENT="pena q̃ dicha es Et el segundo q̃ posi" HPOS="215" VPOS="1522" WIDTH="592" HEIGHT="68" WC="0.9775333333333334"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15" TAGREFS="LT4978" BASELINE="219 1653 798 1653" HPOS="217" VPOS="1602" WIDTH="580" HEIGHT="85">
+            <Shape><Polygon POINTS="217 1652 217 1672 435 1687 437 1687 797 1672 797 1652 797 1615 407 1602 405 1602 402 1602 400 1602 377 1617 375 1620 217 1620 217 1652"/></Shape>
+	    <String CONTENT="ere mano al espada q̃ finq̃ en alue" HPOS="217" VPOS="1602" WIDTH="580" HEIGHT="85"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16" TAGREFS="LT4978" BASELINE="223 1733 793 1726" HPOS="220" VPOS="1690" WIDTH="572" HEIGHT="57">
+            <Shape><Polygon POINTS="222 1732 222 1747 792 1742 792 1725 787 1690 220 1690 222 1732"/></Shape>
+	    <String CONTENT="drio del Rey ⁊ delos caualłos dela" HPOS="220" VPOS="1690" WIDTH="572" HEIGHT="57"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17" TAGREFS="LT4978" BASELINE="228 1801 806 1790" HPOS="225" VPOS="1760" WIDTH="580" HEIGHT="70">
+            <Shape><Polygon POINTS="227 1800 227 1830 802 1817 805 1790 797 1760 225 1762 227 1800"/></Shape>
+	    <String CONTENT="banda q̃l den aq̃lla pena q̃ entendie" HPOS="225" VPOS="1760" WIDTH="580" HEIGHT="70"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18" TAGREFS="LT4978" BASELINE="228 1873 464 1866" HPOS="225" VPOS="1817" WIDTH="237" HEIGHT="100">
+            <Shape><Polygon POINTS="227 1872 227 1900 302 1917 305 1917 307 1917 310 1917 310 1915 325 1902 332 1897 350 1902 387 1912 390 1912 392 1912 460 1902 462 1865 460 1830 437 1817 435 1817 432 1817 430 1817 427 1817 377 1832 252 1822 250 1822 247 1822 245 1822 225 1832 227 1872"/></Shape>
+	    <String CONTENT="rẽ q̃ meresçe" HPOS="225" VPOS="1817" WIDTH="237" HEIGHT="100"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19" TAGREFS="LT4978" BASELINE="318 2016 800 2010" HPOS="315" VPOS="1955" WIDTH="482" HEIGHT="87">
+            <Shape><Polygon POINTS="317 2015 317 2042 795 2032 797 2010 790 1955 710 1972 597 1965 510 1957 507 1957 505 1957 502 1957 482 1970 475 1975 462 1970 425 1957 422 1957 420 1957 417 1957 415 1957 415 1960 400 1975 397 1977 315 1977 317 2015"/></Shape>
+	    <String CONTENT="y acaesciere q̃ un caualło dela" HPOS="315" VPOS="1955" WIDTH="482" HEIGHT="87"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20" TAGREFS="LT4978" BASELINE="314 2090 806 2085" HPOS="310" VPOS="2040" WIDTH="495" HEIGHT="67">
+            <Shape><Polygon POINTS="312 2090 312 2107 802 2102 805 2085 800 2052 645 2040 642 2040 310 2052 312 2090"/></Shape>
+	    <String CONTENT="banda firiere aotro dela banda q̃" HPOS="310" VPOS="2040" WIDTH="495" HEIGHT="67" WC="0.9709333333333333"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21" TAGREFS="LT4978" BASELINE="244 2156 820 2146" HPOS="240" VPOS="2097" WIDTH="577" HEIGHT="78">
+            <Shape><Polygon POINTS="242 2155 242 2175 815 2165 817 2145 810 2102 595 2110 587 2107 557 2097 555 2097 552 2097 550 2097 525 2110 520 2112 502 2110 412 2100 410 2100 315 2115 272 2102 270 2102 267 2102 265 2102 240 2112 242 2155"/></Shape>
+	    <String CONTENT="pierda toda la mͬçed q̃ touiere del Rey" HPOS="240" VPOS="2097" WIDTH="577" HEIGHT="78"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22" TAGREFS="LT4978" BASELINE="238 2220 818 2210" HPOS="235" VPOS="2170" WIDTH="582" HEIGHT="82">
+            <Shape><Polygon POINTS="237 2220 237 2250 600 2252 602 2252 612 2250 677 2237 812 2250 817 2210 810 2170 235 2172 237 2220"/></Shape>
+	    <String CONTENT="por un año ⁊ q̃ nõ traya en este año" HPOS="235" VPOS="2170" WIDTH="582" HEIGHT="82"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="881.783447265625" VPOS="457.6745910644531" WIDTH="691.12548828125" HEIGHT="1783.7448425292969" ID="block_1" TAGREFS="BT12033">
+          <Shape><Polygon POINTS="881.783 457.675 1572.91 457.675 1572.91 2241.42 881.783 2241.42 881.783 457.675"/></Shape>
+          
+          
+          <TextLine ID="line_23" TAGREFS="LT4978" BASELINE="905 518 1512 508" HPOS="900" VPOS="460" WIDTH="610" HEIGHT="77">
+            <Shape><Polygon POINTS="1400 460 1383 460 1363 470 1350 477 1258 477 1245 470 1230 460 1228 460 1225 460 1223 460 1220 460 1183 470 1155 477 1138 470 1125 465 1123 465 1120 465 1118 465 1115 465 1110 470 1103 477 1075 470 1053 465 1050 465 982 465 980 465 977 465 975 465 967 470 955 480 900 472 902 517 902 537 1508 537 1510 507 1505 470 1415 460 1400 460"/></Shape>
+	    <String CONTENT="mas dela meytad dela banda enlas espal" HPOS="900" VPOS="460" WIDTH="610" HEIGHT="77"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24" TAGREFS="LT4978" BASELINE="893 586 1527 580" HPOS="890" VPOS="532" WIDTH="635" HEIGHT="78">
+            <Shape><Polygon POINTS="892 585 892 600 1510 610 1513 610 1515 610 1518 610 1518 607 1520 607 1525 600 1525 580 1520 545 1220 532 1218 532 1215 532 1213 532 1198 545 1015 535 1012 535 890 547 892 585"/></Shape>
+	    <String CONTENT="das ⁊ q̃ nõle fablen los caualłos dela ban" HPOS="890" VPOS="532" WIDTH="635" HEIGHT="78"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25" TAGREFS="LT4978" BASELINE="903 653 1515 645" HPOS="900" VPOS="607" WIDTH="613" HEIGHT="65">
+            <Shape><Polygon POINTS="902 652 902 672 1510 665 1513 645 1508 610 900 607 902 652"/></Shape>
+	    <String CONTENT="da nĩ traya otra bestidura nigũa saluo" HPOS="900" VPOS="607" WIDTH="613" HEIGHT="65"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_26" TAGREFS="LT4978" BASELINE="903 725 1537 710" HPOS="900" VPOS="672" WIDTH="635" HEIGHT="80">
+            <Shape><Polygon POINTS="902 725 902 752 1535 732 1535 710 1530 677 1113 672 1110 672 900 690 902 725"/></Shape>
+	    <String CONTENT="esta dela dicha media banda en este dich̃" HPOS="900" VPOS="672" WIDTH="635" HEIGHT="80"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_27" TAGREFS="LT4978" BASELINE="911 786 988 787" HPOS="910" VPOS="737" WIDTH="77" HEIGHT="85">
+            <Shape><Polygon POINTS="910 785 910 807 985 822 987 785 987 747 952 737 950 737 947 737 945 737 910 750 910 785"/></Shape>
+	    <String CONTENT="año" HPOS="910" VPOS="737" WIDTH="77" HEIGHT="85"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_28" TAGREFS="LT4978" BASELINE="980 933 1520 925" HPOS="975" VPOS="875" WIDTH="543" HEIGHT="77">
+            <Shape><Polygon POINTS="977 932 977 952 1515 945 1518 925 1508 875 1458 890 1418 877 1415 877 1413 877 1410 877 1330 892 1303 880 1300 880 1298 880 1295 880 1293 880 1240 892 1183 882 1158 880 1155 880 1153 880 1143 885 1118 895 975 890 977 932"/></Shape>
+	    <String CONTENT="trosy por q̃los caualleros dela banda" HPOS="975" VPOS="875" WIDTH="543" HEIGHT="77"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_29" TAGREFS="LT4978" BASELINE="970 996 1538 990" HPOS="965" VPOS="950" WIDTH="570" HEIGHT="77">
+            <Shape><Polygon POINTS="967 995 967 1015 990 1027 992 1027 995 1027 997 1027 1043 1012 1045 1012 1053 1012 1165 1027 1168 1027 1533 1012 1535 990 1528 950 965 960 967 995"/></Shape>
+	    <String CONTENT="esten meior guisados ꝑa qͣndo mester" HPOS="965" VPOS="950" WIDTH="570" HEIGHT="77"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_30" TAGREFS="LT4978" BASELINE="908 1070 1538 1060" HPOS="905" VPOS="1015" WIDTH="630" HEIGHT="72">
+            <Shape><Polygon POINTS="907 1070 907 1087 1533 1082 1535 1060 1530 1025 1373 1015 1370 1015 1368 1015 1365 1015 1353 1027 1350 1027 1343 1027 1273 1017 1270 1017 905 1032 907 1070"/></Shape>
+	    <String CONTENT="fuere q̃ ayan la tierra q̃ touierẽ del Rey" HPOS="905" VPOS="1015" WIDTH="630" HEIGHT="72"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_31" TAGREFS="LT4978" BASELINE="906 1140 1540 1130" HPOS="902" VPOS="1085" WIDTH="636" HEIGHT="82">
+            <Shape><Polygon POINTS="905 1140 905 1160 1358 1167 1360 1167 1538 1150 1538 1130 1530 1085 902 1100 905 1140"/></Shape>
+	    <String CONTENT="ode algũo de sus fiios sin descuẽto nigũo" HPOS="902" VPOS="1085" WIDTH="636" HEIGHT="82"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_32" TAGREFS="LT4978" BASELINE="906 1205 1532 1205" HPOS="905" VPOS="1170" WIDTH="625" HEIGHT="67">
+            <Shape><Polygon POINTS="905 1205 905 1222 1020 1237 1022 1237 1140 1227 1165 1225 1173 1227 1205 1237 1208 1237 1210 1237 1213 1237 1240 1227 1248 1225 1258 1227 1280 1237 1283 1237 1285 1237 1288 1237 1320 1227 1335 1225 1340 1230 1350 1237 1353 1237 1355 1237 1358 1237 1360 1237 1363 1237 1373 1230 1383 1225 1528 1230 1530 1205 1530 1172 905 1170 905 1205"/></Shape>
+	    <String CONTENT="⁊ aun q̃ acaesca algũ descuẽto en aq̃lla" HPOS="905" VPOS="1170" WIDTH="625" HEIGHT="67"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_33" TAGREFS="LT4978" BASELINE="920 1278 1527 1278" HPOS="917" VPOS="1227" WIDTH="608" HEIGHT="85">
+            <Shape><Polygon POINTS="917 1277 917 1297 952 1312 955 1312 957 1312 1525 1302 1525 1277 1525 1237 1388 1227 1385 1227 1338 1237 1325 1240 1320 1237 1300 1227 1298 1227 1295 1227 1293 1227 1253 1237 1243 1240 1230 1237 1160 1227 1158 1227 1155 1227 1153 1227 1140 1240 1138 1240 1133 1240 1065 1227 1063 1227 917 1240 917 1277"/></Shape>
+	    <String CONTENT="tierra q̃ nõ descuẽte aellos nigũa cosa" HPOS="917" VPOS="1227" WIDTH="608" HEIGHT="85" WC="0.9849"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_34" TAGREFS="LT4978" BASELINE="991 1430 1522 1426" HPOS="987" VPOS="1375" WIDTH="533" HEIGHT="75">
+            <Shape><Polygon POINTS="990 1430 990 1450 1518 1450 1520 1425 1515 1390 1435 1390 1435 1387 1423 1377 1423 1375 1420 1375 1418 1375 1415 1375 1353 1387 1323 1375 1320 1375 1318 1375 1260 1387 1248 1390 1240 1387 1218 1377 1215 1377 1213 1377 1210 1377 1178 1387 1165 1390 1145 1387 1090 1377 1088 1377 987 1385 990 1430"/></Shape>
+	    <String CONTENT="y algũ caualło dela banda biuiere" HPOS="987" VPOS="1375" WIDTH="533" HEIGHT="75"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_35" TAGREFS="LT4978" BASELINE="986 1496 1522 1496" HPOS="985" VPOS="1447" WIDTH="535" HEIGHT="78">
+            <Shape><Polygon POINTS="985 1495 985 1510 1038 1525 1040 1525 1043 1525 1150 1512 1213 1525 1215 1525 1455 1512 1488 1525 1490 1525 1493 1525 1495 1525 1520 1510 1520 1495 1520 1462 1078 1447 1075 1447 985 1460 985 1495"/></Shape>
+	    <String CONTENT="con algũo delos fiios del Rey ⁊ se" HPOS="985" VPOS="1447" WIDTH="535" HEIGHT="78"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_36" TAGREFS="LT4978" BASELINE="905 1573 1538 1565" HPOS="900" VPOS="1512" WIDTH="635" HEIGHT="80">
+            <Shape><Polygon POINTS="902 1572 902 1587 1533 1592 1535 1565 1525 1517 1493 1527 1480 1517 1475 1512 1473 1512 1470 1512 1315 1512 1313 1512 1310 1512 1278 1522 1258 1530 1228 1525 1170 1515 1168 1515 1165 1515 1118 1527 1098 1535 975 1535 972 1532 957 1520 955 1520 952 1520 950 1520 947 1520 900 1530 902 1572"/></Shape>
+	    <String CONTENT="agramare en algũas cosas q̃ nõ fagan" HPOS="900" VPOS="1512" WIDTH="635" HEIGHT="80" WC="0.9842"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_37" TAGREFS="LT4978" BASELINE="925 1641 1513 1638" HPOS="920" VPOS="1590" WIDTH="590" HEIGHT="85">
+            <Shape><Polygon POINTS="922 1640 922 1657 1208 1672 1210 1672 1213 1672 1258 1657 1288 1672 1290 1672 1293 1675 1293 1672 1295 1672 1325 1657 1413 1672 1415 1672 1508 1655 1510 1637 1500 1590 1463 1605 1425 1590 1420 1590 1418 1590 1415 1590 1413 1590 1408 1592 1380 1605 1300 1592 1285 1592 1283 1592 1280 1592 1273 1595 1235 1605 1225 1595 1220 1592 1220 1590 1218 1590 1215 1590 1213 1590 1210 1590 1198 1595 1180 1605 1160 1597 1145 1590 1143 1590 1140 1590 920 1600 922 1640"/></Shape>
+	    <String CONTENT="contra el desaguisado q̃lo muestre al" HPOS="920" VPOS="1590" WIDTH="590" HEIGHT="85" WC="0.9861500000000001"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_38" TAGREFS="LT4978" BASELINE="920 1721 1535 1705" HPOS="915" VPOS="1655" WIDTH="618" HEIGHT="80">
+            <Shape><Polygon POINTS="917 1720 917 1735 1533 1725 1533 1705 1523 1655 1485 1672 1330 1672 1305 1662 1300 1660 1298 1660 1295 1660 1283 1662 1218 1677 1175 1665 1163 1662 1160 1662 1158 1662 1155 1662 1145 1667 1113 1680 1068 1670 1060 1667 1058 1667 1055 1667 1053 1667 1045 1670 1010 1682 987 1672 980 1667 977 1667 975 1667 915 1672 917 1720"/></Shape>
+	    <String CONTENT="Rey delante los caualłos dela banda q̃" HPOS="915" VPOS="1655" WIDTH="618" HEIGHT="80"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_39" TAGREFS="LT4978" BASELINE="921 1786 1530 1773" HPOS="917" VPOS="1737" WIDTH="611" HEIGHT="80">
+            <Shape><Polygon POINTS="920 1785 920 1802 1002 1817 1005 1817 1270 1797 1283 1797 1285 1797 1315 1810 1318 1810 1320 1810 1420 1797 1493 1807 1495 1807 1498 1807 1528 1792 1528 1772 1520 1737 917 1750 920 1785"/></Shape>
+	    <String CONTENT="y fueren pidiendo le merçed q̃lo faga" HPOS="917" VPOS="1737" WIDTH="611" HEIGHT="80"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_40" TAGREFS="LT4978" BASELINE="923 1858 1532 1846" HPOS="920" VPOS="1815" WIDTH="610" HEIGHT="67">
+            <Shape><Polygon POINTS="922 1857 922 1872 1145 1882 1148 1882 1150 1882 1153 1882 1168 1870 1508 1875 1510 1875 1513 1875 1515 1875 1530 1862 1530 1845 1523 1815 920 1822 922 1857"/></Shape>
+	    <String CONTENT="emendar ⁊ sy logar y ouiere en q̃ se" HPOS="920" VPOS="1815" WIDTH="610" HEIGHT="67"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_41" TAGREFS="LT4978" BASELINE="923 1928 1540 1910" HPOS="920" VPOS="1867" WIDTH="618" HEIGHT="88">
+            <Shape><Polygon POINTS="922 1927 922 1942 945 1955 947 1955 950 1955 1538 1932 1538 1910 1533 1877 1363 1867 1360 1867 1358 1867 1355 1867 1338 1880 1278 1870 1275 1870 920 1892 922 1927"/></Shape>
+	    <String CONTENT="pueda emendar sy nõ q̃ el q̃ el Rey" HPOS="920" VPOS="1867" WIDTH="618" HEIGHT="88"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_42" TAGREFS="LT4978" BASELINE="925 2005 1542 1981" HPOS="920" VPOS="1932" WIDTH="620" HEIGHT="103">
+            <Shape><Polygon POINTS="922 2005 922 2025 1105 2035 1108 2035 1110 2035 1113 2035 1128 2022 1163 2032 1165 2032 1168 2032 1170 2032 1173 2032 1173 2030 1175 2030 1183 2020 1188 2015 1210 2020 1258 2027 1260 2027 1355 2025 1358 2025 1360 2025 1375 2015 1385 2010 1410 2015 1443 2020 1445 2020 1448 2020 1450 2020 1460 2012 1478 2002 1538 2010 1540 1980 1535 1945 1405 1932 1403 1932 1400 1932 1343 1952 1338 1952 1335 1952 1283 1937 1280 1937 1278 1937 1275 1937 1230 1957 1055 1962 992 1965 977 1952 977 1950 975 1950 972 1950 970 1950 967 1950 920 1965 922 2005"/></Shape>
+	    <String CONTENT="q̃lo tome para sy ⁊ q̃le faga mͬçed ⁊ e" HPOS="920" VPOS="1932" WIDTH="620" HEIGHT="103"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_43" TAGREFS="LT4978" BASELINE="926 2081 1148 2078" HPOS="922" VPOS="2032" WIDTH="223" HEIGHT="75">
+            <Shape><Polygon POINTS="925 2080 925 2107 1143 2097 1145 2077 1140 2045 972 2032 970 2032 967 2032 922 2045 925 2080"/></Shape>
+	    <String CONTENT="mienda dello" HPOS="922" VPOS="2032" WIDTH="223" HEIGHT="75" WC="0.99415"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_44" TAGREFS="LT4978" BASELINE="1010 2203 1520 2185" HPOS="1005" VPOS="2132" WIDTH="513" HEIGHT="110">
+            <Shape><Polygon POINTS="1007 2202 1007 2222 1073 2242 1075 2242 1078 2242 1080 2242 1140 2222 1190 2237 1193 2237 1195 2237 1198 2237 1238 2217 1380 2227 1383 2227 1385 2227 1445 2210 1483 2227 1485 2227 1488 2227 1490 2227 1493 2227 1518 2210 1518 2185 1515 2145 1495 2132 1493 2132 1490 2132 1488 2132 1293 2152 1150 2142 1148 2142 1005 2162 1007 2202"/></Shape>
+	    <String CONTENT="trosy sy algũ caualło delos dela" HPOS="1005" VPOS="2132" WIDTH="513" HEIGHT="110"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
