@@ -24,3 +24,7 @@ j,LATIN SMALL LETTER J,i,,
 ⁋,REVERSED PILCROW SIGN,¶,,
 ",",COMMA,.,,
 ;,SEMI-COLON,:,,
+[\u0301\u0308],Accents from modern manuscripts,,true,true
+ᗞ,CANADIAN SYLLABIC D,D,,
+о,CYRILLIC O,o,,
+¬,NOT SIGN,-,,

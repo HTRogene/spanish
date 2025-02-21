@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>302v.JPEG</fileName>
+      <fileIdentifier>mets//export_doc4727_esp_325_esp_161_alto_202502040919.zip/302v.JPEG</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT16586" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT16587" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT16580" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT19261" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1024"
+          HEIGHT="1361"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1024"
+                  HEIGHT="1361">
+        
+        <TextBlock HPOS="184.0"
+                   VPOS="93.0"
+                   WIDTH="721.0"
+                   HEIGHT="347.0"
+                   ID="eSc_textblock_c8d00290"
+                   TAGREFS="BT19261">
+          <Shape><Polygon POINTS="184 110 189 409 190 423 866 440 905 136 844 93 877 132 828 132"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1809afa4"
+                    TAGREFS="LT6926"
+                    BASELINE="183 131 460 139 908 166" 
+                    HPOS="181"
+                    VPOS="100"
+                    WIDTH="726"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="182 130 181 136 207 145 208 145 210 145 211 145 228 139 229 139 231 139 272 148 273 148 301 144 306 144 320 145 404 155 405 155 479 155 522 155 527 158 532 162 533 162 534 162 535 162 554 159 573 157 588 162 599 165 600 165 601 165 602 165 603 165 607 163 614 159 686 162 704 168 710 171 711 171 712 171 714 171 716 170 725 165 783 174 795 175 796 175 804 175 858 172 904 181 907 165 904 132 890 139 873 131 865 127 863 127 862 127 849 130 823 136 799 134 789 127 782 122 781 122 779 122 778 122 737 124 707 127 698 123 685 117 684 117 683 117 682 117 667 122 648 127 625 120 605 113 603 113 602 113 601 113 584 117 583 117 512 108 510 108 509 108 508 108 508 110 502 114 499 117 493 114 491 112 490 112 489 112 488 112 487 112 483 113 473 117 449 112 429 107 427 107 426 107 415 111 407 112 383 108 320 100 319 100 292 105 277 107 182 100 182 130"/></Shape>
+	    <String CONTENT="q̃ su magͭ aga merced ala Vniversidad q̃ de nuevo se a fundado Enla civdad de mexͨ.ͦ y aElbien"
+                    HPOS="181"
+                    VPOS="100"
+                    WIDTH="726"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9f05a00"
+                    TAGREFS="LT6926"
+                    BASELINE="197 152 887 193" 
+                    HPOS="195"
+                    VPOS="132"
+                    WIDTH="691"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="254 132 253 132 196 134 196 151 195 158 384 166 387 170 391 173 391 174 392 174 393 174 395 174 415 171 418 171 423 172 442 178 443 178 445 178 471 174 481 173 504 176 559 184 560 184 561 184 563 184 569 180 573 179 613 180 630 183 693 192 694 192 757 190 769 190 784 191 866 203 867 203 868 203 885 197 886 192 886 176 848 167 846 167 766 168 756 168 753 168 734 161 733 161 732 161 666 163 657 163 652 162 617 154 616 154 593 158 592 158 561 150 560 150 559 150 531 155 530 155 529 155 510 148 509 148 372 146 356 146 356 145 349 139 349 138 348 138 347 138 346 138 345 138 332 144 331 144 330 144 309 136 308 136 307 136 278 140 273 140 271 139 255 132 254 132"/></Shape>
+	    <String CONTENT="desta tierra Atento aquees ynportante adescargo aSu magͭ y de Su concjencja q̃le"
+                    HPOS="195"
+                    VPOS="132"
+                    WIDTH="691"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e46007ad"
+                    TAGREFS="LT6926"
+                    BASELINE="193 173 265 175 400 186 882 219" 
+                    HPOS="191"
+                    VPOS="154"
+                    WIDTH="689"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="749 184 737 184 690 184 639 184 635 181 633 178 632 178 624 178 613 176 601 176 590 175 582 174 578 178 577 179 572 178 560 173 556 173 546 173 543 175 542 176 540 175 535 172 533 172 522 172 517 171 509 173 501 174 496 172 489 170 488 170 476 168 465 168 464 167 462 170 459 171 397 168 396 166 393 163 385 163 374 163 363 162 351 162 340 161 334 159 322 162 315 162 313 161 308 158 306 158 295 158 283 157 280 157 278 158 277 158 272 157 272 157 261 156 250 155 239 155 234 154 233 156 232 156 192 154 192 172 191 183 280 183 319 192 330 195 331 195 341 193 370 190 378 196 380 198 381 198 382 198 426 201 427 201 429 201 437 199 449 196 522 199 533 205 543 209 544 209 627 215 628 215 630 215 641 210 645 209 648 212 655 217 656 217 657 217 658 217 677 213 678 213 680 213 685 218 685 220 686 220 687 220 766 225 767 225 768 225 785 220 786 220 815 226 816 226 817 226 879 224 880 218 879 197 837 198 823 192 812 189 811 189 810 189 791 191 775 192 765 189 751 184 749 184"/></Shape>
+	    <String CONTENT="senale En Su Real Azienda porlomenos tres mill psͦ. demjnas paraq̃ aya catedra"
+                    HPOS="191"
+                    VPOS="154"
+                    WIDTH="689"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7901e1b"
+                    TAGREFS="LT6926"
+                    BASELINE="193 195 871 238" 
+                    HPOS="192"
+                    VPOS="178"
+                    WIDTH="678"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="850 217 838 216 833 215 817 217 809 214 804 214 793 213 789 212 779 215 765 215 605 205 603 204 596 198 590 198 536 199 534 199 515 192 510 192 499 192 488 191 487 190 192 178 192 193 192 212 208 205 261 215 267 216 269 216 283 216 366 215 398 222 422 227 536 229 536 230 564 237 565 237 566 237 567 237 568 237 575 231 577 230 616 231 626 234 673 243 674 243 707 239 726 246 727 246 728 246 729 246 731 246 739 240 760 249 761 249 762 249 764 249 765 249 774 242 820 251 821 251 823 251 824 251 829 246 837 251 838 251 840 251 841 251 869 246 870 237 870 221 860 217 850 217"/></Shape>
+	    <String CONTENT="ricos muj buenos de todas facultades y se anjmen a estudiar y perseverar"
+                    HPOS="192"
+                    VPOS="178"
+                    WIDTH="678"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d47b151"
+                    TAGREFS="LT6926"
+                    BASELINE="192 224 321 226 835 263" 
+                    HPOS="190"
+                    VPOS="204"
+                    WIDTH="644"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="191 223 190 237 222 237 227 238 242 247 244 247 245 247 282 241 287 241 288 242 297 249 297 250 298 250 299 250 351 254 353 254 380 248 392 244 398 249 409 257 410 257 412 257 413 257 414 257 415 257 424 250 442 259 443 259 445 259 446 259 468 252 479 250 483 254 496 264 497 264 498 264 580 269 581 269 582 269 601 260 606 259 645 260 651 264 680 276 681 276 682 276 683 276 707 267 715 273 716 273 717 273 718 273 719 273 728 268 732 267 832 274 834 261 833 247 791 244 790 243 781 237 779 237 778 237 777 237 753 241 751 241 746 240 717 232 716 232 715 232 658 234 653 234 652 234 642 227 641 227 640 227 581 223 580 223 578 223 566 229 565 229 563 229 539 221 538 221 536 221 504 224 500 224 499 224 493 218 493 217 492 217 491 217 490 217 423 218 415 218 406 217 330 206 191 204 191 223"/></Shape>
+	    <String CONTENT="con esperança q̃ ay semexantes premjos paralos buenos y virtuosos."
+                    HPOS="190"
+                    VPOS="204"
+                    WIDTH="644"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d33437de"
+                    TAGREFS="LT6926"
+                    BASELINE="179 258 890 294" 
+                    HPOS="177"
+                    VPOS="235"
+                    WIDTH="711"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="178 257 177 269 265 271 272 275 286 281 287 281 288 281 289 281 290 281 297 276 300 274 328 277 376 284 378 284 431 283 462 282 469 284 487 291 488 291 622 298 623 298 656 293 661 293 666 294 686 301 687 301 689 301 710 297 715 296 723 297 752 305 753 305 754 305 756 305 776 300 781 299 787 300 824 308 825 308 887 305 888 293 888 277 849 276 846 275 837 268 836 268 835 268 834 268 833 268 819 273 802 265 801 265 800 265 799 265 782 271 779 272 736 271 733 268 714 260 712 260 711 260 710 260 693 266 690 267 683 266 647 257 645 257 594 260 581 261 556 259 468 248 467 248 434 252 430 252 418 251 376 246 375 246 357 248 348 249 346 248 338 242 337 242 336 242 334 242 316 246 311 247 307 246 292 239 291 239 290 239 289 239 277 243 271 246 250 242 211 235 210 235 178 238 178 257"/></Shape>
+	    <String CONTENT="para cunplimjento desta su magͭ aviade ynstituir Vn colexio enque estubiesen"
+                    HPOS="177"
+                    VPOS="235"
+                    WIDTH="711"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb6ebd3e"
+                    TAGREFS="LT6926"
+                    BASELINE="190 282 865 320" 
+                    HPOS="188"
+                    VPOS="263"
+                    WIDTH="675"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="189 281 188 289 295 296 296 297 306 305 307 305 308 305 309 305 311 305 326 299 354 308 355 308 356 308 437 306 449 306 451 307 463 315 464 315 465 315 466 316 581 316 602 323 603 323 605 323 606 323 618 317 620 317 641 319 743 331 744 331 745 331 746 331 753 326 759 324 818 325 861 333 863 319 862 302 826 302 817 299 804 294 803 294 802 294 742 296 709 296 707 293 702 290 702 289 701 289 700 289 699 289 698 289 689 292 685 294 684 292 680 289 680 288 678 288 677 288 676 288 657 291 647 292 488 284 483 281 468 275 467 275 466 275 375 275 362 275 361 275 347 268 346 268 345 268 343 268 332 273 330 274 328 273 309 266 308 266 307 266 306 266 291 271 288 272 282 271 248 263 247 263 189 265 189 281"/></Shape>
+	    <String CONTENT="asta veynte q̃ no se ocupasen En otracosa Sino estudiar theologia paraq̃ saliesen"
+                    HPOS="188"
+                    VPOS="263"
+                    WIDTH="675"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e42516b8"
+                    TAGREFS="LT6926"
+                    BASELINE="189 306 266 306 868 349" 
+                    HPOS="187"
+                    VPOS="282"
+                    WIDTH="680"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="450 297 449 297 430 300 418 301 307 294 298 292 274 286 269 286 258 285 247 289 242 284 234 284 232 283 229 288 220 283 212 283 208 282 188 284 188 305 187 309 512 337 513 337 533 333 535 333 536 334 543 340 544 340 546 340 591 343 592 343 656 342 670 342 683 343 725 351 865 356 867 348 867 327 500 308 497 303 493 301 493 300 492 300 491 300 490 300 476 302 467 305 462 301 451 297 450 297"/></Shape>
+	    <String CONTENT="dalli letrados predicadores y confesores dela Fe Eneste nuevo mundo donde tan nesesarjo"
+                    HPOS="187"
+                    VPOS="282"
+                    WIDTH="680"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8cc12e9"
+                    TAGREFS="LT6926"
+                    BASELINE="194 331 868 368" 
+                    HPOS="191"
+                    VPOS="308"
+                    WIDTH="676"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="851 347 840 347 828 345 817 344 806 344 794 343 789 342 725 342 703 342 698 340 680 334 669 334 623 335 600 335 192 308 192 330 191 336 498 360 499 360 535 356 538 356 540 356 578 365 580 365 652 362 657 368 658 368 658 369 659 369 660 369 661 369 695 365 722 373 723 373 724 374 866 374 867 367 867 350 857 347 851 347"/></Shape>
+	    <String CONTENT="es y mas adelante lo sera mũcho mas los quales entren por examen de abilidad"
+                    HPOS="191"
+                    VPOS="308"
+                    WIDTH="676"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f85dfd2d"
+                    TAGREFS="LT6926"
+                    BASELINE="188 355 886 390" 
+                    HPOS="186"
+                    VPOS="332"
+                    WIDTH="699"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="845 366 834 366 823 365 811 365 807 364 749 366 742 360 741 360 740 360 739 360 661 361 635 354 630 354 620 353 563 357 516 348 515 348 514 348 513 348 491 353 354 340 351 340 350 340 349 340 282 343 187 332 187 354 186 367 232 364 279 365 296 373 300 375 301 375 303 375 314 374 346 369 378 376 395 379 396 379 397 379 404 377 415 373 421 378 422 378 422 379 423 379 424 379 425 379 445 378 475 377 500 381 534 386 535 386 568 384 581 383 594 385 634 391 635 391 636 391 645 386 652 384 676 387 722 395 723 396 884 396 885 389 883 366 865 372 849 366 845 366"/></Shape>
+	    <String CONTENT="y buenas costunbres por que ay gran falta de dotrjna Entrelos clerigos q̃los Re"
+                    HPOS="186"
+                    VPOS="332"
+                    WIDTH="699"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_242f29b9"
+                    TAGREFS="LT6926"
+                    BASELINE="189 379 322 381 871 413" 
+                    HPOS="187"
+                    VPOS="357"
+                    WIDTH="683"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="589 375 588 375 540 377 533 377 525 376 480 369 472 369 467 368 456 373 454 373 450 373 421 366 415 366 404 366 392 365 381 365 325 365 314 365 309 365 288 359 279 359 267 359 256 359 246 358 234 358 229 357 188 357 188 378 187 392 253 389 280 390 289 399 290 399 290 400 291 400 292 400 294 400 301 399 331 393 362 401 365 402 366 402 367 402 372 402 401 398 421 404 431 408 432 408 433 408 446 406 466 401 504 402 508 408 512 411 512 411 515 412 574 411 582 411 585 411 615 418 616 418 617 418 618 418 625 413 630 410 638 413 649 419 650 419 651 419 652 419 668 415 669 415 670 416 676 420 676 421 677 421 678 421 680 421 681 421 700 417 708 415 711 417 718 423 718 424 719 424 720 424 770 425 771 425 773 425 774 425 781 420 783 419 786 420 808 429 809 429 810 429 869 424 870 412 869 396 810 387 809 387 726 387 716 387 714 387 706 382 704 382 703 382 702 382 660 384 657 384 656 384 649 378 648 378 647 378 645 378 617 382 613 382 609 382 590 375 589 375"/></Shape>
+	    <String CONTENT="ligiosos tienen ensus conventos cujdando desto peroes menester paralos seglares"
+                    HPOS="187"
+                    VPOS="357"
+                    WIDTH="683"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35ccfdfc"
+                    TAGREFS="LT6926"
+                    BASELINE="189 402 592 418" 
+                    HPOS="187"
+                    VPOS="384"
+                    WIDTH="405"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="187 426 217 426 220 428 224 431 225 431 226 431 227 431 228 431 231 428 244 418 260 418 302 420 317 431 323 437 324 437 325 437 339 434 340 434 341 434 341 432 354 422 390 424 402 434 410 441 411 441 412 441 466 443 467 443 468 443 472 440 520 446 521 446 522 446 531 439 537 434 556 437 558 440 565 446 566 446 567 446 568 446 569 446 577 440 579 439 590 440 592 418 592 407 517 404 517 403 496 395 495 395 494 395 476 398 462 393 461 393 460 393 443 400 433 400 412 399 388 390 387 390 386 390 385 390 376 396 360 390 359 390 333 388 332 388 316 391 306 387 305 387 304 387 303 387 296 393 267 387 266 387 253 392 235 384 234 384 233 384 232 384 232 385 228 390 189 390 189 402"/></Shape>
+	    <String CONTENT="asi para bien confesar como ꝑa bien predicar"
+                    HPOS="187"
+                    VPOS="384"
+                    WIDTH="405"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="167.0"
+                   VPOS="236.0"
+                   WIDTH="20.0"
+                   HEIGHT="32.0"
+                   ID="eSc_textblock_d4d00de9"
+                   TAGREFS="BT16575">
+          <Shape><Polygon POINTS="167 236 167 268 187 268 187 236"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="307"
+                   VPOS="1332"
+                   WIDTH="717"
+                   HEIGHT="29"
+                   ID="eSc_textblock_ab49139d"
+                   TAGREFS="BT16577">
+          <Shape><Polygon POINTS="307 1332 307 1361 1024 1361 1024 1332"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
