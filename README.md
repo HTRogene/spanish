@@ -16,37 +16,17 @@ HTRogène is an exploratory project funded by Biblissima+, aiming to develop gen
 This repository focuses on the Medieval Italian corpus, providing ground-truth data for Handwritten Text Recognition (HTR) and layout segmentation.  
 The dataset is designed to support the creation of robust and reliable HTR models for Italian manuscripts.
 
-| Shelfmark                                                                      | Links                                              | Type   |   Century | Color Pages   |   Main Zones |   Lines |   Characters | Genre                 |
-|--------------------------------------------------------------------------------|----------------------------------------------------|--------|-----------|---------------|--------------|---------|--------------|-----------------------|
-| Paris, BnF, lat. 17226                                                         | [**B**](https://data.biblissima.fr/w/Item:Q62268)  | prose  |         7 | ✗             |           20 |     602 |         7085 | Narratives            |
-| Saint-Omer, BM 764                                                             | [**B**](https://data.biblissima.fr/entity/Q242928) | prose  |         9 | ✗             |           10 |     253 |         9582 | Narratives            |
-| Angers, Archives départementales de Maine-et-Loire - H(039) 2 n° 176-177       |                                                    | prose  |        11 | ✗             |            1 |      37 |         3341 | Documents of practice |
-| Angers, Archives départementales de Maine-et-Loire - H(045) 1 n° 4             |                                                    | prose  |        11 | ✗             |            1 |      52 |         2776 | Documents of practice |
-| Le Havre, Bm 332                                                               | [**B**](https://data.biblissima.fr/w/Item:Q241805) | prose  |        11 | ✗             |           10 |     336 |        13387 | Narratives            |
-| Semur-en-Auxois, Bibliothèque municipale, Ms. 1                                | [**B**](https://data.biblissima.fr/entity/Q208062) | prose  |        11 | ✗             |           15 |     230 |         9555 | Narratives            |
-| Archives départementales des Yvelines, 45H8 17                                 |                                                    | prose  |        12 | ✗             |            1 |      41 |         1662 | Documents of practice |
-| Archives départementales des Yvelines, 45H8 8                                  |                                                    | prose  |        12 | ✗             |            1 |       7 |          350 | Documents of practice |
-| Besançon, Bibliothèque diocésaine - Par. 03                                    |                                                    | prose  |        12 | ✗             |            2 |      23 |         2163 | Documents of practice |
-| Bruges. Bibliothèque publique, Ms. 403                                         | [**B**](https://data.biblissima.fr/w/Item:Q312351) | prose  |        12 | ✗             |           10 |     445 |        16693 | Narratives            |
-| Laval, Archives de la Mayenne, H 154                                           |                                                    | prose  |        12 | ✗             |            9 |     388 |        10372 | Documents of practice |
-| Liege, Archives de l'État, T51.12                                              |                                                    | prose  |        12 | ✗             |            1 |       5 |          295 | Documents of practice |
-| Liege, Archives de l'État, T51.13                                              |                                                    | prose  |        12 | ✗             |            1 |      25 |         1925 | Documents of practice |
-| Liege, Archives de l'État, T51.14                                              |                                                    | prose  |        12 | ✗             |            1 |      11 |          913 | Documents of practice |
-| Paris, Bibliothèque de l'Ecole nationale supérieure des Beaux-Arts - Mn.Mas 38 | [**B**](https://data.biblissima.fr/w/Item:Q403823) | prose  |        12 | ✗             |            1 |      39 |         2130 | Documents of practice |
-| Auxerre, Archives départementales de l'Yonne - H 2404                          | [**B**](https://data.biblissima.fr/w/Item:Q208407) | prose  |        13 | ✗             |            1 |      13 |         1086 | Documents of practice |
-| Cambridge, Corpus Christi College, MS 29                                       | [**B**](https://data.biblissima.fr/entity/Q210652) | prose  |        13 | ✗             |           19 |    1608 |        41477 | Narratives            |
-| Graz, Universitätsbibliothek, Ms. 1265                                         |                                                    | prose  |        13 | ✗             |           20 |     868 |        33793 | Treatises             |
-| Nice, AM, AA 1/04                                                              |                                                    | prose  |        13 | ✗             |            1 |       9 |          811 | Documents of practice |
-| Saint-Omer, BM 716, Tome 7                                                     | [**B**](https://data.biblissima.fr/w/Item:Q252687) | prose  |        13 | ✗             |           10 |     445 |        16780 | Narratives            |
-| Paris, Archives nationales, LL 106B                                            |                                                    | prose  |        14 | ✗             |           12 |     171 |         4359 | Documents of practice |
-| Paris, Archives nationales, LL 108A                                            |                                                    | prose  |        14 | ✗             |           25 |     561 |        15275 | Documents of practice |
-| Paris, Archives nationales, LL 108B                                            |                                                    | prose  |        14 | ✗             |           26 |     372 |        12401 | Documents of practice |
-| Paris, BnF, lat. 15168                                                         | [**B**](https://data.biblissima.fr/w/Item:Q61002)  | prose  |        14 | ✗             |           20 |     887 |        28072 | Treatises             |
-| Paris, Archives nationales, LL 110                                             |                                                    | prose  |        15 | ✗             |           17 |     305 |         9405 | Documents of practice |
-| Paris, Archives nationales, LL 125                                             |                                                    | prose  |        15 | ✗             |           10 |     436 |        18555 | Documents of practice |
-| Paris, BIU Santé, Médecine, 5119                                               | [**B**](https://data.biblissima.fr/w/Item:Q180306) | prose  |        15 | ✗             |           11 |     331 |         9880 | Treatises             |
-| Ghent, UL, HS.0011                                                             | [**B**](https://data.biblissima.fr/entity/Q202605) | prose  |        16 | ✗             |           15 |    1128 |        31383 | Treatises             |
-| Paris, BnF, Smith-Lesouëf 35                                                   | [**B**](https://data.biblissima.fr/w/Item:Q106141) | prose  |        16 | ✗             |            6 |     127 |         4600 | Treatises             |
+| Shelfmark            | Links                                             | Type   |   Century | Color Pages   |   Main Zones |   Lines |   Characters | Genre       |
+|----------------------|---------------------------------------------------|--------|-----------|---------------|--------------|---------|--------------|-------------|
+| Paris, BnF, esp. 33  | [**B**](https://data.biblissima.fr/entity/Q44326) | prose  |        14 | ✗             |           22 |     489 |        14303 | Treatises   |
+| Paris, BnF, esp. 43  | [**B**](https://data.biblissima.fr/entity/Q44382) | verse  |        14 | ✗             |            8 |     284 |        18885 | Treatises   |
+| Paris, BnF, esp. 286 | [**B**](https://data.biblissima.fr/entity/Q44294) | prose  |        15 | ✗             |            8 |     178 |         7462 | Treatises   |
+| Paris, BnF, esp. 305 | [**B**](https://data.biblissima.fr/entity/Q44303) | mixed  |        15 | ✗             |           12 |     300 |         9648 | Poetry      |
+| Paris, BnF, esp. 458 | [**B**](https://data.biblissima.fr/entity/Q44390) | prose  |        15 | ✗             |            8 |     331 |        22759 | Treatises   |
+| Paris, BnF, esp. 161 | [**B**](https://data.biblissima.fr/entity/Q44219) | prose  |        16 | ✗             |           19 |     470 |        19399 | Espistolary |
+| Paris, BnF, esp. 325 | [**B**](https://data.biblissima.fr/entity/Q44318) | prose  |        16 | ✗             |            9 |     281 |        15844 | Espistolary |
+| Paris, BnF, esp. 37  | [**B**](https://data.biblissima.fr/entity/Q44350) | verse  |        16 | ✗             |           15 |     547 |        12421 | Poetry      |
+
 
 ## Dataset Overview
 
@@ -62,27 +42,24 @@ We recommend using the normalized `.chocomufin.xml` files for most applications.
 
 ### Total number of pages
 
-133
+65
 
 ### Regions
 
-- MainZone (277)
-- TableZone (32)
-- MarginTextZone (261)
-- StampZone (14)
-- NumberingZone (84)
-- SealZone (3)
-- DropCapitalZone (129)
-- RunningTitleZone (38)
-- DigitizationArtefactZone (56)
-- GraphicZone (5)
-- DamageZone (14)
+- MainZone (101)
+- DigitizationArtefactZone (28)
+- NumberingZone (31)
+- MarginTextZone (27)
+- StampZone (1)
+- RunningTitleZone (3)
+- GraphicZone (2)
+- DropCapitalZone (6)
 
 ### Lines
 
-- DefaultLine (9179)
-- HeadingLine (302)
-- InterlinearLine (274)
+- HeadingLine (68)
+- DefaultLine (2808)
+- InterlinearLine (4)
 
 
 ## Funding and Support
