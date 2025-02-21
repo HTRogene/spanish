@@ -44,84 +44,99 @@ characters:
   - a
   - o
   - s
-  - l
   - n
   - r
+  - l
   - i
   - d
   - u
   - t
-  - ̃
   - c
+  - ̃
   - m
-  - q
   - p
-  - b
-  - g
+  - q
   - y
-  - ⁊
+  - g
+  - b
   - .
   - f
+  - ⁊
   - ̧
-  - /
-  - z
   - h
+  - z
+  - /
   - R
   - E
-  - ͣ
   - x
+  - ͣ
   - ł
-  - ͥ
-  - ꝑ
-  - ¶
-  - ̾
-  - L
   - M
-  - I
-  - C
-  - G
-  - P
-  - '-'
-  - ẜ
-  - ͦ
-  - ꝓ
-  - O
+  - ꝑ
+  - ͥ
   - S
-  - ͬ
-  - D
-  - ꝯ
-  - ħ
-  - A
-  - N
-  - ͤ
   - U
-  - T
+  - ᵈ
+  - I
+  - ¶
+  - C
+  - L
+  - ̾
+  - P
+  - ͦ
+  - D
+  - G
+  - '-'
+  - A
+  - ͬ
+  - O
+  - ẜ
+  - ꝓ
+  - N
   - ⟦
   - ⟧
-  - Q
-  - H
-  - ꝰ
+  - ͤ
+  - ꝯ
+  - ħ
+  - T
+  - ͭ
   - '3'
+  - H
+  - '5'
+  - Y
   - '4'
-  - ͧ
+  - Q
+  - ˢ
+  - '1'
+  - '2'
   - B
   - ᷤ
-  - '9'
-  - ':'
+  - '0'
   - ᵒ
-  - ʳ
-  - ꝟ
+  - ͩ
+  - ':'
   - '6'
   - '7'
+  - ꝰ
+  - ʳ
   - '8'
-  - Y
-  - '1'
-  - '5'
-  - Z
-  - X
+  - '9'
+  - ᵃ
+  - ꝟ
   - F
+  - X
+  - ͧ
+  - '&'
+  - ᶜ
+  - Z
+  - ᵉ
+  - ᵗ
+  - ᵐ
+  - ꝗ
+  - ́
+  - ͨ
+  - ̈
   - ƀ
-  - '0'
   mode: NFD
 citation-file-link: https://github.com/HTRogene/italian/blob/main/CITATION.CFF
 description: >-
@@ -158,11 +173,11 @@ time:
 title: HTRogène Medieval Spanish Manuscripts
 url: https://github.com/HTRogene/spanish
 volume:
-- count: 85478
+- count: 120721
   metric: characters
-- count: 46
+- count: 65
   metric: files
-- count: 2129
+- count: 2880
   metric: lines
-- count: 119
+- count: 199
   metric: regions
