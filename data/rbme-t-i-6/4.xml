@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>4.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT22224" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT22225" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT25519" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT8055" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT8056" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2496"
+          HEIGHT="3744"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2496"
+                  HEIGHT="3744">
+        <TextBlock HPOS="540"
+                   VPOS="449"
+                   WIDTH="248"
+                   HEIGHT="81"
+                   ID="eSc_textblock_4a701886"
+                   TAGREFS="BT16583">
+          <Shape><Polygon POINTS="763 449 788 513 632 530 540 505 642 449"/></Shape>
+          <TextLine ID="eSc_line_fead18fb"
+                    TAGREFS="LT8055"
+                    BASELINE="601 503 786 503" 
+                    HPOS="601"
+                    VPOS="449"
+                    WIDTH="185"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="767 468 748 451 723 449 705 449 684 449 663 449 642 449 621 459 601 470 601 503 601 526 642 538 644 538 646 538 786 526 786 503 786 455 767 453 767 468"/></Shape>
+            <String CONTENT="ACE"
+                    HPOS="601"
+                    VPOS="449"
+                    WIDTH="185"
+                    HEIGHT="89"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="440"
+                   VPOS="599"
+                   WIDTH="759"
+                   HEIGHT="330"
+                   ID="eSc_textblock_c07f5ff8"
+                   TAGREFS="BT25519">
+          <Shape><Polygon POINTS="1154 607 1162 730 1199 780 1162 807 1137 913 474 929 440 640 482 607 617 599"/></Shape>
+          <TextLine ID="eSc_line_3e27d3eb"
+                    TAGREFS="LT6926"
+                    BASELINE="472 640 1148 632" 
+                    HPOS="470"
+                    VPOS="601"
+                    WIDTH="678"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="1135 605 1114 605 1094 605 1073 605 1052 605 1031 605 1010 603 990 603 969 603 948 603 927 603 906 603 886 603 875 601 484 605 470 613 472 640 472 655 1148 655 1148 632 1141 605 1135 605"/></Shape>
+            <String CONTENT="en todas las tierras; mas que los otros"
+                    HPOS="470"
+                    VPOS="601"
+                    WIDTH="678"
+                    HEIGHT="54"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5dc7926c"
+                    TAGREFS="LT6926"
+                    BASELINE="480 686 1152 680" 
+                    HPOS="478"
+                    VPOS="646"
+                    WIDTH="674"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="480 686 480 705 1148 707 1152 680 1146 646 478 651 480 686"/></Shape>
+            <String CONTENT="iuegos. E la figura del tablero es que a de"
+                    HPOS="478"
+                    VPOS="646"
+                    WIDTH="674"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d716e10a"
+                    TAGREFS="LT6926"
+                    BASELINE="478 734 1144 728" 
+                    HPOS="476"
+                    VPOS="694"
+                    WIDTH="668"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="478 734 478 752 1141 748 1144 728 1137 694 476 698 478 734"/></Shape>
+            <String CONTENT="ser quadrado.⁊ ha de auer ocho carreras;"
+                    HPOS="476"
+                    VPOS="694"
+                    WIDTH="668"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c93cf098"
+                    TAGREFS="LT6926"
+                    BASELINE="478 780 1181 771" 
+                    HPOS="476"
+                    VPOS="740"
+                    WIDTH="705"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1173 740 476 746 478 780 478 800 1181 796 1181 771 1175 740 1173 740"/></Shape>
+            <String CONTENT="⁊ en cada carrera ocho casas que son por to"
+                    HPOS="476"
+                    VPOS="740"
+                    WIDTH="705"
+                    HEIGHT="60"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_df6b99bc"
+                    TAGREFS="LT6926"
+                    BASELINE="476 821 1146 815" 
+                    HPOS="474"
+                    VPOS="784"
+                    WIDTH="672"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="476 821 476 842 1144 838 1146 815 1139 784 474 788 476 821"/></Shape>
+            <String CONTENT="das sessaenta ⁊ quatro casas. ¶ E la ne"
+                    HPOS="474"
+                    VPOS="784"
+                    WIDTH="672"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_80b57a51"
+                    TAGREFS="LT6926"
+                    BASELINE="476 863 1139 863" 
+                    HPOS="476"
+                    VPOS="827"
+                    WIDTH="663"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="476 863 476 881 1139 879 1139 863 1139 829 476 827 476 863"/></Shape>
+            <String CONTENT="ytad delas casas an de seer duna color ⁊ la"
+                    HPOS="476"
+                    VPOS="827"
+                    WIDTH="663"
+                    HEIGHT="54"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_46aaf2b7"
+                    TAGREFS="LT6926"
+                    BASELINE="476 908 1021 904" 
+                    HPOS="474"
+                    VPOS="869"
+                    WIDTH="547"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="476 908 476 925 1019 925 1021 904 1017 869 474 869 476 908"/></Shape>
+            <String CONTENT="meytad de otra. ⁊ otrossi los trebeios"
+                    HPOS="474"
+                    VPOS="869"
+                    WIDTH="547"
+                    HEIGHT="56"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1597"
+                   VPOS="449"
+                   WIDTH="198"
+                   HEIGHT="73"
+                   ID="eSc_textblock_cff555be"
+                   TAGREFS="BT16583">
+          <Shape><Polygon POINTS="1778 449 1795 505 1597 522 1599 449"/></Shape>
+          <TextLine ID="eSc_line_298379ec"
+                    TAGREFS="LT8055"
+                    BASELINE="1587 499 1786 499" 
+                    HPOS="1587"
+                    VPOS="445"
+                    WIDTH="199"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1774 449 1753 449 1732 449 1711 449 1691 449 1670 449 1649 449 1628 449 1607 449 1605 445 1587 445 1587 499 1587 520 1784 522 1786 499 1784 484 1774 449"/></Shape>
+            <String CONTENT="DREX"
+                    HPOS="1587"
+                    VPOS="445"
+                    WIDTH="199"
+                    HEIGHT="77"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="444"
+                   VPOS="1751"
+                   WIDTH="702"
+                   HEIGHT="842"
+                   ID="eSc_textblock_03e21558"
+                   TAGREFS="BT25519">
+          <Shape><Polygon POINTS="1146 1772 1137 2543 1112 2593 449 2577 449 2113 696 2104 715 2077 713 1849 458 1844 444 1751"/></Shape>
+          <TextLine ID="eSc_line_338c70d1"
+                    TAGREFS="LT6926"
+                    BASELINE="444 1769 1131 1790" 
+                    HPOS="439"
+                    VPOS="1747"
+                    WIDTH="690"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="1098 1769 1067 1769 1035 1769 1004 1765 973 1765 942 1765 911 1765 879 1762 848 1762 817 1762 786 1759 755 1759 723 1759 692 1759 661 1756 630 1756 599 1756 567 1756 536 1753 505 1753 474 1753 443 1747 443 1765 439 1806 1123 1818 1129 1787 1107 1769 1098 1769"/></Shape>
+            <String CONTENT="de quantas colores an de seer todos los trebe"
+                    HPOS="439"
+                    VPOS="1747"
+                    WIDTH="690"
+                    HEIGHT="71"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_da450204"
+                    TAGREFS="LT6926"
+                    BASELINE="478 1824 1131 1834" 
+                    HPOS="476"
+                    VPOS="1795"
+                    WIDTH="655"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="520 1820 499 1822 478 1817 478 1824 476 1840 902 1855 904 1855 979 1847 981 1847 983 1847 1010 1857 1012 1857 1015 1857 1129 1847 1131 1834 1129 1803 536 1795 520 1820"/></Shape>
+            <String CONTENT="ios del acedrex."
+                    HPOS="476"
+                    VPOS="1795"
+                    WIDTH="655"
+                    HEIGHT="62"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_07198168"
+                    TAGREFS="LT6926"
+                    BASELINE="723 1872 1123 1878" 
+                    HPOS="721"
+                    VPOS="1838"
+                    WIDTH="402"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="723 1872 721 1892 1119 1903 1123 1878 1121 1844 723 1838 723 1872"/></Shape>
+            <String CONTENT="Os trebeios an de seer tre"
+                    HPOS="721"
+                    VPOS="1838"
+                    WIDTH="402"
+                    HEIGHT="65"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_369b137d"
+                    TAGREFS="LT6926"
+                    BASELINE="719 1913 1137 1919" 
+                    HPOS="717"
+                    VPOS="1876"
+                    WIDTH="420"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="719 1913 717 1936 1135 1936 1137 1919 1137 1888 719 1876 719 1913"/></Shape>
+            <String CONTENT="ynta ⁊ dos. E los .xvi. duna"
+                    HPOS="717"
+                    VPOS="1876"
+                    WIDTH="420"
+                    HEIGHT="60"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2ce7df01"
+                    TAGREFS="LT6926"
+                    BASELINE="719 1959 1129 1963" 
+                    HPOS="717"
+                    VPOS="1926"
+                    WIDTH="412"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="719 1959 717 1978 1125 1984 1129 1963 1127 1932 719 1926 719 1959"/></Shape>
+            <String CONTENT="color; deuen se entablar en"
+                    HPOS="717"
+                    VPOS="1926"
+                    WIDTH="412"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_466b0b30"
+                    TAGREFS="LT6926"
+                    BASELINE="717 2007 1129 2007" 
+                    HPOS="717"
+                    VPOS="1969"
+                    WIDTH="412"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="717 2007 717 2030 1129 2025 1129 2007 1129 1976 717 1969 717 2007"/></Shape>
+            <String CONTENT="las dos carreras primeras"
+                    HPOS="717"
+                    VPOS="1969"
+                    WIDTH="412"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b264163"
+                    TAGREFS="LT6926"
+                    BASELINE="719 2052 1135 2052" 
+                    HPOS="719"
+                    VPOS="2019"
+                    WIDTH="416"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="719 2052 719 2080 1135 2071 1135 2052 1135 2021 719 2019 719 2052"/></Shape>
+            <String CONTENT="del tablero. ⁊ los otros dize"
+                    HPOS="719"
+                    VPOS="2019"
+                    WIDTH="416"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_13ca5d46"
+                    TAGREFS="LT6926"
+                    BASELINE="719 2094 1125 2098" 
+                    HPOS="717"
+                    VPOS="2061"
+                    WIDTH="408"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="719 2094 717 2111 1121 2121 1125 2098 1123 2065 719 2061 719 2094"/></Shape>
+            <String CONTENT="seyes dela otra color an de"
+                    HPOS="717"
+                    VPOS="2061"
+                    WIDTH="408"
+                    HEIGHT="60"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_20ea3a3d"
+                    TAGREFS="LT6926"
+                    BASELINE="461 2127 1114 2142" 
+                    HPOS="459"
+                    VPOS="2102"
+                    WIDTH="655"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="690 2104 669 2104 648 2104 628 2107 607 2107 586 2107 565 2109 544 2109 524 2109 503 2111 482 2111 461 2111 461 2127 459 2146 1110 2161 1114 2142 1112 2113 690 2102 690 2104"/></Shape>
+            <String CONTENT="seer entablados dell otro cabo del tablero en"
+                    HPOS="459"
+                    VPOS="2102"
+                    WIDTH="655"
+                    HEIGHT="59"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fa513ebc"
+                    TAGREFS="LT6926"
+                    BASELINE="461 2173 1125 2186" 
+                    HPOS="459"
+                    VPOS="2142"
+                    WIDTH="666"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="461 2173 459 2200 1121 2204 1125 2186 1125 2152 461 2142 461 2173"/></Shape>
+            <String CONTENT="essa misma manera; en derecho delos otros"
+                    HPOS="459"
+                    VPOS="2142"
+                    WIDTH="666"
+                    HEIGHT="62"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_227aacc6"
+                    TAGREFS="LT6926"
+                    BASELINE="486 2221 1129 2227" 
+                    HPOS="484"
+                    VPOS="2190"
+                    WIDTH="645"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="486 2221 484 2236 1125 2250 1129 2227 1129 2192 486 2190 486 2221"/></Shape>
+            <String CONTENT="E destos .xvi. trebeios los.viii. son meno"
+                    HPOS="484"
+                    VPOS="2190"
+                    WIDTH="645"
+                    HEIGHT="60"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fb1d4f82"
+                    TAGREFS="LT6926"
+                    BASELINE="455 2260 1131 2271" 
+                    HPOS="453"
+                    VPOS="2225"
+                    WIDTH="678"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="455 2260 453 2281 1021 2300 1023 2300 1129 2290 1131 2271 1129 2236 455 2225 455 2260"/></Shape>
+            <String CONTENT="res; que fueron fechos asemeiança del pu"
+                    HPOS="453"
+                    VPOS="2225"
+                    WIDTH="678"
+                    HEIGHT="75"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d072a137"
+                    TAGREFS="LT6926"
+                    BASELINE="453 2304 1121 2317" 
+                    HPOS="451"
+                    VPOS="2273"
+                    WIDTH="670"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="453 2304 451 2329 1116 2335 1121 2317 1119 2285 453 2273 453 2304"/></Shape>
+            <String CONTENT="eblo menudo que ua en la hueste. ¶ E los"
+                    HPOS="451"
+                    VPOS="2273"
+                    WIDTH="670"
+                    HEIGHT="62"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cbff8e40"
+                    TAGREFS="LT6926"
+                    BASELINE="453 2346 1119 2358" 
+                    HPOS="451"
+                    VPOS="2317"
+                    WIDTH="668"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="453 2346 451 2364 1114 2379 1119 2358 1116 2329 453 2317 453 2346"/></Shape>
+            <String CONTENT="otros iuegos que son mayores es el uno a"
+                    HPOS="451"
+                    VPOS="2317"
+                    WIDTH="668"
+                    HEIGHT="62"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0a76900e"
+                    TAGREFS="LT6926"
+                    BASELINE="451 2389 1116 2402" 
+                    HPOS="449"
+                    VPOS="2358"
+                    WIDTH="667"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="451 2389 449 2408 1112 2419 1116 2402 1114 2371 451 2358 451 2389"/></Shape>
+            <String CONTENT="semeiante del Rey; que es sennor dela hu"
+                    HPOS="449"
+                    VPOS="2358"
+                    WIDTH="667"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_335fa0d7"
+                    TAGREFS="LT6926"
+                    BASELINE="453 2435 1125 2446" 
+                    HPOS="451"
+                    VPOS="2396"
+                    WIDTH="674"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="453 2435 451 2460 1121 2462 1125 2446 1121 2404 1006 2412 453 2396 453 2435"/></Shape>
+            <String CONTENT="este. ⁊ aquel deue estar en la una delas doᷤᷤ"
+                    HPOS="451"
+                    VPOS="2396"
+                    WIDTH="674"
+                    HEIGHT="66"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b7bdc225"
+                    TAGREFS="LT6926"
+                    BASELINE="451 2477 1106 2489" 
+                    HPOS="449"
+                    VPOS="2444"
+                    WIDTH="657"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="451 2477 449 2500 1102 2510 1106 2489 1104 2456 451 2444 451 2477"/></Shape>
+            <String CONTENT="casas de medio. ¶ E cabo dell en la otra"
+                    HPOS="449"
+                    VPOS="2444"
+                    WIDTH="657"
+                    HEIGHT="66"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7fabdcea"
+                    TAGREFS="LT6926"
+                    BASELINE="453 2520 1125 2533" 
+                    HPOS="451"
+                    VPOS="2487"
+                    WIDTH="674"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="453 2520 451 2545 1121 2550 1125 2533 1125 2500 453 2487 453 2520"/></Shape>
+            <String CONTENT="casa de medio; esta otro trebeio que es a se"
+                    HPOS="451"
+                    VPOS="2487"
+                    WIDTH="674"
+                    HEIGHT="63"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b09af249"
+                    TAGREFS="LT6926"
+                    BASELINE="455 2562 1106 2579" 
+                    HPOS="453"
+                    VPOS="2531"
+                    WIDTH="653"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="455 2562 453 2606 628 2612 630 2612 680 2606 738 2597 771 2606 819 2616 821 2616 823 2616 850 2604 861 2600 936 2600 994 2600 1000 2604 1037 2620 1040 2620 1042 2620 1044 2620 1046 2620 1069 2604 1104 2604 1106 2579 1104 2548 455 2531 455 2562"/></Shape>
+            <String CONTENT="meiança del alfferez que tiene la senna"
+                    HPOS="453"
+                    VPOS="2531"
+                    WIDTH="653"
+                    HEIGHT="89"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1181"
+                   VPOS="1763"
+                   WIDTH="788"
+                   HEIGHT="889"
+                   ID="eSc_textblock_f45408e2"
+                   TAGREFS="BT25519">
+          <Shape><Polygon POINTS="1969 1772 1961 2585 1936 2652 1248 2593 1231 2312 1264 1813 1181 1811 1191 1763"/></Shape>
+          <TextLine ID="eSc_line_75a7a4cf"
+                    TAGREFS="LT6926"
+                    BASELINE="1279 1786 1955 1792" 
+                    HPOS="1277"
+                    VPOS="1763"
+                    WIDTH="678"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1944 1770 1924 1770 1903 1770 1882 1770 1861 1770 1840 1770 1820 1770 1799 1770 1778 1770 1757 1768 1736 1768 1716 1768 1695 1768 1674 1768 1653 1768 1632 1768 1612 1768 1591 1768 1570 1765 1549 1765 1528 1765 1508 1765 1487 1765 1466 1765 1445 1765 1424 1765 1404 1765 1383 1763 1362 1763 1341 1763 1320 1763 1300 1763 1279 1763 1279 1786 1277 1803 1951 1809 1955 1792 1953 1770 1944 1770"/></Shape>
+            <String CONTENT="delas sennales del Rey.⁊ algunos omnes"
+                    HPOS="1277"
+                    VPOS="1763"
+                    WIDTH="678"
+                    HEIGHT="46"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3d22ac27"
+                    TAGREFS="LT6926"
+                    BASELINE="1277 1830 1959 1836" 
+                    HPOS="1275"
+                    VPOS="1797"
+                    WIDTH="684"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1277 1830 1275 1849 1955 1855 1959 1836 1957 1805 1277 1797 1277 1830"/></Shape>
+            <String CONTENT="a que non saben el nomb⟦r⟧e;⁊ llaman le;"
+                    HPOS="1275"
+                    VPOS="1797"
+                    WIDTH="684"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cdef205c"
+                    TAGREFS="LT6926"
+                    BASELINE="1275 1878 1959 1884" 
+                    HPOS="1272"
+                    VPOS="1844"
+                    WIDTH="687"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1275 1878 1272 1890 1955 1896 1959 1884 1957 1851 1275 1844 1275 1878"/></Shape>
+            <String CONTENT="alfferza. E estos dos trebeios cadauno iue"
+                    HPOS="1272"
+                    VPOS="1844"
+                    WIDTH="687"
+                    HEIGHT="52"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7fd6f028"
+                    TAGREFS="LT6926"
+                    BASELINE="1270 1919 1961 1928" 
+                    HPOS="1268"
+                    VPOS="1886"
+                    WIDTH="693"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1270 1919 1268 1942 1959 1942 1961 1928 1959 1886 1270 1886 1270 1919"/></Shape>
+            <String CONTENT="ga por si ⁊ nõ a otro ninguno en todos loˢ"
+                    HPOS="1268"
+                    VPOS="1886"
+                    WIDTH="693"
+                    HEIGHT="56"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fda9b516"
+                    TAGREFS="LT6926"
+                    BASELINE="1268 1965 1955 1971" 
+                    HPOS="1266"
+                    VPOS="1928"
+                    WIDTH="689"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1268 1965 1266 1988 1951 1990 1955 1971 1951 1928 1268 1930 1268 1965"/></Shape>
+            <String CONTENT=".xvi. trebeios; que los semeie. ¶ E en laˢ"
+                    HPOS="1266"
+                    VPOS="1928"
+                    WIDTH="689"
+                    HEIGHT="62"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d7032155"
+                    TAGREFS="LT6926"
+                    BASELINE="1270 2007 1948 2017" 
+                    HPOS="1268"
+                    VPOS="1973"
+                    WIDTH="680"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1270 2007 1268 2023 1944 2034 1948 2017 1946 1984 1270 1973 1270 2007"/></Shape>
+            <String CONTENT="otras dos casas al lado destas; estan otros"
+                    HPOS="1268"
+                    VPOS="1973"
+                    WIDTH="680"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_8287cee5"
+                    TAGREFS="LT6926"
+                    BASELINE="1268 2055 1938 2059" 
+                    HPOS="1266"
+                    VPOS="2015"
+                    WIDTH="672"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1268 2055 1266 2077 1936 2077 1938 2059 1936 2021 1268 2015 1268 2055"/></Shape>
+            <String CONTENT="dos trebeios que se semeian ⁊ llaman los"
+                    HPOS="1266"
+                    VPOS="2015"
+                    WIDTH="672"
+                    HEIGHT="62"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_879f6d21"
+                    TAGREFS="LT6926"
+                    BASELINE="1270 2098 1942 2107" 
+                    HPOS="1268"
+                    VPOS="2063"
+                    WIDTH="674"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1270 2098 1268 2117 1938 2125 1942 2107 1940 2075 1270 2063 1270 2098"/></Shape>
+            <String CONTENT="alffiles en algarauia que quiere tanto"
+                    HPOS="1268"
+                    VPOS="2063"
+                    WIDTH="674"
+                    HEIGHT="62"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_55702984"
+                    TAGREFS="LT6926"
+                    BASELINE="1266 2144 1934 2150" 
+                    HPOS="1264"
+                    VPOS="2104"
+                    WIDTH="670"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1266 2144 1264 2159 1930 2165 1934 2150 1932 2119 1266 2104 1266 2144"/></Shape>
+            <String CONTENT="dezir en nuestro lenguaie. como eleffan"
+                    HPOS="1264"
+                    VPOS="2104"
+                    WIDTH="670"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_899308a7"
+                    TAGREFS="LT6926"
+                    BASELINE="1266 2188 1948 2194" 
+                    HPOS="1264"
+                    VPOS="2146"
+                    WIDTH="684"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1266 2188 1264 2204 1944 2211 1948 2194 1948 2161 1266 2146 1266 2188"/></Shape>
+            <String CONTENT="tes que solien los Reyes leuar en las bata"
+                    HPOS="1264"
+                    VPOS="2146"
+                    WIDTH="684"
+                    HEIGHT="65"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9573d4e3"
+                    TAGREFS="LT6926"
+                    BASELINE="1262 2227 1932 2231" 
+                    HPOS="1260"
+                    VPOS="2192"
+                    WIDTH="672"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1262 2227 1260 2248 1928 2250 1932 2231 1930 2196 1262 2192 1262 2227"/></Shape>
+            <String CONTENT="llas. ⁊ cadauno leuaua al menos dos que"
+                    HPOS="1260"
+                    VPOS="2192"
+                    WIDTH="672"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_588a235c"
+                    TAGREFS="LT6926"
+                    BASELINE="1262 2271 1961 2281" 
+                    HPOS="1260"
+                    VPOS="2233"
+                    WIDTH="701"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1262 2271 1260 2290 1957 2302 1961 2281 1961 2242 1262 2233 1262 2271"/></Shape>
+            <String CONTENT="si ell uno se muriesse; quel fincasse ell otᵒ"
+                    HPOS="1260"
+                    VPOS="2233"
+                    WIDTH="701"
+                    HEIGHT="69"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_db1591b3"
+                    TAGREFS="LT6926"
+                    BASELINE="1250 2319 1944 2325" 
+                    HPOS="1248"
+                    VPOS="2285"
+                    WIDTH="696"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1250 2319 1248 2337 1940 2346 1944 2325 1942 2292 1250 2285 1250 2319"/></Shape>
+            <String CONTENT="¶ E en las otras dos casas cabo destas; es"
+                    HPOS="1248"
+                    VPOS="2285"
+                    WIDTH="696"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_15b19084"
+                    TAGREFS="LT6926"
+                    BASELINE="1260 2360 1934 2371" 
+                    HPOS="1258"
+                    VPOS="2331"
+                    WIDTH="676"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1260 2360 1258 2383 1930 2389 1934 2371 1932 2333 1260 2331 1260 2360"/></Shape>
+            <String CONTENT="tan otros dos trebeios que se semeian ⁊ lla"
+                    HPOS="1258"
+                    VPOS="2331"
+                    WIDTH="676"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_128a631a"
+                    TAGREFS="LT6926"
+                    BASELINE="1262 2404 1940 2416" 
+                    HPOS="1260"
+                    VPOS="2373"
+                    WIDTH="680"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="1262 2404 1260 2421 1936 2433 1940 2416 1940 2385 1262 2373 1262 2404"/></Shape>
+            <String CONTENT="man los todos comunalmientre cauallos."
+                    HPOS="1260"
+                    VPOS="2373"
+                    WIDTH="680"
+                    HEIGHT="60"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b3b62523"
+                    TAGREFS="LT6926"
+                    BASELINE="1262 2448 1944 2458" 
+                    HPOS="1260"
+                    VPOS="2416"
+                    WIDTH="684"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1262 2448 1260 2466 1940 2477 1944 2458 1944 2429 1262 2416 1262 2448"/></Shape>
+            <String CONTENT="mas los sus nombres derechos son caualle"
+                    HPOS="1260"
+                    VPOS="2416"
+                    WIDTH="684"
+                    HEIGHT="61"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1aa9b255"
+                    TAGREFS="LT6926"
+                    BASELINE="1260 2493 1928 2506" 
+                    HPOS="1258"
+                    VPOS="2458"
+                    WIDTH="670"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1260 2493 1258 2510 1924 2527 1928 2506 1926 2475 1260 2458 1260 2493"/></Shape>
+            <String CONTENT="ros. que son puestos por cabdiellos por mã"
+                    HPOS="1258"
+                    VPOS="2458"
+                    WIDTH="670"
+                    HEIGHT="69"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bc39d3f5"
+                    TAGREFS="LT6926"
+                    BASELINE="1260 2535 1928 2550" 
+                    HPOS="1258"
+                    VPOS="2500"
+                    WIDTH="670"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1260 2535 1258 2552 1366 2566 1368 2566 1370 2566 1401 2558 1449 2568 1451 2568 1528 2560 1537 2560 1543 2568 1545 2568 1545 2570 1547 2570 1549 2570 1551 2572 1926 2572 1928 2550 1926 2518 1260 2500 1260 2535"/></Shape>
+            <String CONTENT="dado del Rey; pora ordenar las azes dela"
+                    HPOS="1258"
+                    VPOS="2500"
+                    WIDTH="670"
+                    HEIGHT="72"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_56759ddf"
+                    TAGREFS="LT6926"
+                    BASELINE="1258 2577 1934 2593" 
+                    HPOS="1256"
+                    VPOS="2545"
+                    WIDTH="678"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1258 2577 1256 2616 1347 2606 1389 2618 1395 2620 1397 2620 1399 2620 1516 2618 1564 2618 1566 2618 1593 2629 1595 2629 1597 2629 1643 2618 1659 2614 1668 2618 1691 2629 1693 2629 1695 2629 1697 2629 1726 2618 1734 2614 1743 2618 1757 2624 1759 2624 1761 2624 1932 2616 1934 2593 1932 2562 1258 2545 1258 2577"/></Shape>
+            <String CONTENT="hueste. ¶ E en las otras dos casas de ca"
+                    HPOS="1256"
+                    VPOS="2545"
+                    WIDTH="678"
+                    HEIGHT="84"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_12eda94a"
+                    TAGREFS="LT6926"
+                    BASELINE="1878 2633 1938 2629" 
+                    HPOS="1874"
+                    VPOS="2597"
+                    WIDTH="66"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1878 2633 1880 2670 1940 2666 1938 2629 1934 2597 1874 2597 1878 2633"/></Shape>
+            <String CONTENT="bo;"
+                    HPOS="1874"
+                    VPOS="2597"
+                    WIDTH="66"
+                    HEIGHT="73"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="364"
+                   VPOS="1650"
+                   WIDTH="335"
+                   HEIGHT="454"
+                   ID="eSc_textblock_807897f0"
+                   TAGREFS="BT16578">
+          <Shape><Polygon POINTS="388 1650 364 2104 699 2092 699 1859 454 1853 484 1650"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="412"
+                   VPOS="897"
+                   WIDTH="1642"
+                   HEIGHT="866"
+                   ID="eSc_textblock_c7ecfc6c"
+                   TAGREFS="BT16579">
+          <Shape><Polygon POINTS="412 915 424 1763 2048 1763 2054 897"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
