@@ -77,7 +77,7 @@ You are free to share and adapt the material, provided appropriate credit is giv
 
 If you use this dataset in your research, please cite it as follows:
 
-> Hermand, F., Brootcorne, M., Vlachou-Efstathiou, M., Boschetti, F., Fischer, F., Chagué, A., & Clérice, T. HTRogène, Spanish corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation [Data set]. https://github.com/HTRogene/spain
+> Desnoues K., Avaro C., Bordier J., Gille Levenson M., Brisville-Fertin O., Chagué A. & Clérice T. HTRogène, Spanish corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation [Data set]. https://github.com/HTRogene/spain
 
 
 ## Acknowledgments

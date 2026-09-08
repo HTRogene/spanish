@@ -1,35 +1,49 @@
-# This CITATION.cff file was generated with cffinit.
+# This CITATION.cff file was generated from htr-united.yml.
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: HTRomance, Medieval Latin corpus of ground-truth for Handwritten Text Recognition and Layout Segmentation
+title: HTRogène Medieval Spanish Manuscripts
 message: >-
   If you use this dataset, please cite it using the
   metadata from this file.
 type: dataset
+abstract: >-
+  HTRogène is an exploratory project funded by Biblissima+, aiming to develop
+  generic models for automatic transcription of medieval and early modern
+  manuscripts.
+
+  This repository focuses on the Medieval Spanish corpus, providing
+  ground-truth data for Handwritten Text Recognition (HTR) and layout
+  segmentation.
+
+  The dataset is designed to support the creation of robust and reliable HTR
+  models for Spanish manuscripts.
 authors:
-  - given-names: Anthony
-    family-names: Glaise
-    orcid: "https://orcid.org/0000-0003-4715-5184"
-  - given-names: Thibault
-    family-names: Clérice
-    email: thibault.clerice@chartes.psl.eu
-    affiliation: Centre Jean Mabillon
-    orcid: 'https://orcid.org/0000-0003-1852-9204'
-  - given-names: Federico
-    family-names: Boschetti
-    orcid: "https://orcird.org/0000-0002-7810-7735"
-  - given-names: Franz
-    family-names: Fischer
-    orcid: "https://orcird.org/0000-0002-2162-5531"
-  - given-names: 'Alix'
+  - given-names: Desnoues
+    family-names: Kelían
+  - given-names: Avaro
+    family-names: Claire
+  - given-names: Bordier
+    family-names: Julie
+    orcid: 'https://orcid.org/0009-0004-0769-8875'
+  - given-names: Gille Levenson
+    family-names: Matthias
+    orcid: 'https://orcid.org/0000-0001-9488-5986'
+  - given-names: Brisville-Fertin
+    family-names: Olivier
+    orcid: 'https://orcid.org/0000-0001-7809-3890'
+  - given-names: Alix
     family-names: Chagué
     orcid: 'https://orcid.org/0000-0002-0136-4434'
-    affiliation: 'Inria, Université de Montréal'
-    email: alix.chague@inria.fr
-repository-code: 'https://github.com/HTRomance-Project/medieval-latin'
+  - given-names: Thibault
+    family-names: Clérice
+    orcid: 'https://orcid.org/0000-0003-1852-9204'
+repository-code: 'https://github.com/HTRogene/spanish'
+url: 'https://github.com/HTRogene/spanish'
+license: CC-BY-4.0
 keywords:
   - HTR
-  - latin
+  - spanish
   - medieval
   - manuscripts
+  - layout segmentation
