@@ -1,0 +1,425 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Theodoric_Borgognoni_Cyrurgia_traduit_en_[...]Borgognoni_Theodoricus_btv1b8438665s_19.jpeg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21180" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT25504" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT8143" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1024" HEIGHT="1527" PHYSICAL_IMG_NR="8" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1024" HEIGHT="1527">
+        <TextBlock HPOS="108" VPOS="139" WIDTH="376" HEIGHT="1088" ID="eSc_textblock_ec96c78c" TAGREFS="BT25504">
+          <Shape><Polygon POINTS="450 139 464 159 484 1167 470 1224 135 1227 111 1200 108 166 118 145 268 139"/></Shape>
+          <TextLine ID="eSc_line_5333135f" TAGREFS="LT6926" BASELINE="116 173 451 166" HPOS="115" VPOS="149" WIDTH="336" HEIGHT="31">
+            <Shape><Polygon POINTS="437 149 429 149 420 149 412 149 403 149 395 149 386 149 378 149 369 149 361 149 352 149 344 149 335 149 327 149 318 149 310 149 302 149 293 149 285 150 276 150 268 150 259 151 251 151 242 151 234 151 225 151 217 151 208 152 200 152 191 152 183 153 174 153 166 154 157 154 149 154 140 155 132 155 123 155 123 152 115 152 116 173 116 178 282 180 283 180 451 172 451 166 446 156 437 149"/></Shape>
+            <String CONTENT="sobra lo loc naffrat pus fort sia estret." HPOS="115" VPOS="149" WIDTH="336" HEIGHT="31"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ef371b7f" TAGREFS="LT6926" BASELINE="115 199 451 187" HPOS="114" VPOS="167" WIDTH="337" HEIGHT="39">
+            <Shape><Polygon POINTS="444 167 438 171 365 173 356 169 352 168 351 168 350 168 338 170 321 173 291 173 255 172 254 172 114 181 115 199 115 206 450 194 451 187 447 167 444 167"/></Shape>
+            <String CONTENT="Eaytãt cõliluỹ ara mes dł loc malaut᷑" HPOS="114" VPOS="167" WIDTH="337" HEIGHT="39"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ecc8b567" TAGREFS="LT6926" BASELINE="117 220 295 212 447 210" HPOS="117" VPOS="191" WIDTH="330" HEIGHT="34">
+            <Shape><Polygon POINTS="117 212 117 220 117 225 447 217 447 210 444 191 123 202 117 212"/></Shape>
+            <String CONTENT="aytãt laligadura sya meỹs alargada" HPOS="117" VPOS="191" WIDTH="330" HEIGHT="34"/>
+          </TextLine>
+          <TextLine ID="eSc_line_816578a7" TAGREFS="LT6926" BASELINE="119 240 447 229" HPOS="118" VPOS="214" WIDTH="329" HEIGHT="37">
+            <Shape><Polygon POINTS="119 240 119 251 447 237 447 229 445 215 323 214 322 214 321 214 320 214 315 218 298 215 297 215 238 221 220 218 219 218 218 218 218 218 211 222 200 218 199 218 198 218 118 225 119 240"/></Shape>
+            <String CONTENT="cor ab aq̃sta ligadura lo sanc no pot ue" HPOS="118" VPOS="214" WIDTH="329" HEIGHT="37"/>
+          </TextLine>
+          <TextLine ID="eSc_line_822b1d75" TAGREFS="LT6926" BASELINE="118 262 332 254 449 254" HPOS="117" VPOS="237" WIDTH="332" HEIGHT="35">
+            <Shape><Polygon POINTS="118 262 118 272 449 261 449 254 448 237 285 237 284 237 283 237 282 237 277 241 263 238 262 238 262 238 200 244 173 240 172 240 117 246 118 262"/></Shape>
+            <String CONTENT="niradloc malaute. Enquare la humi" HPOS="117" VPOS="237" WIDTH="332" HEIGHT="35" WC="0.9862382845445112"/>
+          </TextLine>
+          <TextLine ID="eSc_line_d3265900" TAGREFS="LT6926" BASELINE="117 285 373 274 449 275" HPOS="116" VPOS="257" WIDTH="333" HEIGHT="38">
+            <Shape><Polygon POINTS="117 285 117 290 139 295 140 295 166 290 307 290 307 289 449 279 449 275 447 257 259 259 116 268 117 285"/></Shape>
+            <String CONTENT="ditat q̃ es ia uẽguda alloc malaut ẜa" HPOS="116" VPOS="257" WIDTH="333" HEIGHT="38"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9f234db5" TAGREFS="LT6926" BASELINE="118 305 460 295" HPOS="117" VPOS="275" WIDTH="343" HEIGHT="41">
+            <Shape><Polygon POINTS="118 305 118 316 199 313 200 313 201 313 206 309 223 313 223 313 224 313 233 308 251 312 251 312 252 312 262 307 460 305 460 295 458 275 430 280 371 279 348 278 347 278 335 279 312 284 290 281 275 280 274 280 274 280 273 280 273 281 271 282 268 285 242 284 210 282 209 282 117 288 118 305"/></Shape>
+            <String CONTENT="p̾muda daentores. ¶Cor paso es esqͥuada" HPOS="117" VPOS="275" WIDTH="343" HEIGHT="41"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b83d3587" TAGREFS="LT6926" BASELINE="118 328 281 320 458 318" HPOS="117" VPOS="301" WIDTH="341" HEIGHT="34">
+            <Shape><Polygon POINTS="118 328 118 335 362 327 374 331 375 331 376 331 377 331 458 329 458 318 455 301 117 310 118 328"/></Shape>
+            <String CONTENT="la pustema dela naffra. asso matex se pot" HPOS="117" VPOS="301" WIDTH="341" HEIGHT="34" WC="0.9773821699910048"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8394e3b6" TAGREFS="LT6926" BASELINE="120 348 448 339" HPOS="119" VPOS="320" WIDTH="329" HEIGHT="37">
+            <Shape><Polygon POINTS="120 348 120 353 148 357 149 357 179 352 183 352 186 352 207 356 207 356 208 356 209 356 209 355 210 355 212 352 212 351 448 348 448 339 446 324 378 325 377 325 363 320 363 320 362 320 361 320 360 320 354 325 274 323 274 323 119 330 120 348"/></Shape>
+            <String CONTENT="fer ab.ĩ fara si hõ nõ ha mes. ¶Enota" HPOS="119" VPOS="320" WIDTH="329" HEIGHT="37"/>
+          </TextLine>
+          <TextLine ID="eSc_line_633022dc" TAGREFS="LT6926" BASELINE="122 367 452 362" HPOS="119" VPOS="343" WIDTH="331" HEIGHT="38">
+            <Shape><Polygon POINTS="120 366 120 381 449 372 450 361 447 343 119 347 120 366"/></Shape>
+            <String CONTENT="q̃ laligadura ꝑ .iii. ꝓfits. ¶Lo pͥmer ꝓ" HPOS="119" VPOS="343" WIDTH="331" HEIGHT="38"/>
+          </TextLine>
+          <TextLine ID="eSc_line_90922285" TAGREFS="LT6926" BASELINE="123 388 455 383" HPOS="120" VPOS="362" WIDTH="334" HEIGHT="40">
+            <Shape><Polygon POINTS="122 386 122 402 453 391 454 381 450 362 120 371 122 386"/></Shape>
+            <String CONTENT="at es q̃ les ꝑts dela naffra be cõiũtes. i" HPOS="120" VPOS="362" WIDTH="334" HEIGHT="40"/>
+          </TextLine>
+          <TextLine ID="eSc_line_35c0f011" TAGREFS="LT6926" BASELINE="117 413 458 403" HPOS="116" VPOS="387" WIDTH="342" HEIGHT="33">
+            <Shape><Polygon POINTS="117 413 117 420 458 410 458 403 455 387 116 397 117 413"/></Shape>
+            <String CONTENT="Gardẽ la matia de la sanc ⁊ uedẽ q̃ als lochs" HPOS="116" VPOS="387" WIDTH="342" HEIGHT="33"/>
+          </TextLine>
+          <TextLine ID="eSc_line_58d55e6d" TAGREFS="LT6926" BASELINE="120 433 462 425" HPOS="119" VPOS="409" WIDTH="343" HEIGHT="32">
+            <Shape><Polygon POINTS="120 433 120 441 461 433 462 425 459 409 119 417 120 433"/></Shape>
+            <String CONTENT="tramesos dela naffra no fassa posterna ne" HPOS="119" VPOS="409" WIDTH="343" HEIGHT="32"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f3816218" TAGREFS="LT6926" BASELINE="122 453 462 447" HPOS="121" VPOS="431" WIDTH="341" HEIGHT="31">
+            <Shape><Polygon POINTS="122 453 122 462 413 462 413 461 414 461 415 461 435 456 460 460 462 447 459 431 121 436 122 453"/></Shape>
+            <String CONTENT="dolor. ¶Lo segõ ꝓfit es q̃ gart eretẽga los" HPOS="121" VPOS="431" WIDTH="341" HEIGHT="31" WC="0.972293229897817"/>
+          </TextLine>
+          <TextLine ID="eSc_line_48670b5e" TAGREFS="LT6926" BASELINE="123 475 456 470" HPOS="123" VPOS="454" WIDTH="333" HEIGHT="32">
+            <Shape><Polygon POINTS="123 475 123 486 455 479 456 470 454 457 259 454 258 454 257 454 257 454 251 458 195 455 195 455 194 455 193 455 186 459 137 456 136 456 135 456 123 460 123 475"/></Shape>
+            <String CONTENT="plomasols tro altep̃s dł mudamẽt de la" HPOS="123" VPOS="454" WIDTH="333" HEIGHT="32" WC="0.9843970552468911"/>
+          </TextLine>
+          <TextLine ID="eSc_line_d3785ba9" TAGREFS="LT6926" BASELINE="123 497 460 492" HPOS="122" VPOS="473" WIDTH="338" HEIGHT="35">
+            <Shape><Polygon POINTS="123 497 123 508 308 508 308 507 309 507 321 503 322 503 325 503 363 506 363 506 414 501 447 504 447 504 448 504 460 499 460 492 458 477 379 473 378 473 377 473 362 478 361 478 360 478 326 474 325 474 324 474 303 479 302 479 300 479 218 475 218 475 122 481 123 497"/></Shape>
+            <String CONTENT="nasfra. ¶Lo.iii. ꝓfit es q̃ ꝑ lo fort estriỹ" HPOS="122" VPOS="473" WIDTH="338" HEIGHT="35"/>
+          </TextLine>
+          <TextLine ID="eSc_line_94f67e68" TAGREFS="LT6926" BASELINE="122 520 458 514" HPOS="121" VPOS="497" WIDTH="337" HEIGHT="32">
+            <Shape><Polygon POINTS="122 520 122 529 458 520 458 514 455 497 121 503 122 520"/></Shape>
+            <String CONTENT="imẽt de la ligadura ala p̾gonesa uẽgua" HPOS="121" VPOS="497" WIDTH="337" HEIGHT="32" WC="0.9937165185809136"/>
+          </TextLine>
+          <TextLine ID="eSc_line_57e66d3b" TAGREFS="LT6926" BASELINE="121 542 460 536" HPOS="120" VPOS="520" WIDTH="340" HEIGHT="33">
+            <Shape><Polygon POINTS="121 542 121 553 459 548 460 536 458 520 120 522 121 542"/></Shape>
+            <String CONTENT="la estrỹedura ⁊ q̃ age alergamẽt en la bo" HPOS="120" VPOS="520" WIDTH="340" HEIGHT="33"/>
+          </TextLine>
+          <TextLine ID="eSc_line_c518a735" TAGREFS="LT6926" BASELINE="120 562 460 557" HPOS="119" VPOS="540" WIDTH="341" HEIGHT="31">
+            <Shape><Polygon POINTS="120 562 120 571 459 565 460 557 458 540 119 547 120 562"/></Shape>
+            <String CONTENT="ca sobirana. El q̃l loc es mast̾ aq̃la cosa. ꝑ" HPOS="119" VPOS="540" WIDTH="341" HEIGHT="31"/>
+          </TextLine>
+          <TextLine ID="eSc_line_377f0860" TAGREFS="LT6926" BASELINE="121 586 461 579" HPOS="120" VPOS="560" WIDTH="341" HEIGHT="32">
+            <Shape><Polygon POINTS="121 586 121 592 461 587 461 579 458 560 120 568 121 586"/></Shape>
+            <String CONTENT="ço q̃l ueri sia gitat de fores. ¶orĩ si lanaf" HPOS="120" VPOS="560" WIDTH="341" HEIGHT="32"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f1291b41" TAGREFS="LT6926" BASELINE="121 606 456 600" HPOS="120" VPOS="585" WIDTH="336" HEIGHT="30">
+            <Shape><Polygon POINTS="121 606 121 615 456 608 456 600 453 585 120 588 121 606"/></Shape>
+            <String CONTENT="fra fa tẽgrã q̃ la ligadura no pusca les" HPOS="120" VPOS="585" WIDTH="336" HEIGHT="30"/>
+          </TextLine>
+          <TextLine ID="eSc_line_97f056de" TAGREFS="LT6926" BASELINE="122 627 467 620" HPOS="121" VPOS="603" WIDTH="346" HEIGHT="33">
+            <Shape><Polygon POINTS="122 627 122 636 466 629 467 620 464 603 121 612 122 627"/></Shape>
+            <String CONTENT="partz d̃ ꝑtides entre eles aiustar. adonch" HPOS="121" VPOS="603" WIDTH="346" HEIGHT="33"/>
+          </TextLine>
+          <TextLine ID="eSc_line_c52d045e" TAGREFS="LT6926" BASELINE="121 648 464 643" HPOS="120" VPOS="626" WIDTH="344" HEIGHT="32">
+            <Shape><Polygon POINTS="121 648 121 658 463 653 464 643 462 630 325 626 324 626 324 626 313 631 198 628 197 628 196 628 187 632 138 629 137 629 136 629 120 633 121 648"/></Shape>
+            <String CONTENT="li aministrara costura. Cor en axi cõ diu" HPOS="120" VPOS="626" WIDTH="344" HEIGHT="32"/>
+          </TextLine>
+          <TextLine ID="eSc_line_dcde9dd9" TAGREFS="LT6926" BASELINE="122 668 457 665" HPOS="121" VPOS="651" WIDTH="336" HEIGHT="29">
+            <Shape><Polygon POINTS="122 668 122 680 456 673 457 665 454 651 121 653 122 668"/></Shape>
+            <String CONTENT="galien el tegin en lacura de la car.iiii. ra" HPOS="121" VPOS="651" WIDTH="336" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_68818333" TAGREFS="LT6926" BASELINE="123 690 461 686" HPOS="122" VPOS="668" WIDTH="339" HEIGHT="30">
+            <Shape><Polygon POINTS="123 690 123 698 461 693 461 686 458 668 189 675 182 675 135 671 134 671 134 671 122 676 123 690"/></Shape>
+            <String CONTENT="hõs hi son demanades. ¶La pͥmͬa es aius" HPOS="122" VPOS="668" WIDTH="339" HEIGHT="30"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b7fb4271" TAGREFS="LT6926" BASELINE="123 710 458 708" HPOS="123" VPOS="692" WIDTH="335" HEIGHT="26">
+            <Shape><Polygon POINTS="123 710 123 718 458 715 458 708 457 694 131 692 130 692 129 692 128 692 123 695 123 710"/></Shape>
+            <String CONTENT="tamẽt de les ꝑts diᷤuũctes. ¶La segona" HPOS="123" VPOS="692" WIDTH="335" HEIGHT="26" WC="0.9838012844324112"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b6f3e1e8" TAGREFS="LT6926" BASELINE="123 732 466 728" HPOS="123" VPOS="710" WIDTH="343" HEIGHT="29">
+            <Shape><Polygon POINTS="123 732 123 739 465 735 466 728 464 710 258 715 231 715 132 713 131 713 130 713 123 716 123 732"/></Shape>
+            <String CONTENT="es q̃ ꝑ laligãdura. oꝑ la custura aq̃l auis" HPOS="123" VPOS="710" WIDTH="343" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_749b4e55" TAGREFS="LT6926" BASELINE="124 753 467 750" HPOS="123" VPOS="731" WIDTH="344" HEIGHT="30">
+            <Shape><Polygon POINTS="171 732 170 732 169 732 169 733 165 737 165 738 123 738 124 753 124 761 466 759 467 750 464 731 446 735 350 733 279 732 279 732 230 736 214 737 206 736 172 732 171 732"/></Shape>
+            <String CONTENT="tamẽt sia cõẜuat. ¶La tͬça es ꝑ so q̃sia gtͣ" HPOS="123" VPOS="731" WIDTH="344" HEIGHT="30"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4eb98317" TAGREFS="LT6926" BASELINE="123 773 457 771" HPOS="123" VPOS="756" WIDTH="334" HEIGHT="30">
+            <Shape><Polygon POINTS="123 773 123 782 187 786 188 786 219 782 231 786 232 786 233 786 234 786 253 781 256 781 262 781 316 785 317 785 318 785 329 781 330 781 410 784 411 784 456 779 457 771 454 756 123 758 123 773"/></Shape>
+            <String CONTENT="dat q̃ entra los lauic de lana ffra neguna" HPOS="123" VPOS="756" WIDTH="334" HEIGHT="30" WC="0.9592661318324861"/>
+          </TextLine>
+          <TextLine ID="eSc_line_2ca6a7d8" TAGREFS="LT6926" BASELINE="123 793 467 794" HPOS="123" VPOS="779" WIDTH="344" HEIGHT="24">
+            <Shape><Polygon POINTS="123 793 123 803 466 803 467 794 466 781 123 779 123 793"/></Shape>
+            <String CONTENT="cosa nuỹcage. ¶La q̃rta es q̃ sia cõẜuada" HPOS="123" VPOS="779" WIDTH="344" HEIGHT="24"/>
+          </TextLine>
+          <TextLine ID="eSc_line_978da89a" TAGREFS="LT6926" BASELINE="125 815 470 815" HPOS="125" VPOS="797" WIDTH="345" HEIGHT="30">
+            <Shape><Polygon POINTS="125 815 125 825 470 827 470 815 470 801 125 797 125 815"/></Shape>
+            <String CONTENT="la sba dłs mẽbres segons la sua sanitat ço" HPOS="125" VPOS="797" WIDTH="345" HEIGHT="30"/>
+          </TextLine>
+          <TextLine ID="eSc_line_758ff57b" TAGREFS="LT6926" BASELINE="124 833 466 838" HPOS="123" VPOS="817" WIDTH="343" HEIGHT="29">
+            <Shape><Polygon POINTS="124 833 123 845 464 846 466 838 465 819 124 817 124 833"/></Shape>
+            <String CONTENT="es assab̃r q̃sa cõẜuada lacõplexio ñal da" HPOS="123" VPOS="817" WIDTH="343" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9a9782bf" TAGREFS="LT6926" BASELINE="125 856 464 858" HPOS="124" VPOS="841" WIDTH="340" HEIGHT="25">
+            <Shape><Polygon POINTS="125 856 124 863 463 866 464 858 464 843 125 841 125 856"/></Shape>
+            <String CONTENT="q̃l mẽbra ab medicines.⁊ ab mẽiars en axi" HPOS="124" VPOS="841" WIDTH="340" HEIGHT="25" WC="0.9708075703576554"/>
+          </TextLine>
+          <TextLine ID="eSc_line_81838bc9" TAGREFS="LT6926" BASELINE="127 877 466 878" HPOS="126" VPOS="861" WIDTH="340" HEIGHT="28">
+            <Shape><Polygon POINTS="127 877 126 883 150 889 151 889 277 885 309 889 310 889 465 885 466 878 465 863 127 861 127 877"/></Shape>
+            <String CONTENT="cõsa dit al capitol deles medicines fasens" HPOS="126" VPOS="861" WIDTH="340" HEIGHT="28" WC="0.9809295562810676"/>
+          </TextLine>
+          <TextLine ID="eSc_line_0f6a7bf0" TAGREFS="LT6926" BASELINE="128 895 463 900" HPOS="127" VPOS="882" WIDTH="336" HEIGHT="25">
+            <Shape><Polygon POINTS="128 895 127 903 461 907 463 900 462 884 128 882 128 895"/></Shape>
+            <String CONTENT="nex car̃.¶adonch les ꝑts segõ la figã degu" HPOS="127" VPOS="882" WIDTH="336" HEIGHT="25"/>
+          </TextLine>
+          <TextLine ID="eSc_line_6c18e8dd" TAGREFS="LT6926" BASELINE="127 917 464 921" HPOS="126" VPOS="902" WIDTH="338" HEIGHT="26">
+            <Shape><Polygon POINTS="127 917 126 924 462 928 464 921 463 906 127 902 127 917"/></Shape>
+            <String CONTENT="da alȯgaras la codeỹa sobirana. E sia cu" HPOS="126" VPOS="902" WIDTH="338" HEIGHT="26"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7b1cc055" TAGREFS="LT6926" BASELINE="127 938 462 942" HPOS="126" VPOS="922" WIDTH="336" HEIGHT="27">
+            <Shape><Polygon POINTS="127 938 126 945 460 949 462 942 461 923 127 922 127 938"/></Shape>
+            <String CONTENT="sida en tal manã q̃ lo mẽbra romãga segõ" HPOS="126" VPOS="922" WIDTH="336" HEIGHT="27" WC="0.9785365963524039"/>
+          </TextLine>
+          <TextLine ID="eSc_line_fe626427" TAGREFS="LT6926" BASELINE="127 959 472 962" HPOS="126" VPOS="944" WIDTH="346" HEIGHT="25">
+            <Shape><Polygon POINTS="127 959 126 966 470 969 472 962 471 947 127 944 127 959"/></Shape>
+            <String CONTENT="la nacural disposicio sia. Enos aq̃les coses" HPOS="126" VPOS="944" WIDTH="346" HEIGHT="25" WC="0.9703249511393633"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9b134f28" TAGREFS="LT6926" BASELINE="126 981 468 984" HPOS="125" VPOS="964" WIDTH="343" HEIGHT="31">
+            <Shape><Polygon POINTS="126 981 125 990 295 990 296 990 304 994 305 994 306 994 367 990 372 990 381 995 382 995 383 995 467 990 468 984 467 969 382 964 381 964 126 965 126 981"/></Shape>
+            <String CONTENT="especificarẽ en lur loc. Cor en aq̃sta part" HPOS="125" VPOS="964" WIDTH="343" HEIGHT="31"/>
+          </TextLine>
+          <TextLine ID="eSc_line_dfa2a03a" TAGREFS="LT6926" BASELINE="127 1002 470 1004" HPOS="126" VPOS="984" WIDTH="344" HEIGHT="30">
+            <Shape><Polygon POINTS="127 1002 126 1008 184 1013 184 1013 290 1010 296 1014 297 1014 298 1014 299 1014 469 1010 470 1004 468 984 127 986 127 1002"/></Shape>
+            <String CONTENT="uo en tenẽ tractar si no engenͬal. E en lurᷤᷤ" HPOS="126" VPOS="984" WIDTH="344" HEIGHT="30"/>
+          </TextLine>
+          <TextLine ID="eSc_line_64fd92f3" TAGREFS="LT6926" BASELINE="126 1024 310 1023 464 1028" HPOS="125" VPOS="1007" WIDTH="339" HEIGHT="26">
+            <Shape><Polygon POINTS="126 1024 125 1033 463 1033 464 1028 463 1010 126 1007 126 1024"/></Shape>
+            <String CONTENT="lochs dirẽ ꝑ orde en q̃l manͬa dege esẜ usat" HPOS="125" VPOS="1007" WIDTH="339" HEIGHT="26"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9073d19e" TAGREFS="LT6926" BASELINE="128 1044 472 1046" HPOS="127" VPOS="1027" WIDTH="345" HEIGHT="27">
+            <Shape><Polygon POINTS="458 1028 450 1028 442 1028 433 1028 426 1027 128 1028 128 1044 127 1051 470 1054 472 1046 471 1027 458 1027 458 1028"/></Shape>
+            <String CONTENT="⁊cusit. ¶Sẽblantmẽt es deputat q̃ lanͣs" HPOS="127" VPOS="1027" WIDTH="345" HEIGHT="27"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9618ae39" TAGREFS="LT6926" BASELINE="128 1065 470 1068" HPOS="127" VPOS="1046" WIDTH="343" HEIGHT="29">
+            <Shape><Polygon POINTS="128 1065 127 1072 469 1075 470 1068 470 1054 268 1048 267 1048 254 1049 218 1051 190 1047 186 1047 185 1047 183 1047 158 1051 128 1046 128 1065"/></Shape>
+            <String CONTENT="fra meỹs d̃molt brac no pot esẜ curada." HPOS="127" VPOS="1046" WIDTH="343" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e0fa14b3" TAGREFS="LT6926" BASELINE="128 1089 466 1090" HPOS="127" VPOS="1071" WIDTH="339" HEIGHT="29">
+            <Shape><Polygon POINTS="128 1089 127 1096 464 1100 466 1090 465 1073 128 1071 128 1089"/></Shape>
+            <String CONTENT="¶Adonchs la .i. extͬmitat dela naffra la" HPOS="127" VPOS="1071" WIDTH="339" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_03058426" TAGREFS="LT6926" BASELINE="127 1109 465 1111" HPOS="126" VPOS="1093" WIDTH="339" HEIGHT="25">
+            <Shape><Polygon POINTS="127 1109 126 1118 464 1118 465 1111 464 1095 127 1093 127 1109"/></Shape>
+            <String CONTENT="pus declinãt sia iaqͥda oberta.io emꝑ ho" HPOS="126" VPOS="1093" WIDTH="339" HEIGHT="25"/>
+          </TextLine>
+          <TextLine ID="eSc_line_66ba1a5a" TAGREFS="LT6926" BASELINE="128 1129 475 1131" HPOS="128" VPOS="1113" WIDTH="347" HEIGHT="29">
+            <Shape><Polygon POINTS="473 1113 128 1113 128 1129 128 1136 268 1142 268 1142 474 1139 475 1131 474 1118 473 1113"/></Shape>
+            <String CONTENT="fiãt dł ꝓpri ꝓuamẽt. tãc totes les ꝑts de" HPOS="128" VPOS="1113" WIDTH="347" HEIGHT="29" WC="0.9744270416823301"/>
+          </TextLine>
+          <TextLine ID="eSc_line_57aaac24" TAGREFS="LT6926" BASELINE="128 1150 474 1154" HPOS="127" VPOS="1133" WIDTH="347" HEIGHT="29">
+            <Shape><Polygon POINTS="128 1150 127 1157 472 1162 474 1154 473 1139 128 1133 128 1150"/></Shape>
+            <String CONTENT="les naffres. E procure ⁊soldar ab ploma" HPOS="127" VPOS="1133" WIDTH="347" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b7ce6ecc" TAGREFS="LT6926" BASELINE="127 1171 474 1174" HPOS="126" VPOS="1157" WIDTH="348" HEIGHT="24">
+            <Shape><Polygon POINTS="127 1157 127 1171 126 1181 473 1181 474 1174 473 1159 128 1157 127 1157"/></Shape>
+            <String CONTENT="sol de cascuna ꝑt. e desus baỹatz pͥmͬamẽt" HPOS="126" VPOS="1157" WIDTH="348" HEIGHT="24"/>
+          </TextLine>
+          <TextLine ID="eSc_line_80888f64" TAGREFS="LT6926" BASELINE="126 1192 479 1196" HPOS="125" VPOS="1178" WIDTH="354" HEIGHT="46">
+            <Shape><Polygon POINTS="126 1192 125 1208 140 1209 155 1219 156 1219 156 1219 157 1219 158 1219 188 1210 213 1219 214 1219 215 1219 216 1219 217 1219 224 1213 242 1222 243 1222 244 1223 285 1223 285 1222 285 1222 286 1222 298 1212 384 1212 396 1220 397 1220 397 1220 398 1220 424 1218 429 1222 429 1223 430 1223 430 1223 463 1224 464 1224 464 1224 465 1224 478 1212 479 1196 479 1178 126 1178 126 1192"/></Shape>
+            <String CONTENT="en bo uin. en axi cõ ẜa dit. ecouinẽtmẽt alõ" HPOS="125" VPOS="1178" WIDTH="354" HEIGHT="46"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="498" VPOS="135" WIDTH="386" HEIGHT="1089" ID="eSc_textblock_94eb777e" TAGREFS="BT25504">
+          <Shape><Polygon POINTS="850 139 871 162 884 1146 864 1224 509 1220 498 142 509 135"/></Shape>
+          <TextLine ID="eSc_line_d054f1c9" TAGREFS="LT6926" BASELINE="505 165 854 165" HPOS="505" VPOS="145" WIDTH="349" HEIGHT="32">
+            <Shape><Polygon POINTS="853 151 844 145 556 145 548 146 539 147 531 149 522 150 514 151 511 151 505 165 505 177 542 173 853 177 854 165 853 151 853 151"/></Shape>
+            <String CONTENT="gatz.⁊ab ligadura couinẽt egỹosa sẽs" HPOS="505" VPOS="145" WIDTH="349" HEIGHT="32"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b761e8fc" TAGREFS="LT6926" BASELINE="507 188 853 184" HPOS="506" VPOS="167" WIDTH="347" HEIGHT="28">
+            <Shape><Polygon POINTS="507 188 507 195 853 195 853 184 851 170 593 167 592 167 506 173 507 188"/></Shape>
+            <String CONTENT="negũ altra metgemẽt. ¶ E molt si deu grͣ" HPOS="506" VPOS="167" WIDTH="347" HEIGHT="28"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1e87ed9c" TAGREFS="LT6926" BASELINE="506 210 850 206" HPOS="505" VPOS="190" WIDTH="345" HEIGHT="29">
+            <Shape><Polygon POINTS="506 210 506 219 850 214 850 206 849 191 505 190 506 210"/></Shape>
+            <String CONTENT="dar aq̃l qͥuolra naffra cõsoldar q̃ negun" HPOS="505" VPOS="190" WIDTH="345" HEIGHT="29" WC="0.9789312382539114"/>
+          </TextLine>
+          <TextLine ID="eSc_line_212a9655" TAGREFS="LT6926" BASELINE="508 230 847 229" HPOS="507" VPOS="213" WIDTH="340" HEIGHT="24">
+            <Shape><Polygon POINTS="508 230 508 237 846 235 847 229 844 213 507 214 508 230"/></Shape>
+            <String CONTENT="metgemẽt humit nuy pos. Cor la aposi" HPOS="507" VPOS="213" WIDTH="340" HEIGHT="24" WC="0.9946464106843278"/>
+          </TextLine>
+          <TextLine ID="eSc_line_a24fe1f5" TAGREFS="LT6926" BASELINE="509 252 861 249" HPOS="508" VPOS="231" WIDTH="353" HEIGHT="28">
+            <Shape><Polygon POINTS="509 252 509 259 861 258 861 249 860 231 615 231 614 231 585 235 582 235 579 235 529 232 528 232 508 236 509 252"/></Shape>
+            <String CONTENT="ciõ dela cosa humida obra ab dussoluamẽt" HPOS="508" VPOS="231" WIDTH="353" HEIGHT="28"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f1355dc9" TAGREFS="LT6926" BASELINE="508 274 846 270" HPOS="507" VPOS="256" WIDTH="339" HEIGHT="28">
+            <Shape><Polygon POINTS="508 274 508 284 845 279 846 270 844 256 507 256 508 274"/></Shape>
+            <String CONTENT="dela humiditat. ¶Los punts dela custura" HPOS="507" VPOS="256" WIDTH="339" HEIGHT="28" WC="0.9797033423032516"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1ebeb614" TAGREFS="LT6926" BASELINE="509 294 856 294" HPOS="509" VPOS="278" WIDTH="347" HEIGHT="27">
+            <Shape><Polygon POINTS="509 294 509 302 855 305 856 294 856 278 509 278 509 294"/></Shape>
+            <String CONTENT="si en lexats en la naffra tro q̃la naffra uou" HPOS="509" VPOS="278" WIDTH="347" HEIGHT="27" WC="0.9877608577410381"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f5a47d50" TAGREFS="LT6926" BASELINE="510 318 850 315" HPOS="509" VPOS="299" WIDTH="341" HEIGHT="25">
+            <Shape><Polygon POINTS="510 318 510 324 850 321 850 315 848 299 509 301 510 318"/></Shape>
+            <String CONTENT="ras encarnada. Cor les naffres les unes" HPOS="509" VPOS="299" WIDTH="341" HEIGHT="25"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ae0e9cb6" TAGREFS="LT6926" BASELINE="510 339 856 335" HPOS="509" VPOS="316" WIDTH="347" HEIGHT="30">
+            <Shape><Polygon POINTS="510 339 510 346 856 346 856 335 854 316 509 322 510 339"/></Shape>
+            <String CONTENT="sẽcarnẽ pus tost les altres pꝰ tarc. ¶Lacuᷤ" HPOS="509" VPOS="316" WIDTH="347" HEIGHT="30" WC="0.9782663954628839"/>
+          </TextLine>
+          <TextLine ID="eSc_line_76be9669" TAGREFS="LT6926" BASELINE="511 361 851 358" HPOS="510" VPOS="343" WIDTH="341" HEIGHT="26">
+            <Shape><Polygon POINTS="511 361 511 369 850 366 851 358 849 343 510 343 511 361"/></Shape>
+            <String CONTENT="tura es fecdora segõs laquãtitat de lanaf" HPOS="510" VPOS="343" WIDTH="341" HEIGHT="26"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e0781988" TAGREFS="LT6926" BASELINE="511 382 853 380" HPOS="510" VPOS="363" WIDTH="343" HEIGHT="25">
+            <Shape><Polygon POINTS="511 382 511 388 853 386 853 380 850 363 510 365 511 382"/></Shape>
+            <String CONTENT="fra cor deu esẜ feyta en grã naffra pus pre" HPOS="510" VPOS="363" WIDTH="343" HEIGHT="25"/>
+          </TextLine>
+          <TextLine ID="eSc_line_77d5089d" TAGREFS="LT6926" BASELINE="512 403 851 403" HPOS="512" VPOS="382" WIDTH="339" HEIGHT="32">
+            <Shape><Polygon POINTS="606 382 512 386 512 403 512 414 536 410 544 414 545 414 546 414 547 414 550 414 577 410 619 413 639 414 640 414 641 414 647 413 656 410 674 413 692 414 693 414 851 409 851 403 851 387 692 382 691 382 690 382 689 382 689 383 685 387 645 387 607 382 606 382"/></Shape>
+            <String CONTENT="gõ q̃ en naffra poca. ¶Diu galien q̃ si la" HPOS="512" VPOS="382" WIDTH="339" HEIGHT="32"/>
+          </TextLine>
+          <TextLine ID="eSc_line_70db80d8" TAGREFS="LT6926" BASELINE="513 425 850 422" HPOS="512" VPOS="404" WIDTH="338" HEIGHT="28">
+            <Shape><Polygon POINTS="687 404 686 404 682 404 673 404 665 404 656 404 648 404 639 404 631 404 624 404 623 404 579 409 577 409 568 405 567 405 566 405 565 405 551 409 539 405 538 405 537 405 512 410 513 425 513 432 850 430 850 422 848 405 693 408 692 408 688 404 687 404"/></Shape>
+            <String CONTENT="custura ẜa tãt estreta en axi q̃ engẽdra do" HPOS="512" VPOS="404" WIDTH="338" HEIGHT="28" WC="0.9548401647143894"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8899e54f" TAGREFS="LT6926" BASELINE="513 447 855 442" HPOS="512" VPOS="424" WIDTH="343" HEIGHT="33">
+            <Shape><Polygon POINTS="513 447 513 457 846 455 847 455 848 455 855 451 855 442 853 428 808 424 807 424 806 424 794 428 792 429 512 429 513 447"/></Shape>
+            <String CONTENT="lor ab postema fara ĩflamẽt. E a lacus" HPOS="512" VPOS="424" WIDTH="343" HEIGHT="33" WC="0.9681834295392037"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4649ff4f" TAGREFS="LT6926" BASELINE="513 469 850 466" HPOS="512" VPOS="448" WIDTH="338" HEIGHT="29">
+            <Shape><Polygon POINTS="513 469 513 477 850 474 850 466 848 448 512 450 513 469"/></Shape>
+            <String CONTENT="tura ẜa molt alargada.no uiỹen ensems" HPOS="512" VPOS="448" WIDTH="338" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8585439a" TAGREFS="LT6926" BASELINE="513 491 857 487" HPOS="512" VPOS="469" WIDTH="345" HEIGHT="30">
+            <Shape><Polygon POINTS="513 491 513 499 856 496 857 487 855 469 512 475 513 491"/></Shape>
+            <String CONTENT="les partz de la naffra. E n lo cay ẽꝑo negũ" HPOS="512" VPOS="469" WIDTH="345" HEIGHT="30"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f068b5a8" TAGREFS="LT6926" BASELINE="512 513 861 509" HPOS="511" VPOS="491" WIDTH="350" HEIGHT="31">
+            <Shape><Polygon POINTS="512 513 512 522 861 520 861 509 859 491 511 497 512 513"/></Shape>
+            <String CONTENT="tẽps nuy cal fer custura. cor molt bẽ pot es" HPOS="511" VPOS="491" WIDTH="350" HEIGHT="31"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8beeb087" TAGREFS="LT6926" BASELINE="513 536 857 529" HPOS="512" VPOS="514" WIDTH="345" HEIGHT="34">
+            <Shape><Polygon POINTS="513 536 513 542 523 548 524 548 525 548 598 542 638 546 639 546 640 546 641 546 648 540 684 540 716 544 717 544 718 544 731 539 770 543 771 543 857 536 857 529 856 514 641 514 640 514 592 519 520 516 520 516 519 516 518 516 512 520 513 536"/></Shape>
+            <String CONTENT="ser ligat enqͣlq̃ man̾a sla estat naffrat. i" HPOS="512" VPOS="514" WIDTH="345" HEIGHT="34"/>
+          </TextLine>
+          <TextLine ID="eSc_line_a5ef4299" TAGREFS="LT6926" BASELINE="509 559 606 555 858 553" HPOS="508" VPOS="536" WIDTH="350" HEIGHT="28">
+            <Shape><Polygon POINTS="509 559 509 564 858 560 858 553 856 536 508 537 509 559"/></Shape>
+            <String CONTENT="¶Si de comẽsamet alo naffrat no es estat." HPOS="508" VPOS="536" WIDTH="350" HEIGHT="28" WC="0.9744690358638763"/>
+          </TextLine>
+          <TextLine ID="eSc_line_79b45c49" TAGREFS="LT6926" BASELINE="513 580 858 575" HPOS="512" VPOS="558" WIDTH="346" HEIGHT="28">
+            <Shape><Polygon POINTS="513 580 513 586 857 581 858 575 856 559 626 558 626 558 512 564 513 580"/></Shape>
+            <String CONTENT="ela naffra ꝑ laer saia entramesclada.eẜa" HPOS="512" VPOS="558" WIDTH="346" HEIGHT="28"/>
+          </TextLine>
+          <TextLine ID="eSc_line_a64d6ba2" TAGREFS="LT6926" BASELINE="514 600 854 596" HPOS="514" VPOS="580" WIDTH="340" HEIGHT="30">
+            <Shape><Polygon POINTS="514 600 514 610 853 604 854 596 852 580 596 580 595 580 514 585 514 600"/></Shape>
+            <String CONTENT="mest̾ q̃ cusa. adonch̾ ab alscũs estreyamẽs" HPOS="514" VPOS="580" WIDTH="340" HEIGHT="30" WC="0.9732485824161106"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4bef5811" TAGREFS="LT6926" BASELINE="514 622 861 619" HPOS="514" VPOS="603" WIDTH="347" HEIGHT="27">
+            <Shape><Polygon POINTS="514 622 514 630 860 626 861 619 858 603 514 606 514 622"/></Shape>
+            <String CONTENT="si en re maguts los costats de la naffra. e siẽ" HPOS="514" VPOS="603" WIDTH="347" HEIGHT="27" WC="0.9919141195714474"/>
+          </TextLine>
+          <TextLine ID="eSc_line_12d70e97" TAGREFS="LT6926" BASELINE="514 644 855 640" HPOS="514" VPOS="625" WIDTH="341" HEIGHT="27">
+            <Shape><Polygon POINTS="514 644 514 652 854 650 855 640 852 625 514 625 514 644"/></Shape>
+            <String CONTENT="fecs sẽguinẽs. ꝑ so q̃ mỹls sia iustẽ. E en" HPOS="514" VPOS="625" WIDTH="341" HEIGHT="27"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ed3d370f" TAGREFS="LT6926" BASELINE="515 665 861 660" HPOS="514" VPOS="646" WIDTH="347" HEIGHT="30">
+            <Shape><Polygon POINTS="515 665 515 676 860 669 861 660 858 646 514 650 515 665"/></Shape>
+            <String CONTENT="aytal manͬa ᷤͥͣ cussda la naffra. ⁊ ab medi" HPOS="514" VPOS="646" WIDTH="347" HEIGHT="30"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7abb4cb3" TAGREFS="LT6926" BASELINE="514 685 867 681" HPOS="514" VPOS="664" WIDTH="353" HEIGHT="29">
+            <Shape><Polygon POINTS="514 685 514 693 867 689 867 681 865 664 514 671 514 685"/></Shape>
+            <String CONTENT="cina en carnatiua sia curada. ¶Metiamẽt" HPOS="514" VPOS="664" WIDTH="353" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_732beeb9" TAGREFS="LT6926" BASELINE="514 707 858 701" HPOS="513" VPOS="684" WIDTH="345" HEIGHT="31">
+            <Shape><Polygon POINTS="514 707 514 715 858 708 858 701 856 684 513 690 514 707"/></Shape>
+            <String CONTENT="en carnatiu en axi cõia es dit coue ala naf" HPOS="513" VPOS="684" WIDTH="345" HEIGHT="31" WC="0.9765416505661878"/>
+          </TextLine>
+          <TextLine ID="eSc_line_59db6082" TAGREFS="LT6926" BASELINE="514 729 859 723" HPOS="514" VPOS="705" WIDTH="345" HEIGHT="31">
+            <Shape><Polygon POINTS="514 729 514 736 858 730 859 723 856 705 514 712 514 729"/></Shape>
+            <String CONTENT="fra cõcaua cor en desecãt ueda la mat̾ia on" HPOS="514" VPOS="705" WIDTH="345" HEIGHT="31" WC="0.9865726470947266"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9976dbcd" TAGREFS="LT6926" BASELINE="514 749 867 745" HPOS="514" VPOS="727" WIDTH="353" HEIGHT="30">
+            <Shape><Polygon POINTS="514 749 514 757 866 753 867 745 864 727 514 733 514 749"/></Shape>
+            <String CONTENT="es perat lengenramẽt delacarn. mas coue" HPOS="514" VPOS="727" WIDTH="353" HEIGHT="30" WC="0.9800426200032234"/>
+          </TextLine>
+          <TextLine ID="eSc_line_deae10d5" TAGREFS="LT6926" BASELINE="515 772 867 771" HPOS="514" VPOS="754" WIDTH="353" HEIGHT="29">
+            <Shape><Polygon POINTS="515 772 515 779 866 783 867 771 865 754 514 755 515 772"/></Shape>
+            <String CONTENT="aq̃la metgamẽt feent nex̾ cãr. tro q̃les ꝑts" HPOS="514" VPOS="754" WIDTH="353" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8798545e" TAGREFS="LT6926" BASELINE="517 794 867 792" HPOS="516" VPOS="777" WIDTH="351" HEIGHT="26">
+            <Shape><Polygon POINTS="517 794 517 801 865 803 867 792 865 777 516 777 517 794"/></Shape>
+            <String CONTENT="deꝑtides entegramẽt sia en uictes. ¶Dige" HPOS="516" VPOS="777" WIDTH="351" HEIGHT="26"/>
+          </TextLine>
+          <TextLine ID="eSc_line_6a701f9c" TAGREFS="LT6926" BASELINE="515 816 861 813" HPOS="514" VPOS="798" WIDTH="347" HEIGHT="26">
+            <Shape><Polygon POINTS="515 816 515 824 860 821 861 813 858 798 514 800 515 816"/></Shape>
+            <String CONTENT="rẽ Galiẽ.⁊ auic̾.auctors entichs esauis q̃ꝯ" HPOS="514" VPOS="798" WIDTH="347" HEIGHT="26"/>
+          </TextLine>
+          <TextLine ID="eSc_line_57d7ba75" TAGREFS="LT6926" BASELINE="516 838 868 833" HPOS="515" VPOS="817" WIDTH="353" HEIGHT="29">
+            <Shape><Polygon POINTS="516 838 516 846 867 840 868 833 866 817 515 822 516 838"/></Shape>
+            <String CONTENT="les naffres sõ ꝑforades.⁊ no es dreturera co" HPOS="515" VPOS="817" WIDTH="353" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_eb5901a1" TAGREFS="LT6926" BASELINE="515 858 864 855" HPOS="514" VPOS="837" WIDTH="350" HEIGHT="29">
+            <Shape><Polygon POINTS="515 858 515 866 863 862 864 855 861 837 514 841 515 858"/></Shape>
+            <String CONTENT="sa q̃ aygua sia aprurmada aaq̃les. E si p" HPOS="514" VPOS="837" WIDTH="350" HEIGHT="29" WC="0.984770475364313"/>
+          </TextLine>
+          <TextLine ID="eSc_line_5a873a44" TAGREFS="LT6926" BASELINE="516 878 863 875" HPOS="515" VPOS="860" WIDTH="348" HEIGHT="27">
+            <Shape><Polygon POINTS="516 878 516 887 862 883 863 875 861 862 602 860 601 860 515 865 516 878"/></Shape>
+            <String CONTENT="alcuria cosa coue esẜ baỹada. adonchs siã" HPOS="515" VPOS="860" WIDTH="348" HEIGHT="27"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4c2521fb" TAGREFS="LT6926" BASELINE="516 899 864 896" HPOS="515" VPOS="880" WIDTH="349" HEIGHT="29">
+            <Shape><Polygon POINTS="516 899 516 909 863 904 864 896 862 883 631 880 630 880 515 884 516 899"/></Shape>
+            <String CONTENT="cubͬta la naffra de sobra tot d̃drap encerat" HPOS="515" VPOS="880" WIDTH="349" HEIGHT="29"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f9617771" TAGREFS="LT6926" BASELINE="514 920 868 917" HPOS="514" VPOS="898" WIDTH="354" HEIGHT="32">
+            <Shape><Polygon POINTS="514 920 514 930 868 924 868 917 866 898 514 904 514 920"/></Shape>
+            <String CONTENT="⁊ ab oli ⁊abtrebẽtina.q̃ laygua dł baỹ en la" HPOS="514" VPOS="898" WIDTH="354" HEIGHT="32"/>
+          </TextLine>
+          <TextLine ID="eSc_line_5f6f527b" TAGREFS="LT6926" BASELINE="518 941 861 939" HPOS="517" VPOS="922" WIDTH="344" HEIGHT="28">
+            <Shape><Polygon POINTS="518 941 518 950 861 947 861 939 860 923 543 922 542 922 517 927 518 941"/></Shape>
+            <String CONTENT="naffra no pusca entrar. ¶E sapies q̃ la" HPOS="517" VPOS="922" WIDTH="344" HEIGHT="28" WC="0.9884625367629223"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1478b9df" TAGREFS="LT6926" BASELINE="517 963 865 961" HPOS="516" VPOS="943" WIDTH="349" HEIGHT="28">
+            <Shape><Polygon POINTS="517 963 517 971 864 968 865 961 863 947 756 943 755 943 755 943 745 947 648 944 647 944 646 944 630 948 542 945 542 945 516 949 517 963"/></Shape>
+            <String CONTENT="naffra cõcaua ab ꝑdimet̾ d̃ sb̾a. en axi con" HPOS="516" VPOS="943" WIDTH="349" HEIGHT="28"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ab717d01" TAGREFS="LT6926" BASELINE="517 986 868 983" HPOS="516" VPOS="967" WIDTH="352" HEIGHT="28">
+            <Shape><Polygon POINTS="517 986 517 995 867 995 868 983 867 967 516 967 517 986"/></Shape>
+            <String CONTENT="diu galiẽ no tã solamẽt mostra anos la ma" HPOS="516" VPOS="967" WIDTH="352" HEIGHT="28" WC="0.9957568388093602"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4ec39193" TAGREFS="LT6926" BASELINE="518 1006 866 1002" HPOS="517" VPOS="988" WIDTH="349" HEIGHT="28">
+            <Shape><Polygon POINTS="518 1006 518 1016 865 1010 866 1002 863 988 517 990 518 1006"/></Shape>
+            <String CONTENT="lautia sĩple. ans lẽdemostra dobla. Corno" HPOS="517" VPOS="988" WIDTH="349" HEIGHT="28" WC="0.9816577101862708"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b7ecc739" TAGREFS="LT6926" BASELINE="518 1029 874 1023" HPOS="517" VPOS="1006" WIDTH="357" HEIGHT="32">
+            <Shape><Polygon POINTS="518 1029 518 1038 873 1034 874 1023 872 1006 517 1010 518 1029"/></Shape>
+            <String CONTENT="tã solamẽt haꝑduda lacarͥ anãs en q̃raha" HPOS="517" VPOS="1006" WIDTH="357" HEIGHT="32"/>
+          </TextLine>
+          <TextLine ID="eSc_line_032e4069" TAGREFS="LT6926" BASELINE="517 1050 865 1045" HPOS="516" VPOS="1031" WIDTH="349" HEIGHT="31">
+            <Shape><Polygon POINTS="517 1050 518 1062 529 1057 575 1061 585 1061 586 1061 864 1053 865 1045 862 1031 516 1034 517 1050"/></Shape>
+            <String CONTENT="ꝑduda lacodeỹa. ꝑ q̃ coue nos doblamẽt aa" HPOS="516" VPOS="1031" WIDTH="349" HEIGHT="31"/>
+          </TextLine>
+          <TextLine ID="eSc_line_2fb9ccd9" TAGREFS="LT6926" BASELINE="518 1071 865 1066" HPOS="517" VPOS="1048" WIDTH="348" HEIGHT="33">
+            <Shape><Polygon POINTS="518 1071 518 1079 690 1081 691 1081 865 1073 865 1066 863 1048 814 1048 813 1048 812 1048 810 1049 801 1053 777 1051 764 1049 763 1049 762 1049 756 1051 746 1054 726 1052 705 1050 704 1050 685 1053 676 1055 674 1053 671 1051 670 1051 669 1051 668 1051 641 1055 631 1056 613 1056 525 1052 525 1052 524 1052 523 1052 517 1056 518 1071"/></Shape>
+            <String CONTENT="q̃la aiudar en dobla passio. ꝑ q̃ la entẽtio d̃" HPOS="517" VPOS="1048" WIDTH="348" HEIGHT="33"/>
+          </TextLine>
+          <TextLine ID="eSc_line_953c9082" TAGREFS="LT6926" BASELINE="517 1091 862 1088" HPOS="516" VPOS="1073" WIDTH="346" HEIGHT="27">
+            <Shape><Polygon POINTS="517 1091 517 1100 861 1097 862 1088 861 1073 634 1073 633 1073 604 1077 600 1077 596 1077 558 1073 557 1073 516 1078 517 1091"/></Shape>
+            <String CONTENT="la cura sua es en .ii. man̾es. ¶lapͥma en" HPOS="516" VPOS="1073" WIDTH="346" HEIGHT="27"/>
+          </TextLine>
+          <TextLine ID="eSc_line_adc3100f" TAGREFS="LT6926" BASELINE="518 1113 870 1109" HPOS="517" VPOS="1092" WIDTH="353" HEIGHT="29">
+            <Shape><Polygon POINTS="518 1113 518 1121 869 1118 870 1109 867 1092 517 1098 518 1113"/></Shape>
+            <String CONTENT="tẽcio es q̃ lacõcauitat delacar̃ segons la me" HPOS="517" VPOS="1092" WIDTH="353" HEIGHT="29" WC="0.9636810827762523"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1cafff94" TAGREFS="LT6926" BASELINE="518 1133 867 1129" HPOS="517" VPOS="1114" WIDTH="350" HEIGHT="31">
+            <Shape><Polygon POINTS="518 1133 518 1141 677 1145 677 1145 713 1140 717 1140 723 1140 778 1144 779 1144 780 1144 796 1139 798 1139 867 1139 867 1129 865 1114 517 1119 518 1133"/></Shape>
+            <String CONTENT="sura deguda sia cõplida. ¶La segona entẽ" HPOS="517" VPOS="1114" WIDTH="350" HEIGHT="31" WC="0.9706937542983464"/>
+          </TextLine>
+          <TextLine ID="eSc_line_79b634fb" TAGREFS="LT6926" BASELINE="519 1155 873 1152" HPOS="518" VPOS="1139" WIDTH="355" HEIGHT="25">
+            <Shape><Polygon POINTS="519 1155 519 1164 873 1162 873 1152 871 1139 518 1141 519 1155"/></Shape>
+            <String CONTENT="cio es q̃ la codeỹa q̃ ha ꝑduda na restaurada." HPOS="518" VPOS="1139" WIDTH="355" HEIGHT="25"/>
+          </TextLine>
+          <TextLine ID="eSc_line_0719ce58" TAGREFS="LT6926" BASELINE="519 1178 861 1175" HPOS="518" VPOS="1161" WIDTH="343" HEIGHT="26">
+            <Shape><Polygon POINTS="519 1178 519 1187 861 1186 861 1175 860 1161 518 1161 519 1178"/></Shape>
+            <String CONTENT="¶Mas si aclo q̃ ẜa d̾ꝑtĩt no es altra cosa si" HPOS="518" VPOS="1161" WIDTH="343" HEIGHT="26" WC="0.9941716466260992"/>
+          </TextLine>
+          <TextLine ID="eSc_line_cba14adb" TAGREFS="LT6926" BASELINE="518 1197 860 1195" HPOS="517" VPOS="1181" WIDTH="343" HEIGHT="38">
+            <Shape><Polygon POINTS="518 1197 519 1219 536 1214 561 1214 566 1219 567 1219 568 1219 569 1219 570 1219 578 1219 604 1214 607 1218 609 1219 609 1219 609 1219 610 1219 611 1219 621 1218 637 1213 665 1216 687 1219 688 1219 688 1219 689 1219 693 1216 696 1213 731 1215 788 1218 788 1218 789 1218 803 1213 805 1213 807 1213 817 1218 818 1218 819 1218 860 1212 860 1195 857 1181 517 1183 518 1197"/></Shape>
+            <String CONTENT="no tẽsolamet la codeỹa. adonchs deq̃l co" HPOS="517" VPOS="1181" WIDTH="343" HEIGHT="38"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="45" VPOS="352" WIDTH="72" HEIGHT="45" ID="eSc_textblock_16c5a9bb" TAGREFS="BT16575">
+          <Shape><Polygon POINTS="45 353 45 397 117 397 117 352"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="451" VPOS="38" WIDTH="53" HEIGHT="57" ID="eSc_textblock_d36977e6" TAGREFS="BT16583">
+          <Shape><Polygon POINTS="451 38 451 95 504 95 504 38"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="916" VPOS="41" WIDTH="61" HEIGHT="39" ID="eSc_textblock_711920b9" TAGREFS="BT16581">
+          <Shape><Polygon POINTS="916 80 916 41 977 41 977 80"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

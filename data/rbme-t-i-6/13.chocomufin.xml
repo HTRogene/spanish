@@ -1,0 +1,286 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>13.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT22224" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT22225" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT25519" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT8055" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT8056" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2496" HEIGHT="3744" PHYSICAL_IMG_NR="13" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2496" HEIGHT="3744">
+        <TextBlock HPOS="549" VPOS="582" WIDTH="746" HEIGHT="2003" ID="eSc_textblock_dfec1098" TAGREFS="BT25519">
+          <Shape><Polygon POINTS="1237 607 1245 988 1295 1079 1245 1148 1262 1503 1229 1969 1254 2119 1212 2585 549 2568 574 1345 549 1114 574 1037 574 599 596 582"/></Shape>
+          <TextLine ID="eSc_line_ee3d710a" TAGREFS="LT6926" BASELINE="584 609 1227 634" HPOS="582" VPOS="582" WIDTH="645" HEIGHT="71">
+            <Shape><Polygon POINTS="1208 605 1187 605 1166 603 1146 603 1125 601 1104 601 1083 601 1062 599 1042 599 1021 599 1000 596 979 596 958 594 938 594 917 594 896 592 875 592 854 590 834 590 813 590 792 588 771 588 750 586 730 586 709 586 688 584 667 584 646 582 626 582 605 582 584 588 584 609 582 634 1223 653 1227 634 1225 605 1208 605"/></Shape>
+            <String CONTENT="tercera casa del cauallo prieto. ⁊ tomar lo a el" HPOS="582" VPOS="582" WIDTH="645" HEIGHT="71"/>
+          </TextLine>
+          <TextLine ID="eSc_line_2d9628d9" TAGREFS="LT6926" BASELINE="584 655 898 673 1231 673" HPOS="582" VPOS="624" WIDTH="649" HEIGHT="74">
+            <Shape><Polygon POINTS="584 655 582 678 642 690 644 690 688 682 692 682 705 682 861 696 863 698 1229 698 1231 673 1231 646 584 624 584 655"/></Shape>
+            <String CONTENT="Rey prieto con el su peon pͥeto si quisiere a lon" HPOS="582" VPOS="624" WIDTH="649" HEIGHT="74"/>
+          </TextLine>
+          <TextLine ID="eSc_line_44ed8474" TAGREFS="LT6926" BASELINE="584 703 1235 721" HPOS="582" VPOS="671" WIDTH="653" HEIGHT="77">
+            <Shape><Polygon POINTS="1231 688 584 671 584 703 582 721 1231 748 1235 721 1235 711 1231 688"/></Shape>
+            <String CONTENT="gar el mate. ¶ El quarto iuego dar la xaq̃" HPOS="582" VPOS="671" WIDTH="653" HEIGHT="77"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1a634fbc" TAGREFS="LT6926" BASELINE="584 740 927 763 1237 767" HPOS="582" VPOS="713" WIDTH="655" HEIGHT="75">
+            <Shape><Polygon POINTS="584 740 582 763 1233 788 1237 767 1237 740 584 713 584 740"/></Shape>
+            <String CONTENT="con el otro peon blanco que esta en la quarta" HPOS="582" VPOS="713" WIDTH="655" HEIGHT="75"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f9c3ecaa" TAGREFS="LT6926" BASELINE="584 784 900 804 1225 809" HPOS="582" VPOS="752" WIDTH="643" HEIGHT="77">
+            <Shape><Polygon POINTS="584 784 582 807 1220 829 1225 809 1225 782 584 752 584 784"/></Shape>
+            <String CONTENT="casa del Roque prieto: o con el que esta en la" HPOS="582" VPOS="752" WIDTH="643" HEIGHT="77"/>
+          </TextLine>
+          <TextLine ID="eSc_line_3dfaf16c" TAGREFS="LT6926" BASELINE="582 829 1231 852" HPOS="580" VPOS="800" WIDTH="651" HEIGHT="71">
+            <Shape><Polygon POINTS="582 829 580 848 1227 871 1231 852 1231 821 582 800 582 829"/></Shape>
+            <String CONTENT="quarta casa del alffil prieto. Tomando el peõ" HPOS="580" VPOS="800" WIDTH="651" HEIGHT="71"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7c6f93ea" TAGREFS="LT6926" BASELINE="582 871 846 888 1241 892" HPOS="580" VPOS="846" WIDTH="661" HEIGHT="67">
+            <Shape><Polygon POINTS="582 871 580 894 1237 913 1241 892 1239 863 582 846 582 871"/></Shape>
+            <String CONTENT="prieto: que tomo el peon blanco que dio xa" HPOS="580" VPOS="846" WIDTH="661" HEIGHT="67"/>
+          </TextLine>
+          <TextLine ID="eSc_line_12836162" TAGREFS="LT6926" BASELINE="584 913 823 929 1233 933" HPOS="582" VPOS="884" WIDTH="651" HEIGHT="68">
+            <Shape><Polygon POINTS="584 913 582 936 1229 952 1233 933 1231 904 584 884 584 913"/></Shape>
+            <String CONTENT="que al Rey prieto en la tercera casa del caua" HPOS="582" VPOS="884" WIDTH="651" HEIGHT="68"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ae138363" TAGREFS="LT6926" BASELINE="582 956 844 973 1231 975" HPOS="580" VPOS="923" WIDTH="651" HEIGHT="77">
+            <Shape><Polygon POINTS="582 956 580 977 1058 1000 1060 1000 1229 992 1231 975 1229 948 582 923 582 956"/></Shape>
+            <String CONTENT="llo pͥeto. Tomara el Rey prieto como quier:" HPOS="580" VPOS="923" WIDTH="651" HEIGHT="77"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8318a280" TAGREFS="LT6926" BASELINE="582 1002 1239 1019" HPOS="580" VPOS="971" WIDTH="659" HEIGHT="73">
+            <Shape><Polygon POINTS="582 1002 580 1019 827 1044 829 1044 1237 1035 1239 1019 1237 981 582 971 582 1002"/></Shape>
+            <String CONTENT="el peon blanco que esta en la segunda casa dł" HPOS="580" VPOS="971" WIDTH="659" HEIGHT="73"/>
+          </TextLine>
+          <TextLine ID="eSc_line_19fd23a3" TAGREFS="LT6926" BASELINE="586 1046 1293 1062" HPOS="584" VPOS="1019" WIDTH="709" HEIGHT="62">
+            <Shape><Polygon POINTS="1272 1042 1262 1023 586 1019 586 1046 584 1064 1289 1081 1293 1062 1293 1025 1272 1023 1272 1042"/></Shape>
+            <String CONTENT="alfferza pͥeta.¶ El quinto iuego darla xaq̃ cõ" HPOS="584" VPOS="1019" WIDTH="709" HEIGHT="62"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b99d5e3c" TAGREFS="LT6926" BASELINE="574 1087 1279 1108" HPOS="572" VPOS="1058" WIDTH="707" HEIGHT="81">
+            <Shape><Polygon POINTS="1266 1077 574 1058 574 1087 572 1116 711 1114 892 1129 925 1131 927 1131 938 1131 996 1123 1275 1139 1279 1108 1279 1100 1266 1077"/></Shape>
+            <String CONTENT="el alffil blãco ẽ la .uii. casa del alfil pͥeto. ⁊ ẽtͣra el Rey" HPOS="572" VPOS="1058" WIDTH="707" HEIGHT="81"/>
+          </TextLine>
+          <TextLine ID="eSc_line_a8636c99" TAGREFS="LT6926" BASELINE="553 1137 1227 1150" HPOS="551" VPOS="1096" WIDTH="676" HEIGHT="72">
+            <Shape><Polygon POINTS="553 1137 551 1162 1223 1168 1227 1150 1225 1114 802 1114 757 1100 752 1100 750 1100 748 1100 742 1100 690 1110 553 1096 553 1137"/></Shape>
+            <String CONTENT="pͥeto en la su segunda casa. ¶ El sexto iuego:" HPOS="551" VPOS="1096" WIDTH="676" HEIGHT="72"/>
+          </TextLine>
+          <TextLine ID="eSc_line_92e4e6a4" TAGREFS="LT6926" BASELINE="582 1179 1233 1193" HPOS="580" VPOS="1150" WIDTH="653" HEIGHT="60">
+            <Shape><Polygon POINTS="582 1179 580 1196 1229 1210 1233 1193 1233 1162 582 1150 582 1179"/></Shape>
+            <String CONTENT="darla xaque con ell otro alffil blanco en la" HPOS="580" VPOS="1150" WIDTH="653" HEIGHT="60"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f4965fa4" TAGREFS="LT6926" BASELINE="584 1220 1225 1237" HPOS="582" VPOS="1191" WIDTH="643" HEIGHT="63">
+            <Shape><Polygon POINTS="584 1220 582 1237 1220 1254 1225 1237 1223 1208 584 1191 584 1220"/></Shape>
+            <String CONTENT="quarta casa del cauallo prieto ⁊ entrara el" HPOS="582" VPOS="1191" WIDTH="643" HEIGHT="63"/>
+          </TextLine>
+          <TextLine ID="eSc_line_46827404" TAGREFS="LT6926" BASELINE="582 1262 1248 1281" HPOS="580" VPOS="1231" WIDTH="668" HEIGHT="66">
+            <Shape><Polygon POINTS="1245 1275 1239 1248 582 1231 582 1262 580 1279 1243 1297 1248 1281 1245 1277 1245 1275"/></Shape>
+            <String CONTENT="Rey prieto en la casa deso alffil. ¶ El seteno" HPOS="580" VPOS="1231" WIDTH="668" HEIGHT="66"/>
+          </TextLine>
+          <TextLine ID="eSc_line_2d08348f" TAGREFS="LT6926" BASELINE="582 1304 1233 1322" HPOS="580" VPOS="1275" WIDTH="653" HEIGHT="66">
+            <Shape><Polygon POINTS="582 1304 580 1322 1229 1341 1233 1322 1231 1293 582 1275 582 1304"/></Shape>
+            <String CONTENT="iuego dar la xaque con el peon blanco: ẽ la" HPOS="580" VPOS="1275" WIDTH="653" HEIGHT="66"/>
+          </TextLine>
+          <TextLine ID="eSc_line_0318c24f" TAGREFS="LT6926" BASELINE="580 1347 1227 1362" HPOS="578" VPOS="1312" WIDTH="649" HEIGHT="75">
+            <Shape><Polygon POINTS="580 1347 578 1366 609 1379 611 1379 613 1379 671 1370 950 1387 952 1387 1225 1381 1227 1362 1225 1333 580 1312 580 1347"/></Shape>
+            <String CONTENT="segunda casa del cauallo prieto.⁊ tomar lo" HPOS="578" VPOS="1312" WIDTH="649" HEIGHT="75"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8ecc43f2" TAGREFS="LT6926" BASELINE="582 1389 1225 1406" HPOS="580" VPOS="1354" WIDTH="645" HEIGHT="68">
+            <Shape><Polygon POINTS="582 1389 580 1406 1220 1422 1225 1406 1223 1376 582 1354 582 1389"/></Shape>
+            <String CONTENT="a el Rey prieto por fuerça. ¶ El ochauo iu" HPOS="580" VPOS="1354" WIDTH="645" HEIGHT="68"/>
+          </TextLine>
+          <TextLine ID="eSc_line_70936d9c" TAGREFS="LT6926" BASELINE="580 1428 1233 1445" HPOS="578" VPOS="1391" WIDTH="655" HEIGHT="71">
+            <Shape><Polygon POINTS="580 1428 578 1447 1229 1462 1233 1445 1233 1414 580 1391 580 1428"/></Shape>
+            <String CONTENT="ego anda con el alffil blanco en la tercera ca" HPOS="578" VPOS="1391" WIDTH="655" HEIGHT="71"/>
+          </TextLine>
+          <TextLine ID="eSc_line_f9a902ba" TAGREFS="LT6926" BASELINE="576 1468 1252 1487" HPOS="574" VPOS="1437" WIDTH="678" HEIGHT="71">
+            <Shape><Polygon POINTS="576 1468 574 1489 1248 1508 1252 1487 1250 1449 576 1437 576 1468"/></Shape>
+            <String CONTENT="sa del Rey blanco: ⁊ dar la xaque del Roque blã" HPOS="574" VPOS="1437" WIDTH="678" HEIGHT="71"/>
+          </TextLine>
+          <TextLine ID="eSc_line_dba95106" TAGREFS="LT6926" BASELINE="576 1514 1229 1530" HPOS="574" VPOS="1476" WIDTH="655" HEIGHT="73">
+            <Shape><Polygon POINTS="576 1514 574 1532 1225 1549 1229 1530 1227 1501 576 1476 576 1514"/></Shape>
+            <String CONTENT="co endescubierto. Si el Rey prieto entͣre en ca" HPOS="574" VPOS="1476" WIDTH="655" HEIGHT="73"/>
+          </TextLine>
+          <TextLine ID="eSc_line_1a12998c" TAGREFS="LT6926" BASELINE="574 1557 1227 1574" HPOS="572" VPOS="1522" WIDTH="655" HEIGHT="71">
+            <Shape><Polygon POINTS="574 1557 572 1580 1223 1593 1227 1574 1225 1539 574 1522 574 1557"/></Shape>
+            <String CONTENT="sa de so Roque: es mate al primero iuego cõ" HPOS="572" VPOS="1522" WIDTH="655" HEIGHT="71"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ac5c7888" TAGREFS="LT6926" BASELINE="574 1601 1245 1616" HPOS="572" VPOS="1572" WIDTH="673" HEIGHT="62">
+            <Shape><Polygon POINTS="574 1601 572 1620 1241 1634 1245 1616 1243 1584 574 1572 574 1601"/></Shape>
+            <String CONTENT="el cauallo blanco en la segunda casa del alffil" HPOS="572" VPOS="1572" WIDTH="673" HEIGHT="62"/>
+          </TextLine>
+          <TextLine ID="eSc_line_0928412d" TAGREFS="LT6926" BASELINE="574 1641 1225 1657" HPOS="572" VPOS="1607" WIDTH="653" HEIGHT="69">
+            <Shape><Polygon POINTS="574 1641 572 1666 1220 1676 1225 1657 1223 1624 574 1607 574 1641"/></Shape>
+            <String CONTENT="prieto. E si entrare en casa de so alffil darla" HPOS="572" VPOS="1607" WIDTH="653" HEIGHT="69"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e4300248" TAGREFS="LT6926" BASELINE="572 1684 1225 1699" HPOS="569" VPOS="1655" WIDTH="656" HEIGHT="63">
+            <Shape><Polygon POINTS="572 1684 569 1707 1220 1718 1225 1699 1223 1670 572 1655 572 1684"/></Shape>
+            <String CONTENT="xaque con el Roque blanco en casa del caual" HPOS="569" VPOS="1655" WIDTH="656" HEIGHT="63"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b96c9fcb" TAGREFS="LT6926" BASELINE="569 1726 1225 1743" HPOS="567" VPOS="1695" WIDTH="658" HEIGHT="66">
+            <Shape><Polygon POINTS="569 1726 567 1745 1220 1761 1225 1743 1223 1707 569 1695 569 1726"/></Shape>
+            <String CONTENT="lo prieto. Si el Rey prieto nolo tomare con so" HPOS="567" VPOS="1695" WIDTH="658" HEIGHT="66"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b4667457" TAGREFS="LT6926" BASELINE="569 1770 1220 1788" HPOS="567" VPOS="1738" WIDTH="653" HEIGHT="67">
+            <Shape><Polygon POINTS="569 1770 567 1786 1216 1805 1220 1788 1218 1749 569 1738 569 1770"/></Shape>
+            <String CONTENT="alffil: aura a entrar en la su segunda casa. ⁊" HPOS="567" VPOS="1738" WIDTH="653" HEIGHT="67"/>
+          </TextLine>
+          <TextLine ID="eSc_line_6327a41e" TAGREFS="LT6926" BASELINE="567 1811 1227 1832" HPOS="565" VPOS="1780" WIDTH="662" HEIGHT="71">
+            <Shape><Polygon POINTS="567 1811 565 1830 1223 1851 1227 1832 1227 1795 567 1780 567 1811"/></Shape>
+            <String CONTENT="sera mate del otro Roque. Pues lo meior es:" HPOS="565" VPOS="1780" WIDTH="662" HEIGHT="71"/>
+          </TextLine>
+          <TextLine ID="eSc_line_57d6b01f" TAGREFS="LT6926" BASELINE="567 1855 1223 1876" HPOS="565" VPOS="1826" WIDTH="658" HEIGHT="73">
+            <Shape><Polygon POINTS="567 1855 565 1874 1218 1899 1223 1876 1223 1840 567 1826 567 1855"/></Shape>
+            <String CONTENT="que lo tome con so alffil prieto.⁊ darla xaq̃" HPOS="565" VPOS="1826" WIDTH="658" HEIGHT="73"/>
+          </TextLine>
+          <TextLine ID="eSc_line_bd7e4aa6" TAGREFS="LT6926" BASELINE="567 1899 1218 1917" HPOS="565" VPOS="1867" WIDTH="653" HEIGHT="73">
+            <Shape><Polygon POINTS="567 1899 565 1917 1214 1940 1218 1917 1216 1890 567 1867 567 1899"/></Shape>
+            <String CONTENT="con ell otro Roque blanco. tomando esse al" HPOS="565" VPOS="1867" WIDTH="653" HEIGHT="73"/>
+          </TextLine>
+          <TextLine ID="eSc_line_eb29c475" TAGREFS="LT6926" BASELINE="569 1944 1212 1957" HPOS="567" VPOS="1911" WIDTH="645" HEIGHT="65">
+            <Shape><Polygon POINTS="569 1944 567 1963 1208 1976 1212 1957 1210 1928 569 1911 569 1944"/></Shape>
+            <String CONTENT="ffil prieta ⁊ entrara el Rey prieto en la su se" HPOS="567" VPOS="1911" WIDTH="645" HEIGHT="65"/>
+          </TextLine>
+          <TextLine ID="eSc_line_702c3bc9" TAGREFS="LT6926" BASELINE="565 1984 1218 1996" HPOS="563" VPOS="1957" WIDTH="655" HEIGHT="60">
+            <Shape><Polygon POINTS="565 1984 563 2009 1214 2017 1218 1996 1218 1963 565 1957 565 1984"/></Shape>
+            <String CONTENT="gunda casa. ⁊ depues dar la xaque con el al" HPOS="563" VPOS="1957" WIDTH="655" HEIGHT="60"/>
+          </TextLine>
+          <TextLine ID="eSc_line_3425c22a" TAGREFS="LT6926" BASELINE="565 2028 1220 2046" HPOS="563" VPOS="1996" WIDTH="657" HEIGHT="67">
+            <Shape><Polygon POINTS="565 2028 563 2046 1216 2063 1220 2046 1220 2015 565 1996 565 2028"/></Shape>
+            <String CONTENT="ffil blanco en la quarta casa del cauallo pͥe" HPOS="563" VPOS="1996" WIDTH="657" HEIGHT="67"/>
+          </TextLine>
+          <TextLine ID="eSc_line_33116490" TAGREFS="LT6926" BASELINE="572 2069 1243 2084" HPOS="569" VPOS="2038" WIDTH="674" HEIGHT="69">
+            <Shape><Polygon POINTS="1237 2048 572 2038 572 2069 569 2088 1239 2107 1243 2084 1241 2075 1237 2048"/></Shape>
+            <String CONTENT="to.⁊ aura a entrar el Rey prieto por fuerça: ẽ" HPOS="569" VPOS="2038" WIDTH="674" HEIGHT="69"/>
+          </TextLine>
+          <TextLine ID="eSc_line_dc3411af" TAGREFS="LT6926" BASELINE="565 2111 1225 2127" HPOS="563" VPOS="2077" WIDTH="662" HEIGHT="69">
+            <Shape><Polygon POINTS="565 2111 563 2129 1220 2146 1225 2127 1225 2094 565 2077 565 2111"/></Shape>
+            <String CONTENT="la su t̾çera casa.⁊ darla mate con el Roq̃ blã" HPOS="563" VPOS="2077" WIDTH="662" HEIGHT="69"/>
+          </TextLine>
+          <TextLine ID="eSc_line_76846552" TAGREFS="LT6926" BASELINE="565 2152 1223 2167" HPOS="563" VPOS="2125" WIDTH="660" HEIGHT="63">
+            <Shape><Polygon POINTS="565 2152 563 2173 1218 2188 1223 2167 1220 2134 565 2125 565 2152"/></Shape>
+            <String CONTENT="co en la tercera casa del cauallo prieto. pues" HPOS="563" VPOS="2125" WIDTH="660" HEIGHT="63"/>
+          </TextLine>
+          <TextLine ID="eSc_line_4455f7a6" TAGREFS="LT6926" BASELINE="563 2194 936 2211 1229 2211" HPOS="561" VPOS="2161" WIDTH="668" HEIGHT="79">
+            <Shape><Polygon POINTS="563 2194 561 2217 1225 2240 1229 2211 1227 2184 563 2161 563 2194"/></Shape>
+            <String CONTENT="lo meior es al Rey prieto por alongar el mat" HPOS="561" VPOS="2161" WIDTH="668" HEIGHT="79"/>
+          </TextLine>
+          <TextLine ID="eSc_line_88ecc8cd" TAGREFS="LT6926" BASELINE="565 2242 1223 2258" HPOS="563" VPOS="2211" WIDTH="660" HEIGHT="68">
+            <Shape><Polygon POINTS="565 2242 563 2260 1218 2279 1223 2258 1220 2227 565 2211 565 2242"/></Shape>
+            <String CONTENT="quandol descubrio el alffil blanco ⁊ dar la xa" HPOS="563" VPOS="2211" WIDTH="660" HEIGHT="68"/>
+          </TextLine>
+          <TextLine ID="eSc_line_ccc2cfe4" TAGREFS="LT6926" BASELINE="563 2285 1216 2300" HPOS="561" VPOS="2256" WIDTH="655" HEIGHT="63">
+            <Shape><Polygon POINTS="563 2285 561 2304 1212 2319 1216 2300 1214 2267 563 2256 563 2285"/></Shape>
+            <String CONTENT="que con el Roque blanco q̃ tomo el Rey prie" HPOS="561" VPOS="2256" WIDTH="655" HEIGHT="63"/>
+          </TextLine>
+          <TextLine ID="eSc_line_d408b8e7" TAGREFS="LT6926" BASELINE="563 2327 1223 2344" HPOS="561" VPOS="2294" WIDTH="662" HEIGHT="68">
+            <Shape><Polygon POINTS="563 2327 561 2352 1218 2362 1223 2344 1220 2312 563 2294 563 2327"/></Shape>
+            <String CONTENT="to el Roque blanco con su alffil prieto. ⁊ sera el" HPOS="561" VPOS="2294" WIDTH="662" HEIGHT="68"/>
+          </TextLine>
+          <TextLine ID="eSc_line_6786d970" TAGREFS="LT6926" BASELINE="565 2371 1220 2385" HPOS="563" VPOS="2335" WIDTH="657" HEIGHT="75">
+            <Shape><Polygon POINTS="565 2371 563 2389 1216 2410 1220 2385 1218 2356 565 2335 565 2371"/></Shape>
+            <String CONTENT="noueno iuego ⁊ dar la xaque con el otro Ro" HPOS="563" VPOS="2335" WIDTH="657" HEIGHT="75"/>
+          </TextLine>
+          <TextLine ID="eSc_line_10b5b333" TAGREFS="LT6926" BASELINE="563 2412 1229 2429" HPOS="561" VPOS="2383" WIDTH="668" HEIGHT="65">
+            <Shape><Polygon POINTS="563 2412 561 2435 1225 2448 1229 2429 1227 2400 563 2383 563 2412"/></Shape>
+            <String CONTENT="que blanco tomãdo esse mismo alffil prieto." HPOS="561" VPOS="2383" WIDTH="668" HEIGHT="65"/>
+          </TextLine>
+          <TextLine ID="eSc_line_d239162a" TAGREFS="LT6926" BASELINE="563 2462 1227 2479" HPOS="561" VPOS="2421" WIDTH="666" HEIGHT="75">
+            <Shape><Polygon POINTS="563 2462 561 2483 1223 2496 1227 2479 1225 2437 563 2421 563 2462"/></Shape>
+            <String CONTENT="Si el Rey prieto entrare en casa de so Ro" HPOS="561" VPOS="2421" WIDTH="666" HEIGHT="75"/>
+          </TextLine>
+          <TextLine ID="eSc_line_0a07b264" TAGREFS="LT6926" BASELINE="555 2510 921 2510 1208 2523" HPOS="553" VPOS="2475" WIDTH="655" HEIGHT="58">
+            <Shape><Polygon POINTS="555 2510 553 2523 1204 2533 1208 2523 1206 2487 555 2475 555 2510"/></Shape>
+            <String CONTENT="que: es mate al primero iuego dandol" HPOS="553" VPOS="2475" WIDTH="655" HEIGHT="58"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e9fcec27" TAGREFS="LT6926" BASELINE="553 2552 1218 2562" HPOS="551" VPOS="2510" WIDTH="667" HEIGHT="98">
+            <Shape><Polygon POINTS="1198 2523 1177 2523 1156 2520 1135 2520 1114 2520 1094 2518 1083 2518 1073 2518 1071 2516 684 2512 678 2512 657 2512 636 2512 615 2512 594 2512 574 2512 553 2510 553 2552 551 2600 624 2602 626 2602 628 2602 636 2600 698 2579 800 2579 838 2597 856 2606 859 2606 861 2608 948 2608 948 2606 950 2606 975 2595 992 2587 998 2595 1000 2595 1000 2597 1002 2597 1004 2597 1006 2597 1025 2595 1077 2585 1087 2593 1092 2597 1092 2600 1094 2600 1096 2600 1098 2600 1216 2591 1218 2562 1216 2520 1200 2518 1198 2523"/></Shape>
+            <String CONTENT="xaque con el cauallo" HPOS="551" VPOS="2510" WIDTH="667" HEIGHT="98"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="923" VPOS="407" WIDTH="264" HEIGHT="90" ID="eSc_textblock_39bc268e" TAGREFS="BT16583">
+          <Shape><Polygon POINTS="1179 416 1187 497 923 497 923 432 1006 407"/></Shape>
+          <TextLine ID="eSc_line_5ee1b86f" TAGREFS="LT6926" BASELINE="929 482 1185 482" HPOS="929" VPOS="407" WIDTH="256" HEIGHT="106">
+            <Shape><Polygon POINTS="1179 453 1162 422 1131 411 1116 411 1096 411 1075 409 1054 409 1050 407 1040 418 1027 409 1025 409 1023 409 1021 409 983 411 971 416 950 422 929 428 929 482 929 499 990 513 992 513 1185 499 1185 482 1181 459 1179 453"/></Shape>
+            <String CONTENT="LIBRO" HPOS="929" VPOS="407" WIDTH="256" HEIGHT="106"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1364" VPOS="582" WIDTH="705" HEIGHT="722" ID="eSc_textblock_f6706ff2" TAGREFS="BT25519">
+          <Shape><Polygon POINTS="1936 590 2028 624 2036 1137 2069 1131 2069 1162 2036 1148 2061 1198 2036 1304 1364 1295 1372 624 1397 599 1688 582"/></Shape>
+          <TextLine ID="eSc_line_0d8fe892" TAGREFS="LT6926" BASELINE="1379 630 2009 638" HPOS="1376" VPOS="582" WIDTH="633" HEIGHT="73">
+            <Shape><Polygon POINTS="1982 609 1961 601 1955 599 1953 599 1953 596 1940 592 1919 588 1917 588 1903 596 1894 588 1878 588 1857 586 1836 586 1815 586 1795 584 1790 584 1765 588 1753 584 1753 584 1732 582 1724 582 1711 594 1686 582 1670 582 1649 584 1645 584 1607 592 1584 586 1566 588 1545 588 1524 590 1503 592 1483 592 1462 594 1441 594 1420 596 1399 596 1383 611 1379 630 1376 646 2005 655 2009 638 1994 613 1982 609"/></Shape>
+            <String CONTENT="blanco en la segunda casa del alffil prieto." HPOS="1376" VPOS="582" WIDTH="633" HEIGHT="73"/>
+          </TextLine>
+          <TextLine ID="eSc_line_90579eed" TAGREFS="LT6926" BASELINE="1387 682 2032 678" HPOS="1385" VPOS="646" WIDTH="647" HEIGHT="61">
+            <Shape><Polygon POINTS="1387 682 1387 707 2030 694 2032 678 2025 646 1385 648 1387 682"/></Shape>
+            <String CONTENT="¶ Pues lo meior es que entre en casa de so" HPOS="1385" VPOS="646" WIDTH="647" HEIGHT="61"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b5377b02" TAGREFS="LT6926" BASELINE="1385 717 2015 725" HPOS="1383" VPOS="686" WIDTH="632" HEIGHT="56">
+            <Shape><Polygon POINTS="1385 717 1383 738 2011 742 2015 725 2013 692 1385 686 1385 717"/></Shape>
+            <String CONTENT="alffil. ¶ El dezeno iuego dar la xaque cõ" HPOS="1383" VPOS="686" WIDTH="632" HEIGHT="56"/>
+          </TextLine>
+          <TextLine ID="eSc_line_6f653b50" TAGREFS="LT6926" BASELINE="1381 763 2034 767" HPOS="1379" VPOS="732" WIDTH="655" HEIGHT="58">
+            <Shape><Polygon POINTS="2025 755 2011 734 1381 732 1381 763 1379 782 2030 790 2034 767 2032 736 2025 734 2025 755"/></Shape>
+            <String CONTENT="esse mismo Roque blanco: en la casa del ca" HPOS="1379" VPOS="732" WIDTH="655" HEIGHT="58"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7cd759b2" TAGREFS="LT6926" BASELINE="1381 802 2023 813" HPOS="1379" VPOS="771" WIDTH="644" HEIGHT="61">
+            <Shape><Polygon POINTS="1381 802 1379 829 2019 832 2023 813 2021 782 1381 771 1381 802"/></Shape>
+            <String CONTENT="uallo prieto.⁊ entrara el Rey pͥeto: en la su" HPOS="1379" VPOS="771" WIDTH="644" HEIGHT="61"/>
+          </TextLine>
+          <TextLine ID="eSc_line_b1e49e69" TAGREFS="LT6926" BASELINE="1381 846 2032 856" HPOS="1379" VPOS="815" WIDTH="653" HEIGHT="66">
+            <Shape><Polygon POINTS="1381 846 1379 869 2028 881 2032 856 2032 823 1381 815 1381 846"/></Shape>
+            <String CONTENT="segunda casa ¶ El onzeno iuego dar la xaq̃" HPOS="1379" VPOS="815" WIDTH="653" HEIGHT="66"/>
+          </TextLine>
+          <TextLine ID="eSc_line_6cd6e787" TAGREFS="LT6926" BASELINE="1381 892 2019 900" HPOS="1379" VPOS="856" WIDTH="640" HEIGHT="63">
+            <Shape><Polygon POINTS="1381 892 1379 908 2015 919 2019 900 2017 869 1381 856 1381 892"/></Shape>
+            <String CONTENT="con el alffil blanco en la quarta casa del ca" HPOS="1379" VPOS="856" WIDTH="640" HEIGHT="63"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8b2e11d8" TAGREFS="LT6926" BASELINE="1381 929 2028 940" HPOS="1379" VPOS="896" WIDTH="649" HEIGHT="67">
+            <Shape><Polygon POINTS="1381 929 1379 954 2023 963 2028 940 2025 906 1381 896 1381 929"/></Shape>
+            <String CONTENT="uallo pͥeto.⁊ entrara el Rey prieto por fuerça" HPOS="1379" VPOS="896" WIDTH="649" HEIGHT="67"/>
+          </TextLine>
+          <TextLine ID="eSc_line_9d546013" TAGREFS="LT6926" BASELINE="1379 973 2042 983" HPOS="1376" VPOS="942" WIDTH="666" HEIGHT="68">
+            <Shape><Polygon POINTS="1379 973 1376 992 2038 1010 2042 983 2040 952 1379 942 1379 973"/></Shape>
+            <String CONTENT="en la su tercera casa⟦⟧ ¶ El dozeno iuego dar" HPOS="1376" VPOS="942" WIDTH="666" HEIGHT="68"/>
+          </TextLine>
+          <TextLine ID="eSc_line_adab570f" TAGREFS="LT6926" BASELINE="1376 1019 2021 1027" HPOS="1374" VPOS="988" WIDTH="647" HEIGHT="64">
+            <Shape><Polygon POINTS="1376 1019 1374 1035 2017 1052 2021 1027 2019 996 1376 988 1376 1019"/></Shape>
+            <String CONTENT="la xaque ⁊ mate con el Roque blanco: en la" HPOS="1374" VPOS="988" WIDTH="647" HEIGHT="64"/>
+          </TextLine>
+          <TextLine ID="eSc_line_7ddad9cd" TAGREFS="LT6926" BASELINE="1374 1060 2019 1073" HPOS="1372" VPOS="1027" WIDTH="647" HEIGHT="65">
+            <Shape><Polygon POINTS="1374 1060 1372 1077 2015 1092 2019 1073 2017 1035 1374 1027 1374 1060"/></Shape>
+            <String CONTENT="tercera casa del cauallo pͥeto. ¶ E si los blã" HPOS="1372" VPOS="1027" WIDTH="647" HEIGHT="65"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e8380754" TAGREFS="LT6926" BASELINE="1374 1106 2019 1119" HPOS="1372" VPOS="1073" WIDTH="647" HEIGHT="64">
+            <Shape><Polygon POINTS="1374 1106 1372 1123 2015 1137 2019 1119 2017 1085 1374 1073 1374 1106"/></Shape>
+            <String CONTENT="cos erraren de dar xaque cada uez al Rey pͥe" HPOS="1372" VPOS="1073" WIDTH="647" HEIGHT="64"/>
+          </TextLine>
+          <TextLine ID="eSc_line_22305218" TAGREFS="LT6926" BASELINE="1374 1150 2013 1160" HPOS="1372" VPOS="1119" WIDTH="641" HEIGHT="60">
+            <Shape><Polygon POINTS="1374 1150 1372 1166 2009 1179 2013 1160 2011 1123 1374 1119 1374 1150"/></Shape>
+            <String CONTENT="to: es el Rey blanco mate al primero iuego" HPOS="1372" VPOS="1119" WIDTH="641" HEIGHT="60"/>
+          </TextLine>
+          <TextLine ID="eSc_line_8e43f607" TAGREFS="LT6926" BASELINE="1374 1196 2028 1206" HPOS="1372" VPOS="1164" WIDTH="656" HEIGHT="59">
+            <Shape><Polygon POINTS="1374 1196 1372 1214 2023 1223 2028 1206 2025 1164 1374 1164 1374 1196"/></Shape>
+            <String CONTENT="con el Roque pͥeto en la segunda casa del alf" HPOS="1372" VPOS="1164" WIDTH="656" HEIGHT="59"/>
+          </TextLine>
+          <TextLine ID="eSc_line_e8edeac4" TAGREFS="LT6926" BASELINE="1372 1237 2028 1254" HPOS="1370" VPOS="1206" WIDTH="658" HEIGHT="66">
+            <Shape><Polygon POINTS="1372 1237 1370 1256 2023 1272 2028 1254 2025 1223 1372 1206 1372 1237"/></Shape>
+            <String CONTENT="fil blanco. ⁊ este es el departimiento deste iu" HPOS="1370" VPOS="1206" WIDTH="658" HEIGHT="66"/>
+          </TextLine>
+          <TextLine ID="eSc_line_48ca6cd1" TAGREFS="LT6926" BASELINE="1374 1283 2028 1289" HPOS="1372" VPOS="1250" WIDTH="656" HEIGHT="102">
+            <Shape><Polygon POINTS="1374 1283 1372 1341 1381 1347 1383 1347 1385 1347 1387 1347 1389 1347 1412 1337 1447 1322 1587 1322 1609 1341 1618 1349 1620 1349 1622 1349 1624 1352 1736 1352 1736 1349 1759 1345 1832 1327 1867 1347 1869 1347 1872 1347 1874 1347 1876 1347 1878 1347 1894 1335 1919 1347 1921 1347 2023 1349 2028 1289 2025 1258 1374 1250 1374 1283"/></Shape>
+            <String CONTENT="ego.⁊ esta es la figura del entablamiento:" HPOS="1372" VPOS="1250" WIDTH="656" HEIGHT="102"/>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1597" VPOS="407" WIDTH="189" HEIGHT="81" ID="eSc_textblock_4e3392f1" TAGREFS="BT16583">
+          <Shape><Polygon POINTS="1786 430 1786 488 1605 488 1597 424 1655 407"/></Shape>
+          <TextLine ID="eSc_line_24973163" TAGREFS="LT6926" BASELINE="1599 472 1790 468" HPOS="1599" VPOS="407" WIDTH="191" HEIGHT="98">
+            <Shape><Polygon POINTS="1784 420 1763 420 1743 418 1722 416 1701 411 1680 409 1678 407 1670 413 1651 407 1639 409 1618 416 1599 461 1599 472 1599 492 1788 505 1790 468 1786 420 1782 418 1784 420"/></Shape>
+            <String CONTENT="DEL" HPOS="1599" VPOS="407" WIDTH="191" HEIGHT="98"/>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
