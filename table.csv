@@ -1,30 +1,39 @@
-char,name,replacement,allow,regex
-l’,LATIN SMALL LETTER L WITH STROKE,ł,,
-s̵,S STROKE TO Single letter,ẜ,,
-[[,Squares,⟦,,
-]],Squares,⟧,,
-V,LATIN CAPITAL LETTER V,U,,
-v,LATIN SMALL LETTER V,u,,
-J,LATIN CAPITAL LETTER J,I,,
-j,LATIN SMALL LETTER J,i,,
-ᵛ,LATIN SUPERSCRIPT NON COMBINING V,ᵘ,,
-ʲ,LATIN SUPERSCRIPT NON COMBINING V,ⁱ,,
-\u036E,Combining V,\u0367,,true
-\uF030,Combining J,\u0365,,true
-[0-9],All arabic digits,,true,true
-[a-ik-uw-zA-IK-UW-Z],All Latin letters (caps inc.),,true,true
-[\u0363-\u036D\u036F\u1DDA\u1DDC\u1DDD\u1DE0\u1DE4\u1DE6\u1DE8\u1DEB\u1DEE\u1DF1\uF02B\uF030\uF033],All combining latin letter except u/j,,true,true
-[ᵃᵇᶜᵈᵉᶠᵍʰⁱᵏˡᵐⁿᵒᵖ𐞥ʳˢᵗᵘʷˣʸᶻ⁰¹²³⁴⁵⁶⁷⁸⁹],All superscript non combining Latin letters,,true,true
-⟦,MATHEMATICAL LEFT WHITE SQUARE BRACKET,,true,
-⟧,MATHEMATICAL RIGHT WHITE SQUARE BRACKET,,true,
-[ꝭꝵ᷑ꝰ̶̧̇ꝯ÷⁊ħłꝈØꝓꝒꝑꝐꝙꝘꝗƀẜđꝟ&♡℥𐆒],Base medieval abbreviation,,true,true
-[\u0303\u033e],TILDES,,true,true
-[./:⟦⟧‸\-¶],Allowed ponctuation,,true,true
-°,DEGREE SIGN,ᵒ,,
-⁋,REVERSED PILCROW SIGN,¶,,
-",",COMMA,.,,
-;,SEMI-COLON,:,,
-[\u0301\u0308],Accents from modern manuscripts,,true,true
-ᗞ,CANADIAN SYLLABIC D,D,,
-о,CYRILLIC O,o,,
-¬,NOT SIGN,-,,
+char,replacement,regex,allow,name
+l’,ł,,,LATIN SMALL LETTER L WITH STROKE
+s̵,ẜ,,,S STROKE TO Single letter
+[[,⟦,,,Squares
+]],⟧,,,Squares
+V,U,,,LATIN CAPITAL LETTER V
+v,u,,,LATIN SMALL LETTER V
+J,I,,,LATIN CAPITAL LETTER J
+j,i,,,LATIN SMALL LETTER J
+ᵛ,ᵘ,,,LATIN SUPERSCRIPT NON COMBINING V
+ʲ,ⁱ,,,LATIN SUPERSCRIPT NON COMBINING V
+\u036E,\u0367,true,,Combining V
+\uF030,\u0365,true,,Combining J
+[0-9],,true,true,All arabic digits
+[a-ik-uw-zA-IK-UW-Z],,true,true,All Latin letters (caps inc.)
+[\u0363-\u036D\u036F\u1DDA\u1DDC\u1DDD\u1DE0\u1DE4\u1DE6\u1DE8\u1DEB\u1DEE\u1DF1\uF02B\uF030\uF033],,true,true,All combining latin letter except u/j
+[ᵃᵇᶜᵈᵉᶠᵍʰⁱᵏˡᵐⁿᵒᵖ𐞥ʳˢᵗᵘʷˣʸᶻ⁰¹²³⁴⁵⁶⁷⁸⁹],,true,true,All superscript non combining Latin letters
+⟦,,,true,MATHEMATICAL LEFT WHITE SQUARE BRACKET
+⟧,,,true,MATHEMATICAL RIGHT WHITE SQUARE BRACKET
+[ꝭꝵ᷑ꝰ̶̧̇ꝯ÷⁊ħłꝈØꝓꝒꝑꝐꝙꝘꝗƀẜđꝟ&♡℥𐆒],,true,true,Base medieval abbreviation
+[\u0303\u033e],,true,true,TILDES
+[./:⟦⟧‸\-¶],,true,true,Allowed ponctuation
+°,ᵒ,,,DEGREE SIGN
+⁋,¶,,,REVERSED PILCROW SIGN
+",",.,,,COMMA
+;,:,,,SEMI-COLON
+[\u0301\u0308],,true,true,Accents from modern manuscripts
+ᗞ,D,,,CANADIAN SYLLABIC D
+о,o,,,CYRILLIC O
+¬,-,,,NOT SIGN
+ᗅ,A,,,
+ᑕ,C,,,
+β,ss,,,
+"""",,,true,
+ꞧ,,,true,
+[()],,true,true,
+Ꝯ,,,true,
+Δ,,,true,
+ꝺ,d,,,
